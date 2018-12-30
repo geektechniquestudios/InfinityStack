@@ -1,0 +1,838 @@
+﻿Log file open, 03/31/18 01:35:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: StackerGame
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2004382409) SRandInit(-2004382409).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.271002
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.753s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-2MMUPG9 (169.254.84.176:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.31-05.35.49:724][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.31-05.35.49:724][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.31-05.35.49:737][  0]LogInit: Computer: DESKTOP-2MMUPG9
+[2018.03.31-05.35.49:737][  0]LogInit: User: KineticRelease
+[2018.03.31-05.35.49:737][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.31-05.35.49:737][  0]LogInit: High frequency timer resolution =2.742186 MHz
+[2018.03.31-05.35.49:737][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2018.03.31-05.35.49:738][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.31-05.35.49:738][  0]LogMemory: Process Physical Memory: 277.32 MB used, 277.32 MB peak
+[2018.03.31-05.35.49:738][  0]LogMemory: Process Virtual Memory: 264.77 MB used, 264.77 MB peak
+[2018.03.31-05.35.49:738][  0]LogMemory: Physical Memory: 6803.90 MB used,  9397.60 MB free, 16201.50 MB total
+[2018.03.31-05.35.49:738][  0]LogMemory: Virtual Memory: 693.36 MB used,  9397.60 MB free, 134217728.00 MB total
+[2018.03.31-05.35.49:754][  0]LogInit: Using OS detected language (en-US).
+[2018.03.31-05.35.49:754][  0]LogInit: Using OS detected locale (en-US).
+[2018.03.31-05.35.49:756][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.31-05.35.50:143][  0]LogStreaming: Display: Took  0.390s to EndInitTextLocalization.
+[2018.03.31-05.35.50:144][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.31-05.35.50:179][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.03.31-05.35.50:179][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.03.31-05.35.50:389][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.31-05.35.50:430][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.03.31-05.35.50:430][  0]LogD3D11RHI:       4031/0/8100 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.03.31-05.35.50:436][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.03.31-05.35.50:436][  0]LogD3D11RHI:       128/0/8100 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.03.31-05.35.50:438][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.31-05.35.50:438][  0]LogD3D11RHI:       0/0/8100 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.31-05.35.50:438][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.31-05.35.50:444][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.31-05.35.50:444][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.03.31-05.35.50:444][  0]LogWindows: EnumDisplayDevices:
+[2018.03.31-05.35.50:444][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.03.31-05.35.50:444][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.03.31-05.35.50:444][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.03.31-05.35.50:444][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.31-05.35.50:444][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.03.31-05.35.50:444][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.31-05.35.50:444][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.31-05.35.50:444][  0]LogRHI: Texture pool is 2821 MB (70% of 4031 MB)
+[2018.03.31-05.35.50:473][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.03.31-05.35.50:473][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.31-05.35.50:483][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.31-05.35.50:485][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Intermediate/Shaders/WorkingDirectory/10260/).
+[2018.03.31-05.35.50:485][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kinetic Release/AppData/Local/Temp/UnrealShaderWorkingDir/D89BDE834D0FE314569B258BC621D8D3/'.
+[2018.03.31-05.35.50:769][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.31-05.35.50:783][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.31-05.35.50:796][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.31-05.35.50:809][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.31-05.35.50:823][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.31-05.35.50:836][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.31-05.35.50:849][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.31-05.35.50:862][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.31-05.35.50:869][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.31-05.35.50:881][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.31-05.35.50:893][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.31-05.35.50:905][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.31-05.35.50:917][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.03.31-05.35.50:928][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.31-05.35.50:939][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.31-05.35.50:963][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.31-05.35.50:963][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.31-05.35.50:975][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.31-05.35.50:976][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.31-05.35.51:013][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.31-05.35.51:024][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.31-05.35.51:036][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.31-05.35.51:048][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.31-05.35.51:060][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.31-05.35.51:073][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.31-05.35.51:073][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.31-05.35.51:164][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.03.31-05.35.51:164][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.03.31-05.35.51:164][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.31-05.35.51:808][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.31-05.35.51:866][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/Kinetic Release/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.03.31-05.35.51:866][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kinetic Release/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.03.31-05.35.51:868][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.31-05.35.51:868][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.31-05.35.51:868][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.31-05.35.51:868][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.31-05.35.51:882][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.31-05.35.51:894][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kinetic Release/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.31-05.35.51:905][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.31-05.35.51:905][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.31-05.35.51:906][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.31-05.35.51:906][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.31-05.35.52:017][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2018.03.31-05.35.52:307][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.31-05.35.52:444][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.31-05.35.52:446][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.31-05.35.52:446][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.31-05.35.52:446][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.31-05.35.52:446][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.31-05.35.52:446][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.31-05.35.52:475][  0]LogNetVersion: StackerGame , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1237121494)
+[2018.03.31-05.35.52:932][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.103122 seconds
+[2018.03.31-05.35.52:938][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.03.31-05.35.52:938][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.03.31-05.35.52:938][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.31-05.35.54:416][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.31-05.35.54:442][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.31-05.35.54:732][  0]SourceControl: Source control is disabled
+[2018.03.31-05.35.54:733][  0]SourceControl: Source control is disabled
+[2018.03.31-05.35.54:747][  0]SourceControl: Source control is disabled
+[2018.03.31-05.35.54:760][  0]SourceControl: Source control is disabled
+[2018.03.31-05.35.55:154][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.31-05.35.55:281][  0]LogOcInput: OculusInput pre-init called
+[2018.03.31-05.35.55:373][  0]LogEngine: Initializing Engine...
+[2018.03.31-05.35.55:375][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.31-05.35.55:377][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.31-05.35.55:377][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.31-05.35.55:578][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.31-05.35.55:593][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.31-05.35.56:651][  0]LogInit: FAudioDevice initialized.
+[2018.03.31-05.35.56:717][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/Kinetic Release/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.03.31-05.35.56:732][  0]LogInit: Texture streaming: Enabled
+[2018.03.31-05.35.56:763][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.31-05.35.56:805][  0]LogInit: Transaction tracking system initialized
+[2018.03.31-05.35.56:832][  0]BlueprintLog: New page: Editor Load
+[2018.03.31-05.35.56:932][  0]LocalizationService: Localization service is disabled
+[2018.03.31-05.35.57:347][  0]LogConsoleResponse: Display: 
+[2018.03.31-05.35.57:506][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.31-05.35.57:506][  0]LogCook: Display: Mobile HDR setting 0
+[2018.03.31-05.35.57:506][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.31-05.35.57:506][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.31-05.35.57:506][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.31-05.35.57:874][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Content/' took 0.01s
+[2018.03.31-05.35.57:874][  0]SourceControl: Source control is disabled
+[2018.03.31-05.35.57:874][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Content/Maps/StackMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.31-05.35.57:874][  0]LightingResults: New page: Lighting Build
+[2018.03.31-05.35.57:877][  0]MapCheck: New page: Map Check
+[2018.03.31-05.35.57:877][  0]LightingResults: New page: Lighting Build
+[2018.03.31-05.35.58:362][  0]LogAIModule: Creating AISystem for world StackMap
+[2018.03.31-05.35.58:368][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.31-05.35.58:384][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.31-05.35.58:436][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 51.491ms to complete.
+[2018.03.31-05.35.58:436][  0]LogFileHelpers: Loading map 'StackMap' took 0.562
+[2018.03.31-05.35.58:569][  0]LogCollectionManager: Loaded 0 collections in 0.001547 seconds
+[2018.03.31-05.35.58:611][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Collections/' took 0.01s
+[2018.03.31-05.35.58:611][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Content/Developers/KineticRelease/Collections/' took 0.01s
+[2018.03.31-05.35.58:611][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Content/Collections/' took 0.01s
+[2018.03.31-05.35.58:611][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.31-05.35.58:620][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2452 classes and 558 folders.
+[2018.03.31-05.35.58:628][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.31-05.35.58:668][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.31-05.35.58:673][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.31-05.35.58:691][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.31-05.35.58:694][  0]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.31-05.35.58:701][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.31-05.35.58:820][  0]LogRenderer: Reallocating scene render targets to support 952x416 Format 9 NumSamples 1 (Frame:1).
+[2018.03.31-05.35.58:962][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.03.31-05.35.58:963][  0]LogLoad: (Engine Initialization) Total time: 11.18 seconds
+[2018.03.31-05.35.58:963][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.31-05.35.59:011][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.03.31-05.35.59:161][  1]LogAssetRegistry: Asset discovery search completed in 7.1656 seconds
+[2018.03.31-05.35.59:163][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.31-05.35.59:163][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000054 seconds (updated 0 objects)
+[2018.03.31-05.36.00:847][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-05.36.23:166][905]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.03.31-05.36.23:452][905]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.03.31-05.36.24:188][905]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.31-05.36.24:508][906]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.31-05.47.26:171][397]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StackMap' took 0.026
+[2018.03.31-05.47.26:173][397]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/StackSpawner] ([1] browsable assets)...
+[2018.03.31-05.47.26:173][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/StackSpawner]
+[2018.03.31-05.47.26:376][397]LogSavePackage: Save=178.35ms
+[2018.03.31-05.47.26:376][397]LogSavePackage: Moving '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/StackSpawner_Auto1EC0BBE314EB51BFD6F8A3B892ED5AD10.tmp' to '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Blueprints/StackSpawner_Auto1.uasset'
+[2018.03.31-05.47.26:380][397]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Blueprints/StackSpawner_Auto1.uasset
+[2018.03.31-05.47.26:380][397]LogFileHelpers: Auto-saving content packages took 0.208
+[2018.03.31-05.51.06:833][280]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.03.31-05.51.23:672][290]BlueprintLog: New page: Compile SaveGameBP
+[2018.03.31-05.57.24:925][233]BlueprintLog: New page: Compile SaveGameBP
+[2018.03.31-06.05.26:044][530]BlueprintLog: New page: Compile StackSpawner
+[2018.03.31-06.09.06:608][340]LogSavePackage: Save=98.04ms
+[2018.03.31-06.09.06:608][340]LogSavePackage: Moving '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/StackMap_Auto29D00663D4465185B07BF04BA54E726CF.tmp' to '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Maps/StackMap_Auto2.umap'
+[2018.03.31-06.09.06:610][340]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Maps/StackMap_Auto2.umap
+[2018.03.31-06.09.06:615][340]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StackMap' took 0.155
+[2018.03.31-06.09.06:615][340]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.155
+[2018.03.31-06.09.06:617][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/StackSpawner] ([1] browsable assets)...
+[2018.03.31-06.09.06:617][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/StackSpawner]
+[2018.03.31-06.09.06:809][340]LogSavePackage: Save=176.79ms
+[2018.03.31-06.09.06:809][340]LogSavePackage: Moving '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/StackSpawner_Auto264915EDE4786648679A656A3B1A735C9.tmp' to '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Blueprints/StackSpawner_Auto2.uasset'
+[2018.03.31-06.09.06:811][340]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Blueprints/StackSpawner_Auto2.uasset
+[2018.03.31-06.09.06:812][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/SaveGameBP] ([1] browsable assets)...
+[2018.03.31-06.09.06:812][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SaveGameBP]
+[2018.03.31-06.09.06:830][340]LogSavePackage: Save=7.05ms
+[2018.03.31-06.09.06:831][340]LogSavePackage: Moving '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/SaveGameBP_Auto27888A87F49593BA0E563339821FDDCA9.tmp' to '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Blueprints/SaveGameBP_Auto2.uasset'
+[2018.03.31-06.09.06:832][340]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Blueprints/SaveGameBP_Auto2.uasset
+[2018.03.31-06.09.06:832][340]LogFileHelpers: Auto-saving content packages took 0.216
+[2018.03.31-06.09.17:190][953]BlueprintLog: New page: Compile StackSpawner
+[2018.03.31-06.10.39:990][671]LogEditorTransaction: Undo Move Nodes
+[2018.03.31-06.19.30:762][871]LogEditorTransaction: Undo Move Node
+[2018.03.31-06.19.31:667][911]LogEditorTransaction: Undo Create Reroute Node
+[2018.03.31-06.19.34:384][ 58]LogEditorTransaction: Undo Create Pin Link
+[2018.03.31-06.21.44:891][679]LogSavePackage: Save=95.61ms
+[2018.03.31-06.21.44:891][679]LogSavePackage: Moving '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/StackMap_Auto3682E45EA4D73D080F131879D7C127C7D.tmp' to '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Maps/StackMap_Auto3.umap'
+[2018.03.31-06.21.44:894][679]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Maps/StackMap_Auto3.umap
+[2018.03.31-06.21.44:896][679]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StackMap' took 0.166
+[2018.03.31-06.21.44:896][679]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.166
+[2018.03.31-06.21.44:899][679]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/StackSpawner] ([1] browsable assets)...
+[2018.03.31-06.21.44:899][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/StackSpawner]
+[2018.03.31-06.21.45:108][679]LogSavePackage: Save=191.64ms
+[2018.03.31-06.21.45:108][679]LogSavePackage: Moving '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/StackSpawner_Auto36F96DC154DD1BA81F9AE33824A7F317E.tmp' to '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Blueprints/StackSpawner_Auto3.uasset'
+[2018.03.31-06.21.45:110][679]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Blueprints/StackSpawner_Auto3.uasset
+[2018.03.31-06.21.45:110][679]LogFileHelpers: Auto-saving content packages took 0.212
+[2018.03.31-06.22.21:173][837]BlueprintLog: New page: Compile SaveGameBP
+[2018.03.31-06.22.23:588][971]BlueprintLog: New page: Compile StackSpawner
+[2018.03.31-06.24.01:653][393]LogEditorTransaction: Undo Add Node
+[2018.03.31-06.32.19:243][ 17]LogSavePackage: Save=96.94ms
+[2018.03.31-06.32.19:243][ 17]LogSavePackage: Moving '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/StackMap_Auto4406BCDAD495BC1FC9FA88280881A0544.tmp' to '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Maps/StackMap_Auto4.umap'
+[2018.03.31-06.32.19:245][ 17]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Maps/StackMap_Auto4.umap
+[2018.03.31-06.32.19:248][ 17]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StackMap' took 0.159
+[2018.03.31-06.32.19:248][ 17]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.159
+[2018.03.31-06.32.19:250][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/StackSpawner] ([1] browsable assets)...
+[2018.03.31-06.32.19:250][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/StackSpawner]
+[2018.03.31-06.32.19:457][ 17]LogSavePackage: Save=190.95ms
+[2018.03.31-06.32.19:457][ 17]LogSavePackage: Moving '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/StackSpawner_Auto4675C53BD4E789128E3145986C40208C4.tmp' to '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Blueprints/StackSpawner_Auto4.uasset'
+[2018.03.31-06.32.19:459][ 17]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Blueprints/StackSpawner_Auto4.uasset
+[2018.03.31-06.32.19:459][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/SaveGameBP] ([1] browsable assets)...
+[2018.03.31-06.32.19:459][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SaveGameBP]
+[2018.03.31-06.32.19:478][ 17]LogSavePackage: Save=6.67ms
+[2018.03.31-06.32.19:478][ 17]LogSavePackage: Moving '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/SaveGameBP_Auto407B72FC749A2807C0EC59BAF04F846E1.tmp' to '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Blueprints/SaveGameBP_Auto4.uasset'
+[2018.03.31-06.32.19:480][ 17]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Blueprints/SaveGameBP_Auto4.uasset
+[2018.03.31-06.32.19:480][ 17]LogFileHelpers: Auto-saving content packages took 0.231
+[2018.03.31-06.34.41:881][168]BlueprintLog: New page: Compile StackSpawner
+[2018.03.31-06.38.34:427][711]BlueprintLog: New page: Compile StackSpawner
+[2018.03.31-06.40.16:388][634]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.31-06.41.17:525][255]BlueprintLog: New page: Compile SaveGameBP
+[2018.03.31-06.42.15:023][672]BlueprintLog: New page: Compile OptionsMenu
+[2018.03.31-06.43.29:168][ 54]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.31-06.43.29:193][ 54]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.43.29:193][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.31-06.43.29:195][ 54]PIE: New page: PIE session: StackMap (Mar 30, 2018, 10:43:29 PM)
+[2018.03.31-06.43.29:195][ 54]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2018.03.31-06.43.29:198][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002568s)
+[2018.03.31-06.43.29:198][ 54]LogAIModule: Creating AISystem for world StackMap
+[2018.03.31-06.43.29:199][ 54]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2018.03.31-06.43.29:199][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.003725s)
+[2018.03.31-06.43.29:224][ 54]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.31-06.43.29:237][ 54]LogInit: FAudioDevice initialized.
+[2018.03.31-06.43.29:290][ 54]LogLoad: Game class is 'GameModeBase'
+[2018.03.31-06.43.29:292][ 54]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2018.03.31-02.43.29
+[2018.03.31-06.43.29:305][ 54]LogWorld: Bringing up level for play took: 0.013243
+[2018.03.31-06.43.29:313][ 54]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.03.31-06.43.29:344][ 54]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 0.409
+[2018.03.31-06.43.29:344][ 54]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.43.32:010][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.43.35:827][421]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.43.35:827][421]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[0] invalid
+[2018.03.31-06.43.35:827][421]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.43.35:827][421]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[1] invalid
+[2018.03.31-06.43.35:828][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.43.43:244][866]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.43.43:245][866]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[0] invalid
+[2018.03.31-06.43.43:245][866]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.43.43:245][866]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[1] invalid
+[2018.03.31-06.43.45:728][ 15]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.43.45:728][ 15]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[0] invalid
+[2018.03.31-06.43.45:728][ 15]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.43.45:728][ 15]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[1] invalid
+[2018.03.31-06.43.48:245][166]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.43.48:245][166]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[0] invalid
+[2018.03.31-06.43.48:245][166]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.43.48:245][166]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[1] invalid
+[2018.03.31-06.43.50:778][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.43.50:778][318]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[0] invalid
+[2018.03.31-06.43.50:778][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.43.50:778][318]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[1] invalid
+[2018.03.31-06.43.53:328][471]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.43.53:328][471]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[0] invalid
+[2018.03.31-06.43.53:328][471]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.43.53:328][471]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[1] invalid
+[2018.03.31-06.43.55:895][625]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.43.55:895][625]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[0] invalid
+[2018.03.31-06.43.55:895][625]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.43.55:895][625]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[1] invalid
+[2018.03.31-06.44.01:163][941]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.44.01:252][941]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.44.07:101][290]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.31-06.44.07:127][290]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.44.07:127][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.31-06.44.07:127][290]PIE: New page: PIE session: StackMap (Mar 30, 2018, 10:44:07 PM)
+[2018.03.31-06.44.07:127][290]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2018.03.31-06.44.07:129][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002127s)
+[2018.03.31-06.44.07:130][290]LogAIModule: Creating AISystem for world StackMap
+[2018.03.31-06.44.07:130][290]LogPlayLevel: PIE: World Init took: (0.000988s)
+[2018.03.31-06.44.07:131][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.003247s)
+[2018.03.31-06.44.07:157][290]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.31-06.44.07:167][290]LogInit: FAudioDevice initialized.
+[2018.03.31-06.44.07:200][290]LogLoad: Game class is 'GameModeBase'
+[2018.03.31-06.44.07:201][290]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2018.03.31-02.44.07
+[2018.03.31-06.44.07:201][290]LogWorld: Bringing up level for play took: 0.000476
+[2018.03.31-06.44.07:206][290]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 0.271
+[2018.03.31-06.44.07:206][290]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.44.09:318][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.44.32:509][724]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.44.32:509][724]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[0] invalid
+[2018.03.31-06.44.32:509][724]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.44.32:509][724]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[1] invalid
+[2018.03.31-06.44.32:510][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.44.33:926][809]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.44.33:926][809]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[0] invalid
+[2018.03.31-06.44.33:926][809]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.44.33:926][809]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[1] invalid
+[2018.03.31-06.44.35:226][887]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.44.35:226][887]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[0] invalid
+[2018.03.31-06.44.35:226][887]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.44.35:226][887]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[1] invalid
+[2018.03.31-06.44.36:522][964]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner'!
+[2018.03.31-06.44.38:988][112]LogNet: Browse: /Game/Maps/StackMap
+[2018.03.31-06.44.38:988][112]LogLoad: LoadMap: /Game/Maps/StackMap
+[2018.03.31-06.44.39:012][112]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2018.03.31-06.44.39:014][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001789s)
+[2018.03.31-06.44.39:015][112]LogAIModule: Creating AISystem for world StackMap
+[2018.03.31-06.44.39:015][112]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2018.03.31-06.44.39:015][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.003130s)
+[2018.03.31-06.44.39:015][112]LogLoad: Game class is 'GameModeBase'
+[2018.03.31-06.44.39:016][112]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2018.03.31-02.44.39
+[2018.03.31-06.44.39:017][112]LogWorld: Bringing up level for play took: 0.000585
+[2018.03.31-06.44.39:017][112]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.31-06.44.39:022][112]LogLoad: Took 0.033603 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2018.03.31-06.44.41:905][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.44.42:889][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.44.56:524][162]LogNet: Browse: /Game/Maps/StackMap
+[2018.03.31-06.44.56:524][162]LogLoad: LoadMap: /Game/Maps/StackMap
+[2018.03.31-06.44.56:548][162]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2018.03.31-06.44.56:550][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001818s)
+[2018.03.31-06.44.56:551][162]LogAIModule: Creating AISystem for world StackMap
+[2018.03.31-06.44.56:551][162]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2018.03.31-06.44.56:551][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.003049s)
+[2018.03.31-06.44.56:551][162]LogLoad: Game class is 'GameModeBase'
+[2018.03.31-06.44.56:553][162]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2018.03.31-02.44.56
+[2018.03.31-06.44.56:553][162]LogWorld: Bringing up level for play took: 0.000629
+[2018.03.31-06.44.56:553][162]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.31-06.44.56:558][162]LogLoad: Took 0.033921 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2018.03.31-06.44.58:957][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.44.59:361][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.44.59:560][342]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner'!
+[2018.03.31-06.45.02:342][509]LogNet: Browse: /Game/Maps/StackMap
+[2018.03.31-06.45.02:342][509]LogLoad: LoadMap: /Game/Maps/StackMap
+[2018.03.31-06.45.02:368][509]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2018.03.31-06.45.02:370][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001881s)
+[2018.03.31-06.45.02:370][509]LogAIModule: Creating AISystem for world StackMap
+[2018.03.31-06.45.02:371][509]LogPlayLevel: PIE: World Init took: (0.000970s)
+[2018.03.31-06.45.02:371][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.003004s)
+[2018.03.31-06.45.02:371][509]LogLoad: Game class is 'GameModeBase'
+[2018.03.31-06.45.02:372][509]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2018.03.31-02.45.02
+[2018.03.31-06.45.02:372][509]LogWorld: Bringing up level for play took: 0.000528
+[2018.03.31-06.45.02:373][509]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.31-06.45.02:377][509]LogLoad: Took 0.035256 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2018.03.31-06.45.03:310][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.45.04:361][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.45.06:228][740]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.45.06:228][740]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[0] invalid
+[2018.03.31-06.45.06:228][740]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.45.06:228][740]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[1] invalid
+[2018.03.31-06.45.10:062][970]LogNet: Browse: /Game/Maps/StackMap
+[2018.03.31-06.45.10:063][970]LogLoad: LoadMap: /Game/Maps/StackMap
+[2018.03.31-06.45.10:086][970]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2018.03.31-06.45.10:088][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001813s)
+[2018.03.31-06.45.10:088][970]LogAIModule: Creating AISystem for world StackMap
+[2018.03.31-06.45.10:089][970]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2018.03.31-06.45.10:089][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.002952s)
+[2018.03.31-06.45.10:089][970]LogLoad: Game class is 'GameModeBase'
+[2018.03.31-06.45.10:091][970]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2018.03.31-02.45.10
+[2018.03.31-06.45.10:091][970]LogWorld: Bringing up level for play took: 0.000787
+[2018.03.31-06.45.10:091][970]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.31-06.45.10:095][970]LogLoad: Took 0.032998 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2018.03.31-06.45.11:361][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.45.21:913][679]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.45.21:913][679]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[0] invalid
+[2018.03.31-06.45.21:913][679]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.45.21:913][679]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[1] invalid
+[2018.03.31-06.45.21:913][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.45.23:097][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.45.23:097][750]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[0] invalid
+[2018.03.31-06.45.23:097][750]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.45.23:097][750]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[1] invalid
+[2018.03.31-06.45.24:130][812]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.45.24:130][812]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[0] invalid
+[2018.03.31-06.45.24:130][812]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.45.24:130][812]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[1] invalid
+[2018.03.31-06.45.24:963][862]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.45.24:964][862]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[0] invalid
+[2018.03.31-06.45.24:964][862]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.45.24:964][862]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[1] invalid
+[2018.03.31-06.45.27:281][  1]LogNet: Browse: /Game/Maps/StackMap
+[2018.03.31-06.45.27:282][  1]LogLoad: LoadMap: /Game/Maps/StackMap
+[2018.03.31-06.45.27:305][  1]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2018.03.31-06.45.27:307][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001887s)
+[2018.03.31-06.45.27:308][  1]LogAIModule: Creating AISystem for world StackMap
+[2018.03.31-06.45.27:308][  1]LogPlayLevel: PIE: World Init took: (0.001069s)
+[2018.03.31-06.45.27:308][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.003218s)
+[2018.03.31-06.45.27:308][  1]LogLoad: Game class is 'GameModeBase'
+[2018.03.31-06.45.27:310][  1]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2018.03.31-02.45.27
+[2018.03.31-06.45.27:310][  1]LogWorld: Bringing up level for play took: 0.000660
+[2018.03.31-06.45.27:310][  1]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.31-06.45.27:314][  1]LogLoad: Took 0.032955 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2018.03.31-06.45.28:430][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.45.29:382][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.45.33:983][401]LogNet: Browse: /Game/Maps/StackMap
+[2018.03.31-06.45.33:983][401]LogLoad: LoadMap: /Game/Maps/StackMap
+[2018.03.31-06.45.34:005][401]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2018.03.31-06.45.34:007][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001761s)
+[2018.03.31-06.45.34:008][401]LogAIModule: Creating AISystem for world StackMap
+[2018.03.31-06.45.34:008][401]LogPlayLevel: PIE: World Init took: (0.001078s)
+[2018.03.31-06.45.34:008][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.003011s)
+[2018.03.31-06.45.34:008][401]LogLoad: Game class is 'GameModeBase'
+[2018.03.31-06.45.34:010][401]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2018.03.31-02.45.34
+[2018.03.31-06.45.34:010][401]LogWorld: Bringing up level for play took: 0.000706
+[2018.03.31-06.45.34:010][401]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.31-06.45.34:015][401]LogLoad: Took 0.031837 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2018.03.31-06.45.51:041][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.45.51:141][428]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.45.51:205][428]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.46.20:583][142]LogSavePackage: Save=94.71ms
+[2018.03.31-06.46.20:583][142]LogSavePackage: Moving '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/StackMap_Auto59763D576430D4F485E0B968DE1EBDFD0.tmp' to '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Maps/StackMap_Auto5.umap'
+[2018.03.31-06.46.20:586][142]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Maps/StackMap_Auto5.umap
+[2018.03.31-06.46.20:589][142]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StackMap' took 0.150
+[2018.03.31-06.46.20:589][142]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.150
+[2018.03.31-06.46.20:591][142]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/StackSpawner] ([1] browsable assets)...
+[2018.03.31-06.46.20:592][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/StackSpawner]
+[2018.03.31-06.46.20:799][142]LogSavePackage: Save=190.79ms
+[2018.03.31-06.46.20:800][142]LogSavePackage: Moving '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/StackSpawner_Auto52E4DC02A4B5B3130A436D58A99A1DD54.tmp' to '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Blueprints/StackSpawner_Auto5.uasset'
+[2018.03.31-06.46.20:802][142]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Blueprints/StackSpawner_Auto5.uasset
+[2018.03.31-06.46.20:802][142]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/SaveGameBP] ([1] browsable assets)...
+[2018.03.31-06.46.20:802][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SaveGameBP]
+[2018.03.31-06.46.20:822][142]LogSavePackage: Save=6.24ms
+[2018.03.31-06.46.20:822][142]LogSavePackage: Moving '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/SaveGameBP_Auto5DC46A6D1441A7110FBD74580817752AA.tmp' to '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Blueprints/SaveGameBP_Auto5.uasset'
+[2018.03.31-06.46.20:823][142]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Blueprints/SaveGameBP_Auto5.uasset
+[2018.03.31-06.46.20:824][142]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/OptionsMenu] ([1] browsable assets)...
+[2018.03.31-06.46.20:824][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/OptionsMenu]
+[2018.03.31-06.46.20:864][142]LogSavePackage: Save=24.92ms
+[2018.03.31-06.46.20:864][142]LogSavePackage: Moving '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/OptionsMenu_Auto57CA345BA4659B6398019AEB02224547E.tmp' to '../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Blueprints/OptionsMenu_Auto5.uasset'
+[2018.03.31-06.46.20:866][142]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Kinetic Release/Documents/Unreal Projects/StackerGame 4.19/Saved/Autosaves/Game/Blueprints/OptionsMenu_Auto5.uasset
+[2018.03.31-06.46.20:866][142]LogFileHelpers: Auto-saving content packages took 0.276
+[2018.03.31-06.47.17:605][518]LogSlate: Took 0.008499 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.03.31-06.47.32:646][396]BlueprintLog: New page: Compile NewHighScore
+[2018.03.31-06.48.16:449][831]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.31-06.48.16:495][831]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.48.16:495][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.31-06.48.16:495][831]PIE: New page: PIE session: StackMap (Mar 30, 2018, 10:48:16 PM)
+[2018.03.31-06.48.16:495][831]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2018.03.31-06.48.16:498][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002183s)
+[2018.03.31-06.48.16:498][831]LogAIModule: Creating AISystem for world StackMap
+[2018.03.31-06.48.16:499][831]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2018.03.31-06.48.16:499][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.003387s)
+[2018.03.31-06.48.16:525][831]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.31-06.48.16:536][831]LogInit: FAudioDevice initialized.
+[2018.03.31-06.48.16:565][831]LogLoad: Game class is 'GameModeBase'
+[2018.03.31-06.48.16:566][831]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2018.03.31-02.48.16
+[2018.03.31-06.48.16:566][831]LogWorld: Bringing up level for play took: 0.000502
+[2018.03.31-06.48.16:571][831]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap -0.364
+[2018.03.31-06.48.16:572][831]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.48.17:618][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.48.18:649][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.48.25:562][285]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.48.25:598][285]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.49.51:466][343]BlueprintLog: New page: Compile NewHighScore
+[2018.03.31-06.49.54:504][462]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.31-06.49.54:530][462]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.49.54:530][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.31-06.49.54:530][462]PIE: New page: PIE session: StackMap (Mar 30, 2018, 10:49:54 PM)
+[2018.03.31-06.49.54:530][462]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2018.03.31-06.49.54:532][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002394s)
+[2018.03.31-06.49.54:533][462]LogAIModule: Creating AISystem for world StackMap
+[2018.03.31-06.49.54:533][462]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2018.03.31-06.49.54:533][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.003123s)
+[2018.03.31-06.49.54:557][462]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.31-06.49.54:567][462]LogInit: FAudioDevice initialized.
+[2018.03.31-06.49.54:599][462]LogLoad: Game class is 'GameModeBase'
+[2018.03.31-06.49.54:600][462]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2018.03.31-02.49.54
+[2018.03.31-06.49.54:600][462]LogWorld: Bringing up level for play took: 0.000552
+[2018.03.31-06.49.54:606][462]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap -0.329
+[2018.03.31-06.49.54:606][462]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.49.55:722][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.49.56:651][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.50.04:687][808]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.50.04:725][808]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.51.08:338][543]BlueprintLog: New page: Compile NewHighScore
+[2018.03.31-06.51.32:562][838]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.31-06.51.32:590][838]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.51.32:590][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.31-06.51.32:590][838]PIE: New page: PIE session: StackMap (Mar 30, 2018, 10:51:32 PM)
+[2018.03.31-06.51.32:590][838]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2018.03.31-06.51.32:593][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002947s)
+[2018.03.31-06.51.32:594][838]LogAIModule: Creating AISystem for world StackMap
+[2018.03.31-06.51.32:595][838]LogPlayLevel: PIE: World Init took: (0.001491s)
+[2018.03.31-06.51.32:595][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004603s)
+[2018.03.31-06.51.32:623][838]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.31-06.51.32:632][838]LogInit: FAudioDevice initialized.
+[2018.03.31-06.51.32:664][838]LogLoad: Game class is 'GameModeBase'
+[2018.03.31-06.51.32:664][838]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2018.03.31-02.51.32
+[2018.03.31-06.51.32:665][838]LogWorld: Bringing up level for play took: 0.000456
+[2018.03.31-06.51.32:670][838]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap -0.266
+[2018.03.31-06.51.32:670][838]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.51.35:556][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.51.39:207][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.51.41:824][345]LogNet: Browse: /Game/Maps/StackMap
+[2018.03.31-06.51.41:825][345]LogLoad: LoadMap: /Game/Maps/StackMap
+[2018.03.31-06.51.41:851][345]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2018.03.31-06.51.41:853][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002305s)
+[2018.03.31-06.51.41:854][345]LogAIModule: Creating AISystem for world StackMap
+[2018.03.31-06.51.41:855][345]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2018.03.31-06.51.41:855][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.003502s)
+[2018.03.31-06.51.41:855][345]LogLoad: Game class is 'GameModeBase'
+[2018.03.31-06.51.41:856][345]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2018.03.31-02.51.41
+[2018.03.31-06.51.41:856][345]LogWorld: Bringing up level for play took: 0.000590
+[2018.03.31-06.51.41:856][345]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.31-06.51.41:861][345]LogLoad: Took 0.036492 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2018.03.31-06.51.43:399][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.51.44:134][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.51.48:153][722]LogNet: Browse: /Game/Maps/StackMap
+[2018.03.31-06.51.48:153][722]LogLoad: LoadMap: /Game/Maps/StackMap
+[2018.03.31-06.51.48:182][722]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2018.03.31-06.51.48:184][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001953s)
+[2018.03.31-06.51.48:185][722]LogAIModule: Creating AISystem for world StackMap
+[2018.03.31-06.51.48:185][722]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2018.03.31-06.51.48:185][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.002782s)
+[2018.03.31-06.51.48:185][722]LogLoad: Game class is 'GameModeBase'
+[2018.03.31-06.51.48:186][722]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2018.03.31-02.51.48
+[2018.03.31-06.51.48:187][722]LogWorld: Bringing up level for play took: 0.000645
+[2018.03.31-06.51.48:187][722]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.31-06.51.48:192][722]LogLoad: Took 0.038679 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2018.03.31-06.51.50:395][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.51.55:646][169]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.51.55:646][169]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[0] invalid
+[2018.03.31-06.51.55:646][169]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.51.55:646][169]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[1] invalid
+[2018.03.31-06.51.55:646][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.51.56:745][235]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.51.56:745][235]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[0] invalid
+[2018.03.31-06.51.56:745][235]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.03.31-06.51.56:745][235]LogPhysics: Warning: ForeachShape(Convex): [/Game/Meshes/block.block] ScaledElem[1] invalid
+[2018.03.31-06.52.03:463][637]LogNet: Browse: /Game/Maps/StackMap
+[2018.03.31-06.52.03:464][637]LogLoad: LoadMap: /Game/Maps/StackMap
+[2018.03.31-06.52.03:489][637]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2018.03.31-06.52.03:491][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001915s)
+[2018.03.31-06.52.03:492][637]LogAIModule: Creating AISystem for world StackMap
+[2018.03.31-06.52.03:492][637]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2018.03.31-06.52.03:492][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.003129s)
+[2018.03.31-06.52.03:492][637]LogLoad: Game class is 'GameModeBase'
+[2018.03.31-06.52.03:493][637]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2018.03.31-02.52.03
+[2018.03.31-06.52.03:494][637]LogWorld: Bringing up level for play took: 0.000670
+[2018.03.31-06.52.03:494][637]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.31-06.52.03:498][637]LogLoad: Took 0.034704 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2018.03.31-06.52.04:702][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.52.05:571][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.31-06.52.11:827][136]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.52.11:892][136]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.52.55:445][572]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.31-06.52.55:507][572]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.52.55:507][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.31-06.52.55:507][572]PIE: New page: PIE session: StackMap (Mar 30, 2018, 10:52:55 PM)
+[2018.03.31-06.52.55:507][572]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2018.03.31-06.52.55:509][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001893s)
+[2018.03.31-06.52.55:510][572]LogAIModule: Creating AISystem for world StackMap
+[2018.03.31-06.52.55:510][572]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2018.03.31-06.52.55:510][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.003092s)
+[2018.03.31-06.52.55:534][572]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.31-06.52.55:544][572]LogInit: FAudioDevice initialized.
+[2018.03.31-06.52.55:578][572]LogLoad: Game class is 'GameModeBase'
+[2018.03.31-06.52.55:579][572]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2018.03.31-02.52.55
+[2018.03.31-06.52.55:579][572]LogWorld: Bringing up level for play took: 0.000664
+[2018.03.31-06.52.55:580][572]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_LoadGameFromSlot', from offset 1909
+[2018.03.31-06.52.55:580][572]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ReceiveBeginPlay
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner
+
+[2018.03.31-06.53.00:315][572]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 5.38
+[2018.03.31-06.53.00:315][572]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.53.00:335][572]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.53.00:396][572]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2018.03.31-06.53.00:417][572]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_5.None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.03.31-06.53.22:527][869]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.03.31-06.53.23:047][869]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.520 s
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: 
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: Stack: 
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x000000005F67BA76 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x000000005F3DAE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x000000005F3EECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x00000000503F3DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x000000004F26B2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x000000004E8BC22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x000000004E7477AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x000000004E74AEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x000000004E886E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x00000000527A6057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x00000000527ABB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x00000000529DC253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x0000000052800475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x00000000527D8360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x00000000527CB197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x00000000753CE4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x00000000753C1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x00000000753D052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x00000000753BD679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x0000000092CAB85D USER32.dll!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x0000000092CAB1EF USER32.dll!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x00000000753D1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x000000008B7E5475 UE4Editor.exe!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x000000008B7F6BD0 UE4Editor.exe!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x000000008B7F6C4A UE4Editor.exe!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x000000008B804149 UE4Editor.exe!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x000000008B805B57 UE4Editor.exe!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x0000000093241FE4 KERNEL32.DLL!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: [Callstack] 0x00000000954CEFC1 ntdll.dll!UnknownFunction []
+[2018.03.31-06.53.23:047][869]LogOutputDevice: Error: 
+[2018.03.31-06.53.23:052][869]LogStats:                SubmitErrorReport -  0.000 s
