@@ -1,1 +1,1 @@
-../../../StackerGame/StackerGame.uproject  /Game/Maps/StackMap -Messaging -SessionId=A934EC29430147F7C793BAABBFFAB602 -SessionOwner="nope" -SessionName="Launch On Device" -iterative
+../../../StackerGame/StackerGame.uproject  /Game/Maps/StackMap -Messaging -SessionId=1E0D68C6414436B208E9DAA3FB85B712 -SessionOwner="nope" -SessionName="Launch On Device" -iterative
