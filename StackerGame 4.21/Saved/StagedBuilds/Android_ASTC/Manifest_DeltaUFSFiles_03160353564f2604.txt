@@ -370,6 +370,8 @@ Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset
 Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uexp
 Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset
 Engine/Content/EngineDebugMaterials/WireframeMaterial.uexp
+Engine/Content/EngineFonts/DroidSansMono.uasset
+Engine/Content/EngineFonts/DroidSansMono.uexp
 Engine/Content/EngineFonts/Roboto.uasset
 Engine/Content/EngineFonts/Roboto.uexp
 Engine/Content/EngineFonts/RobotoDistanceField.uasset
@@ -380,6 +382,9 @@ Engine/Content/EngineFonts/SmallFont.uasset
 Engine/Content/EngineFonts/SmallFont.uexp
 Engine/Content/EngineFonts/TinyFont.uasset
 Engine/Content/EngineFonts/TinyFont.uexp
+Engine/Content/EngineFonts/Faces/DroidSansMono.uasset
+Engine/Content/EngineFonts/Faces/DroidSansMono.uexp
+Engine/Content/EngineFonts/Faces/DroidSansMono.ufont
 Engine/Content/EngineFonts/Faces/RobotoBold.uasset
 Engine/Content/EngineFonts/Faces/RobotoBold.uexp
 Engine/Content/EngineFonts/Faces/RobotoBold.ufont
@@ -709,6 +714,10 @@ Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlm
 StackerGame/AssetRegistry.bin
 StackerGame/Content/Blueprints/Button.uasset
 StackerGame/Content/Blueprints/Button.uexp
+StackerGame/Content/Blueprints/ButtonStyle.uasset
+StackerGame/Content/Blueprints/ButtonStyle.uexp
+StackerGame/Content/Blueprints/ButtonText.uasset
+StackerGame/Content/Blueprints/ButtonText.uexp
 StackerGame/Content/Blueprints/GameOverMenu.uasset
 StackerGame/Content/Blueprints/GameOverMenu.uexp
 StackerGame/Content/Blueprints/GameStartMenu.uasset
