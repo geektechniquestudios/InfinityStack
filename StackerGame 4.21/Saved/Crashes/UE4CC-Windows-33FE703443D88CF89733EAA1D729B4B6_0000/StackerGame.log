@@ -1,0 +1,1598 @@
+﻿Log file open, 01/04/19 09:36:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: StackerGame
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.308232
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.090s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=geekTechnique -epicuserid=f07ec2100ff54539b47ba7d2e550d7d3 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:1]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.01.04-14.36.47:875][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.04-14.36.47:876][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.04-14.36.47:876][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.04-14.36.47:877][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.04-14.36.47:877][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.04-14.36.47:877][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.04-14.36.47:877][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.04-14.36.47:877][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.04-14.36.47:877][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.04-14.36.47:877][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.04-14.36.47:877][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.04-14.36.47:877][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.04-14.36.47:877][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.04-14.36.47:887][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.04-14.36.47:887][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.04-14.36.47:888][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.04-14.36.47:888][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.04-14.36.47:888][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.04-14.36.47:888][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.36.47:888][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.04-14.36.47:888][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.04-14.36.47:888][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.04-14.36.47:888][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.04-14.36.47:888][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.04-14.36.47:888][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.04-14.36.47:888][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.04-14.36.47:888][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.04-14.36.47:888][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.04-14.36.47:888][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.04-14.36.47:888][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.04-14.36.47:888][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.04-14.36.47:888][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.04-14.36.47:888][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.36.47:888][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.04-14.36.47:888][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.04-14.36.47:888][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.04-14.36.47:888][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.04-14.36.47:905][  0]LogHAL: Display: Platform has ~ 16 GB [16985501696 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.04-14.36.47:905][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.04-14.36.47:905][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.04-14.36.47:905][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.04-14.36.47:906][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.04-14.36.47:906][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.04-14.36.47:907][  0]LogInit: Computer: DESKTOP-VPEBSJI
+[2019.01.04-14.36.47:907][  0]LogInit: User: nope
+[2019.01.04-14.36.47:907][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.04-14.36.47:907][  0]LogInit: High frequency timer resolution =2.742189 MHz
+[2019.01.04-14.36.47:907][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.01.04-14.36.47:907][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.04-14.36.47:907][  0]LogMemory: Process Physical Memory: 102.26 MB used, 102.26 MB peak
+[2019.01.04-14.36.47:907][  0]LogMemory: Process Virtual Memory: 89.59 MB used, 89.59 MB peak
+[2019.01.04-14.36.47:907][  0]LogMemory: Physical Memory: 7952.42 MB used,  8246.21 MB free, 16198.64 MB total
+[2019.01.04-14.36.47:907][  0]LogMemory: Virtual Memory: 4646.31 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.01.04-14.36.47:927][  0]LogInit: Using OS detected language (en-US).
+[2019.01.04-14.36.47:927][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.04-14.36.47:929][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.04-14.36.48:488][  0]LogStreaming: Display: Took  0.561s to InitEngineTextLocalization.
+[2019.01.04-14.36.48:489][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.04-14.36.48:530][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.04-14.36.48:530][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.04-14.36.48:804][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.04-14.36.48:804][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.04-14.36.48:892][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.01.04-14.36.48:892][  0]LogD3D11RHI:       4021/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.01.04-14.36.48:907][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.01.04-14.36.48:907][  0]LogD3D11RHI:       128/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.01.04-14.36.48:911][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.04-14.36.48:911][  0]LogD3D11RHI:       0/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.04-14.36.48:911][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.04-14.36.48:947][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.04-14.36.48:947][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.01.04-14.36.48:947][  0]LogWindows: EnumDisplayDevices:
+[2019.01.04-14.36.48:947][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.01.04-14.36.48:947][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2019.01.04-14.36.48:948][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.01.04-14.36.48:948][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.01.04-14.36.48:948][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.01.04-14.36.48:948][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.01.04-14.36.48:948][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.01.04-14.36.48:948][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.01.04-14.36.49:015][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.04-14.36.49:037][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.04-14.36.49:453][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.04-14.36.49:470][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.04-14.36.49:486][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.04-14.36.49:506][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.04-14.36.49:534][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.04-14.36.49:572][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.04-14.36.49:604][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.04-14.36.49:634][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.04-14.36.49:646][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.04-14.36.49:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.36.49:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.36.49:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.36.49:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.36.49:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.36.49:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.36.49:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.36.49:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.36.49:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.36.49:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.36.49:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.36.49:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.36.49:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.36.49:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.36.49:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.36.49:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.36.49:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.36.49:786][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.36.49:788][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.04-14.36.49:876][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.04-14.36.49:876][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.04-14.36.49:918][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.04-14.36.49:918][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.04-14.36.49:949][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.04-14.36.49:973][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.04-14.36.50:002][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.04-14.36.50:028][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.04-14.36.50:114][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.04-14.36.50:114][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.04-14.36.50:114][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.04-14.36.50:201][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Intermediate/Shaders/WorkingDirectory/7784/).
+[2019.01.04-14.36.50:202][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nope/AppData/Local/Temp/UnrealShaderWorkingDir/DBAF76424020751676A7CAACE9E91AEF/'.
+[2019.01.04-14.36.50:204][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.04-14.36.50:204][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.04-14.36.50:204][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.04-14.36.50:958][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.04-14.36.51:024][  0]LogDerivedDataCache: Loaded boot cache 0.07s 84MB C:/Users/nope/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.04-14.36.51:024][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/nope/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.04-14.36.51:024][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.04-14.36.51:024][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.04-14.36.51:024][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.04-14.36.51:024][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.04-14.36.51:040][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.04-14.36.51:040][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.04-14.36.51:040][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.04-14.36.51:052][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nope/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.04-14.36.51:052][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.04-14.36.51:052][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.04-14.36.51:081][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.04-14.36.51:083][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.04-14.36.51:083][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.04-14.36.51:180][  0]LogAssetRegistry: FAssetRegistry took 0.0358 seconds to start up
+[2019.01.04-14.36.51:565][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.04-14.36.51:770][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.04-14.36.51:774][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.04-14.36.51:775][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.04-14.36.51:775][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.04-14.36.51:775][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.04-14.36.51:795][  0]LogNetVersion: StackerGame 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1419414380)
+[2019.01.04-14.36.52:425][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.100510 seconds
+[2019.01.04-14.36.52:431][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.04-14.36.52:431][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.01.04-14.36.52:431][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.04-14.36.53:495][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.04-14.36.53:510][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.04-14.36.54:294][  0]SourceControl: Source control is disabled
+[2019.01.04-14.36.54:294][  0]SourceControl: Source control is disabled
+[2019.01.04-14.36.54:296][  0]SourceControl: Source control is disabled
+[2019.01.04-14.36.54:297][  0]SourceControl: Source control is disabled
+[2019.01.04-14.36.54:457][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.04-14.36.54:574][  0]LogOcInput: OculusInput pre-init called
+[2019.01.04-14.36.54:714][  0]LogEngine: Initializing Engine...
+[2019.01.04-14.36.54:715][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.04-14.36.54:717][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.04-14.36.54:717][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.04-14.36.54:717][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.04-14.36.54:717][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.04-14.36.54:977][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.04-14.36.54:990][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.04-14.36.55:067][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-14.36.55:480][  0]LogInit: FAudioDevice initialized.
+[2019.01.04-14.36.55:481][  0]LogNetVersion: Set ProjectVersion to 0.0.6. Version Checksum will be recalculated on next use.
+[2019.01.04-14.36.55:543][  0]LogDerivedDataCache: Saved boot cache 0.06s 84MB C:/Users/nope/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.04-14.36.55:562][  0]LogInit: Texture streaming: Enabled
+[2019.01.04-14.36.55:585][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.04-14.36.55:601][  0]LogInit: Transaction tracking system initialized
+[2019.01.04-14.36.55:628][  0]BlueprintLog: New page: Editor Load
+[2019.01.04-14.36.55:708][  0]LocalizationService: Localization service is disabled
+[2019.01.04-14.36.56:539][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/' took 0.01s
+[2019.01.04-14.36.56:539][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.04-14.36.56:539][  0]LogCook: Display: Mobile HDR setting 0
+[2019.01.04-14.36.56:539][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.04-14.36.56:539][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.04-14.36.56:539][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.04-14.36.56:539][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.04-14.36.56:539][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.04-14.36.56:695][  0]SourceControl: Source control is disabled
+[2019.01.04-14.36.56:695][  0]Cmd: MAP LOAD FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.04-14.36.56:696][  0]LightingResults: New page: Lighting Build
+[2019.01.04-14.36.56:700][  0]MapCheck: New page: Map Check
+[2019.01.04-14.36.56:700][  0]LightingResults: New page: Lighting Build
+[2019.01.04-14.36.57:752][  0]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.36.57:766][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.04-14.36.57:810][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.04-14.36.57:810][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.237ms to complete.
+[2019.01.04-14.36.57:811][  0]LogFileHelpers: Loading map 'StackMap' took 1.115
+[2019.01.04-14.36.57:944][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.36.57:956][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.36.57:966][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.36.57:979][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.36.57:996][  0]LogCollectionManager: Loaded 0 collections in 0.002717 seconds
+[2019.01.04-14.36.58:024][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Collections/' took 0.01s
+[2019.01.04-14.36.58:024][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Developers/nope/Collections/' took 0.00s
+[2019.01.04-14.36.58:024][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Collections/' took 0.01s
+[2019.01.04-14.36.58:024][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.04-14.36.58:035][  0]LogContentBrowser: Native class hierarchy populated in 0.0109 seconds. Added 2652 classes and 622 folders.
+[2019.01.04-14.36.58:043][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.04-14.36.58:047][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:049][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:051][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:052][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:052][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:053][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:053][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:054][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:054][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:055][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:055][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:056][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:056][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:057][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:057][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:058][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:058][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:059][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:060][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:060][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:061][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:061][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:062][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:063][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:064][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:065][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.36.58:122][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.04-14.36.58:142][  0]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.04-14.36.58:145][  0]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.04-14.36.58:158][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.04-14.36.58:288][  0]LogRenderer: Reallocating scene render targets to support 380x712 Format 10 NumSamples 1 (Frame:1).
+[2019.01.04-14.36.58:523][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.04-14.36.58:523][  0]LogLoad: (Engine Initialization) Total time: 12.52 seconds
+[2019.01.04-14.36.58:523][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.04-14.36.58:601][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.04-14.36.58:615][  0]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.04-14.36.59:305][  4]LogAssetRegistry: Asset discovery search completed in 8.1473 seconds
+[2019.01.04-14.36.59:308][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.04-14.36.59:308][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000080 seconds (updated 0 objects)
+[2019.01.04-14.36.59:968][  6]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.04-14.37.19:390][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.37.19:506][ 68]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/StackSpawner.StackSpawner
+[2019.01.04-14.37.20:247][ 68]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 117 classes and 0 folders.
+[2019.01.04-14.37.21:287][ 68]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Meshes/block.block
+[2019.01.04-14.37.21:887][ 68]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2019.01.04-14.37.21:887][ 68]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.04-14.37.28:716][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/block" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" SILENT=true
+[2019.01.04-14.37.28:744][466]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/block2CE8D9B34B2498EABAE3C085D8C3EA8E.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset'
+[2019.01.04-14.37.30:630][577]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.37.31:585][630]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-14.37.31:611][630]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.37.31:611][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-14.37.31:612][630]PIE: New page: PIE session: StackMap (Jan 4, 2019, 4:37:31 AM)
+[2019.01.04-14.37.31:624][630]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.37.31:628][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004107s)
+[2019.01.04-14.37.31:629][630]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.37.31:629][630]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2019.01.04-14.37.31:629][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.005298s)
+[2019.01.04-14.37.31:674][630]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-14.37.31:690][630]LogInit: FAudioDevice initialized.
+[2019.01.04-14.37.31:690][630]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.37.31:736][630]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.37.31:738][630]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.37.31
+[2019.01.04-14.37.31:739][630]LogWorld: Bringing up level for play took: 0.000913
+[2019.01.04-14.37.31:756][630]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.01.04-14.37.31:765][630]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.37.31:765][630]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap -0.726
+[2019.01.04-14.37.31:766][630]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.37.33:644][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.37.34:933][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.37.44:391][382]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.04-14.37.44:391][382]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.04-14.37.44:435][382]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.37.44:439][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003672s)
+[2019.01.04-14.37.44:440][382]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.37.44:440][382]LogPlayLevel: PIE: World Init took: (0.000695s)
+[2019.01.04-14.37.44:440][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004563s)
+[2019.01.04-14.37.44:440][382]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.37.44:441][382]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.37.44
+[2019.01.04-14.37.44:441][382]LogWorld: Bringing up level for play took: 0.000757
+[2019.01.04-14.37.44:442][382]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.04-14.37.44:451][382]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.37.44:451][382]LogLoad: Took 0.059766 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.04-14.37.45:257][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.37.50:023][703]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.37.50:023][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.37.50:062][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.04-14.37.50:063][703]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.37.50:105][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.37.50:129][704]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.01.04-14.38.18:177][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/block" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" SILENT=true
+[2019.01.04-14.38.18:210][356]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/block2AA4722A4E46BAE40567DB8B5F08C723.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset'
+[2019.01.04-14.38.21:883][560]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-14.38.21:914][560]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.38.21:914][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-14.38.21:914][560]PIE: New page: PIE session: StackMap (Jan 4, 2019, 4:38:21 AM)
+[2019.01.04-14.38.21:914][560]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.38.21:919][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005199s)
+[2019.01.04-14.38.21:920][560]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.38.21:921][560]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2019.01.04-14.38.21:921][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.006764s)
+[2019.01.04-14.38.21:964][560]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-14.38.21:979][560]LogInit: FAudioDevice initialized.
+[2019.01.04-14.38.22:014][560]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.38.22:015][560]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.38.22
+[2019.01.04-14.38.22:016][560]LogWorld: Bringing up level for play took: 0.000703
+[2019.01.04-14.38.22:038][560]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.38.22:038][560]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap -0.453
+[2019.01.04-14.38.22:038][560]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.38.25:763][781]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.38.27:132][854]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.38.27:132][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.38.27:176][854]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.04-14.38.27:176][854]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.38.27:215][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.38.27:234][855]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.01.04-14.38.59:019][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.38.59:150][760]LogStaticMesh: Allocated 15x15x8 distance field atlas = 0.0Mb, with 1 objects containing 0.0Mb backing data
+[2019.01.04-14.39.02:366][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/block" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" SILENT=true
+[2019.01.04-14.39.02:396][950]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/blockECC5EC2043A44AAF456369A8992EE234.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset'
+[2019.01.04-14.39.04:563][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.39.04:683][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/block" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" SILENT=true
+[2019.01.04-14.39.04:706][ 85]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/block03AE442941CBFD958C1A8188B3D42CD2.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset'
+[2019.01.04-14.39.08:972][334]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.39.10:034][392]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-14.39.10:052][392]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.39.10:052][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-14.39.10:052][392]PIE: New page: PIE session: StackMap (Jan 4, 2019, 4:39:10 AM)
+[2019.01.04-14.39.10:052][392]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.39.10:057][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005184s)
+[2019.01.04-14.39.10:058][392]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.39.10:058][392]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2019.01.04-14.39.10:058][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.006191s)
+[2019.01.04-14.39.10:100][392]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-14.39.10:116][392]LogInit: FAudioDevice initialized.
+[2019.01.04-14.39.10:116][392]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.39.10:152][392]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.39.10:153][392]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.39.10
+[2019.01.04-14.39.10:153][392]LogWorld: Bringing up level for play took: 0.000691
+[2019.01.04-14.39.10:175][392]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.39.10:175][392]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap -0.315
+[2019.01.04-14.39.10:176][392]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.39.14:314][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.39.15:633][709]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.39.15:633][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.39.15:675][709]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.04-14.39.15:675][709]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.39.15:714][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.39.15:735][710]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.01.04-14.39.37:423][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/block" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" SILENT=true
+[2019.01.04-14.39.37:449][992]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/block49D4B5474C61F210ED7F27BFDEFE9142.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset'
+[2019.01.04-14.39.41:143][171]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-14.39.41:163][171]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.39.41:163][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-14.39.41:163][171]PIE: New page: PIE session: StackMap (Jan 4, 2019, 4:39:41 AM)
+[2019.01.04-14.39.41:163][171]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.39.41:170][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006219s)
+[2019.01.04-14.39.41:170][171]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.39.41:170][171]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2019.01.04-14.39.41:171][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.007101s)
+[2019.01.04-14.39.41:217][171]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-14.39.41:235][171]LogInit: FAudioDevice initialized.
+[2019.01.04-14.39.41:267][171]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.39.41:268][171]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.39.41
+[2019.01.04-14.39.41:269][171]LogWorld: Bringing up level for play took: 0.000862
+[2019.01.04-14.39.41:290][171]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.39.41:290][171]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 0.799
+[2019.01.04-14.39.41:290][171]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.39.43:756][317]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.39.45:327][405]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.39.45:327][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.39.45:367][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.04-14.39.45:367][405]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.39.45:402][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.39.45:467][407]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.01.04-14.39.53:645][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.40.47:701][980]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-14.40.47:722][980]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.40.47:722][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-14.40.47:722][980]PIE: New page: PIE session: StackMap (Jan 4, 2019, 4:40:47 AM)
+[2019.01.04-14.40.47:722][980]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.40.47:726][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003663s)
+[2019.01.04-14.40.47:726][980]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.40.47:727][980]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2019.01.04-14.40.47:727][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004506s)
+[2019.01.04-14.40.47:772][980]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-14.40.47:786][980]LogInit: FAudioDevice initialized.
+[2019.01.04-14.40.47:816][980]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.40.47:817][980]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.40.47
+[2019.01.04-14.40.47:818][980]LogWorld: Bringing up level for play took: 0.000777
+[2019.01.04-14.40.47:839][980]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.40.47:839][980]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap -0.652
+[2019.01.04-14.40.47:839][980]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.40.49:831][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.40.50:770][146]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.40.50:770][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.40.50:812][146]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.04-14.40.50:812][146]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.40.50:842][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.40.51:041][148]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.01.04-14.40.53:642][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.40.53:777][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/block" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" SILENT=true
+[2019.01.04-14.40.53:806][309]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/block94100758417DAA9530556D85102250DD.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset'
+[2019.01.04-14.40.55:868][427]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.40.57:342][502]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-14.40.57:363][502]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.40.57:364][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-14.40.57:364][502]PIE: New page: PIE session: StackMap (Jan 4, 2019, 4:40:57 AM)
+[2019.01.04-14.40.57:364][502]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.40.57:371][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007234s)
+[2019.01.04-14.40.57:372][502]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.40.57:372][502]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2019.01.04-14.40.57:372][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.008112s)
+[2019.01.04-14.40.57:415][502]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-14.40.57:428][502]LogInit: FAudioDevice initialized.
+[2019.01.04-14.40.57:428][502]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.40.57:457][502]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.40.57:458][502]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.40.57
+[2019.01.04-14.40.57:458][502]LogWorld: Bringing up level for play took: 0.000682
+[2019.01.04-14.40.57:478][502]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.40.57:478][502]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 0.988
+[2019.01.04-14.40.57:478][502]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.40.59:633][629]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.41.01:011][706]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.41.01:012][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.41.01:051][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.04-14.41.01:051][706]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.41.01:087][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.41.01:107][707]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.01.04-14.41.04:450][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.41.40:317][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/block" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" SILENT=true
+[2019.01.04-14.41.40:344][ 42]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/blockD1A8CC9641A69F6EAFED2583F2566D25.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset'
+[2019.01.04-14.41.41:685][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.41.43:393][215]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-14.41.43:413][215]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.41.43:413][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-14.41.43:413][215]PIE: New page: PIE session: StackMap (Jan 4, 2019, 4:41:43 AM)
+[2019.01.04-14.41.43:413][215]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.41.43:421][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007037s)
+[2019.01.04-14.41.43:421][215]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.41.43:421][215]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2019.01.04-14.41.43:421][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.008001s)
+[2019.01.04-14.41.43:459][215]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-14.41.43:473][215]LogInit: FAudioDevice initialized.
+[2019.01.04-14.41.43:502][215]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.41.43:503][215]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.41.43
+[2019.01.04-14.41.43:504][215]LogWorld: Bringing up level for play took: 0.000826
+[2019.01.04-14.41.43:525][215]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.41.43:525][215]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 1.034
+[2019.01.04-14.41.43:525][215]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.41.46:760][407]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.41.48:098][481]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.41.48:098][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.41.48:140][481]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.04-14.41.48:140][481]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.41.48:181][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.41.48:195][482]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.01.04-14.41.52:895][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.42.00:653][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/block" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" SILENT=true
+[2019.01.04-14.42.00:678][213]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/blockCD34235D4922698829CDA4BFA1C89F35.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset'
+[2019.01.04-14.42.02:091][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.42.03:637][386]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-14.42.03:657][386]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.42.03:658][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-14.42.03:658][386]PIE: New page: PIE session: StackMap (Jan 4, 2019, 4:42:03 AM)
+[2019.01.04-14.42.03:658][386]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.42.03:661][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003647s)
+[2019.01.04-14.42.03:662][386]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.42.03:662][386]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2019.01.04-14.42.03:662][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004481s)
+[2019.01.04-14.42.03:699][386]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-14.42.03:713][386]LogInit: FAudioDevice initialized.
+[2019.01.04-14.42.03:742][386]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.42.03:743][386]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.42.03
+[2019.01.04-14.42.03:743][386]LogWorld: Bringing up level for play took: 0.000672
+[2019.01.04-14.42.03:762][386]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.42.03:762][386]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap -0.728
+[2019.01.04-14.42.03:762][386]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.42.05:912][513]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.42.07:602][609]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.42.07:602][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.42.07:641][609]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.04-14.42.07:641][609]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.42.07:678][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.42.07:744][611]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.01.04-14.42.09:795][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.42.09:914][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/block" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" SILENT=true
+[2019.01.04-14.42.09:931][728]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/blockE5F0A98B496815240F673187457664F0.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset'
+[2019.01.04-14.42.11:800][837]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.42.12:851][893]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-14.42.12:870][893]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.42.12:870][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-14.42.12:870][893]PIE: New page: PIE session: StackMap (Jan 4, 2019, 4:42:12 AM)
+[2019.01.04-14.42.12:870][893]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.42.12:873][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003500s)
+[2019.01.04-14.42.12:874][893]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.42.12:874][893]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2019.01.04-14.42.12:874][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004360s)
+[2019.01.04-14.42.12:920][893]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-14.42.12:934][893]LogInit: FAudioDevice initialized.
+[2019.01.04-14.42.12:934][893]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.42.12:969][893]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.42.12:970][893]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.42.12
+[2019.01.04-14.42.12:971][893]LogWorld: Bringing up level for play took: 0.000738
+[2019.01.04-14.42.12:991][893]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.42.12:991][893]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 0.5
+[2019.01.04-14.42.12:991][893]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.42.17:080][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.45.17:505][929]LogStaticMesh: Building static mesh block...
+[2019.01.04-14.45.17:512][929]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/block.block
+[2019.01.04-14.45.55:740][846]LogSlate: Window 'Message' being destroyed
+[2019.01.04-14.45.58:388][997]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.47.00:022][662]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.47.00:023][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.47.00:074][662]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.04-14.47.00:074][662]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.47.00:115][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.47.00:132][663]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.01.04-14.47.18:532][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/block" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" SILENT=true
+[2019.01.04-14.47.18:569][751]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/blockF6564C0F42F941ABB63996B91422F588.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset'
+[2019.01.04-14.47.21:995][950]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-14.47.22:014][950]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.47.22:014][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-14.47.22:014][950]PIE: New page: PIE session: StackMap (Jan 4, 2019, 4:47:22 AM)
+[2019.01.04-14.47.22:014][950]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.47.22:019][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004008s)
+[2019.01.04-14.47.22:019][950]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.47.22:019][950]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2019.01.04-14.47.22:019][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004919s)
+[2019.01.04-14.47.22:061][950]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-14.47.22:075][950]LogInit: FAudioDevice initialized.
+[2019.01.04-14.47.22:105][950]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.47.22:106][950]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.47.22
+[2019.01.04-14.47.22:107][950]LogWorld: Bringing up level for play took: 0.001027
+[2019.01.04-14.47.22:127][950]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.47.22:127][950]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap -0.363
+[2019.01.04-14.47.22:128][950]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.47.35:545][750]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.47.40:942][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/block" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" SILENT=true
+[2019.01.04-14.47.40:957][ 74]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/block8EADF58D4276C3F59A4EE181813357F3.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset'
+[2019.01.04-14.48.45:283][922]LogStaticMesh: Building static mesh block...
+[2019.01.04-14.48.45:283][922]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/block.block
+[2019.01.04-14.48.52:840][364]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.48.52:841][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.48.52:883][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.04-14.48.52:884][364]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.48.52:917][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.48.52:936][365]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.01.04-14.48.54:449][439]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-14.48.54:468][439]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.48.54:468][439]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-14.48.54:468][439]PIE: New page: PIE session: StackMap (Jan 4, 2019, 4:48:54 AM)
+[2019.01.04-14.48.54:469][439]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.48.54:473][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004162s)
+[2019.01.04-14.48.54:473][439]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.48.54:473][439]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2019.01.04-14.48.54:474][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.005053s)
+[2019.01.04-14.48.54:513][439]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-14.48.54:527][439]LogInit: FAudioDevice initialized.
+[2019.01.04-14.48.54:556][439]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.48.54:557][439]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.48.54
+[2019.01.04-14.48.54:557][439]LogWorld: Bringing up level for play took: 0.000659
+[2019.01.04-14.48.54:577][439]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.48.54:577][439]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 0.087
+[2019.01.04-14.48.54:577][439]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.48.57:957][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.48.58:052][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/block" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" SILENT=true
+[2019.01.04-14.48.58:076][645]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/blockDC4B0C404B3B02CCB9F942A2DB3361DD.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset'
+[2019.01.04-14.49.01:386][831]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.49.01:387][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.49.01:427][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.04-14.49.01:427][831]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.49.01:465][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.49.01:498][832]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.01.04-14.49.03:243][923]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-14.49.03:264][923]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.49.03:264][923]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-14.49.03:264][923]PIE: New page: PIE session: StackMap (Jan 4, 2019, 4:49:03 AM)
+[2019.01.04-14.49.03:264][923]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.49.03:268][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003769s)
+[2019.01.04-14.49.03:269][923]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.49.03:270][923]LogPlayLevel: PIE: World Init took: (0.001692s)
+[2019.01.04-14.49.03:270][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.005725s)
+[2019.01.04-14.49.03:312][923]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-14.49.03:326][923]LogInit: FAudioDevice initialized.
+[2019.01.04-14.49.03:356][923]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.49.03:357][923]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.49.03
+[2019.01.04-14.49.03:357][923]LogWorld: Bringing up level for play took: 0.000683
+[2019.01.04-14.49.03:379][923]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.49.03:379][923]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 0.888
+[2019.01.04-14.49.03:379][923]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.49.08:472][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.49.12:359][452]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.49.12:360][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.49.12:404][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.04-14.49.12:404][452]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.49.12:435][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.49.12:459][453]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.01.04-14.49.40:728][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/block" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" SILENT=true
+[2019.01.04-14.49.40:750][139]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/block7BB475EA46E46F3799E563A466177280.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset'
+[2019.01.04-14.49.43:517][300]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-14.49.43:535][300]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.49.43:535][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-14.49.43:535][300]PIE: New page: PIE session: StackMap (Jan 4, 2019, 4:49:43 AM)
+[2019.01.04-14.49.43:535][300]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.49.43:541][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005865s)
+[2019.01.04-14.49.43:542][300]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.49.43:542][300]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2019.01.04-14.49.43:542][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.006786s)
+[2019.01.04-14.49.43:578][300]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-14.49.43:592][300]LogInit: FAudioDevice initialized.
+[2019.01.04-14.49.43:625][300]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.49.43:626][300]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.49.43
+[2019.01.04-14.49.43:626][300]LogWorld: Bringing up level for play took: 0.000754
+[2019.01.04-14.49.43:646][300]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.49.43:647][300]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap -0.844
+[2019.01.04-14.49.43:647][300]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.49.49:970][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.49.53:268][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/block" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" SILENT=true
+[2019.01.04-14.49.53:284][875]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/blockD1FE2D614C4CC1768CB5938DAEC653B6.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset'
+[2019.01.04-14.50.49:608][515]LogSlate: Window 'Material Baking Options' being destroyed
+[2019.01.04-14.51.10:136][929]LogSlate: Window 'Material Baking Options' being destroyed
+[2019.01.04-14.51.10:154][929]LogMaterial: Display: Missing cached shader map for material FExportMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.01.04-14.51.14:304][929]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.01.04-14.51.14:304][929]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.01.04-14.51.14:304][929]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.01.04-14.51.14:304][929]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.01.04-14.51.14:304][929]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.01.04-14.51.14:304][929]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.04-14.51.14:305][929]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.04-14.51.14:330][929]LogMaterial: Display: Missing cached shader map for material NewBaseFlattenMaterial, compiling. 
+[2019.01.04-14.51.14:426][929]LogShaderCompilers: Display: Shaders left to compile 213
+[2019.01.04-14.51.14:427][929]LogShaderCompilers: Display: Shaders left to compile 203
+[2019.01.04-14.51.14:427][929]LogShaderCompilers: Display: Shaders left to compile 193
+[2019.01.04-14.51.14:427][929]LogShaderCompilers: Display: Shaders left to compile 183
+[2019.01.04-14.51.14:428][929]LogTexture: Display: Building textures: T_M_block_WorldGridMaterial_261B793B48B37FE84D24DEBE425CCBC0_BaseColor (BGRA8, 128X128)
+[2019.01.04-14.51.14:438][929]LogMaterial: Display: Missing cached shader map for material NewBaseFlattenMaterial, compiling. 
+[2019.01.04-14.51.14:574][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/block" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" SILENT=true
+[2019.01.04-14.51.14:597][929]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/blockF6916F3E41DABA5BCF5045B7A5787518.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset'
+[2019.01.04-14.51.18:549][126]LogShaderCompilers: Display: Shaders left to compile 386
+[2019.01.04-14.51.18:625][130]LogShaderCompilers: Display: Shaders left to compile 376
+[2019.01.04-14.51.19:584][179]LogShaderCompilers: Display: Shaders left to compile 366
+[2019.01.04-14.51.22:092][310]LogShaderCompilers: Display: Shaders left to compile 356
+[2019.01.04-14.51.23:282][375]LogShaderCompilers: Display: Shaders left to compile 346
+[2019.01.04-14.51.23:635][395]LogShaderCompilers: Display: Shaders left to compile 336
+[2019.01.04-14.51.25:416][493]LogShaderCompilers: Display: Shaders left to compile 326
+[2019.01.04-14.51.25:553][501]LogShaderCompilers: Display: Shaders left to compile 316
+[2019.01.04-14.51.29:034][692]LogShaderCompilers: Display: Shaders left to compile 306
+[2019.01.04-14.51.29:266][705]LogShaderCompilers: Display: Shaders left to compile 296
+[2019.01.04-14.51.29:983][740]LogShaderCompilers: Display: Shaders left to compile 286
+[2019.01.04-14.51.31:206][804]LogShaderCompilers: Display: Shaders left to compile 276
+[2019.01.04-14.51.35:190][  6]LogShaderCompilers: Display: Shaders left to compile 266
+[2019.01.04-14.51.35:704][ 23]LogShaderCompilers: Display: Shaders left to compile 256
+[2019.01.04-14.51.36:071][ 39]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.51.36:071][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.51.36:123][ 39]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.04-14.51.36:123][ 39]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.51.36:171][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.51.36:204][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.01.04-14.51.36:808][ 67]LogShaderCompilers: Display: Shaders left to compile 246
+[2019.01.04-14.51.37:069][ 81]LogShaderCompilers: Display: Shaders left to compile 236
+[2019.01.04-14.51.39:941][230]LogShaderCompilers: Display: Shaders left to compile 226
+[2019.01.04-14.51.40:352][253]LogShaderCompilers: Display: Shaders left to compile 216
+[2019.01.04-14.51.41:174][297]LogShaderCompilers: Display: Shaders left to compile 206
+[2019.01.04-14.51.41:968][339]LogShaderCompilers: Display: Shaders left to compile 196
+[2019.01.04-14.51.44:409][471]LogShaderCompilers: Display: Shaders left to compile 186
+[2019.01.04-14.51.45:109][510]LogShaderCompilers: Display: Shaders left to compile 176
+[2019.01.04-14.51.45:435][528]LogShaderCompilers: Display: Shaders left to compile 166
+[2019.01.04-14.51.49:133][717]LogShaderCompilers: Display: Shaders left to compile 156
+[2019.01.04-14.51.50:958][806]LogShaderCompilers: Display: Shaders left to compile 146
+[2019.01.04-14.51.53:368][938]LogShaderCompilers: Display: Shaders left to compile 136
+[2019.01.04-14.51.53:484][944]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.01.04-14.51.53:717][957]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.01.04-14.51.55:409][ 51]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.01.04-14.51.57:072][135]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.01.04-14.51.58:549][214]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (43.896 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.04-14.51.58:985][238]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.01.04-14.51.59:710][277]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.01.04-14.51.59:945][290]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.01.04-14.52.04:440][521]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.01.04-14.52.04:881][533]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.01.04-14.52.05:587][560]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.01.04-14.52.05:711][566]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.04-14.52.08:531][680]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.04-14.52.08:688][687]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.04-14.52.59:613][708]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.53.00:569][760]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-14.53.00:590][760]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.53.00:590][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-14.53.00:590][760]PIE: New page: PIE session: StackMap (Jan 4, 2019, 4:53:00 AM)
+[2019.01.04-14.53.00:591][760]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.53.00:596][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005571s)
+[2019.01.04-14.53.00:597][760]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.53.00:597][760]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2019.01.04-14.53.00:597][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.006626s)
+[2019.01.04-14.53.00:641][760]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-14.53.00:656][760]LogInit: FAudioDevice initialized.
+[2019.01.04-14.53.00:656][760]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.53.00:687][760]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.53.00:688][760]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.53.00
+[2019.01.04-14.53.00:689][760]LogWorld: Bringing up level for play took: 0.000918
+[2019.01.04-14.53.00:709][760]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.53.00:709][760]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 0.219
+[2019.01.04-14.53.00:710][760]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.53.03:135][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.53.04:070][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.53.16:814][724]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner'!
+[2019.01.04-14.53.19:599][891]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.04-14.53.19:599][891]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.04-14.53.19:633][891]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.53.19:636][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003329s)
+[2019.01.04-14.53.19:637][891]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.53.19:637][891]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2019.01.04-14.53.19:637][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004159s)
+[2019.01.04-14.53.19:637][891]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.53.19:638][891]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.53.19
+[2019.01.04-14.53.19:638][891]LogWorld: Bringing up level for play took: 0.000745
+[2019.01.04-14.53.19:639][891]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.04-14.53.19:647][891]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.53.19:647][891]LogLoad: Took 0.047629 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.04-14.53.21:493][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.53.22:875][ 76]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.53.22:876][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.53.22:912][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.04-14.53.22:912][ 76]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.53.22:947][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.53.23:008][ 78]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.01.04-14.53.38:185][194]LogSlate: Window 'Material Baking Options' being destroyed
+[2019.01.04-14.53.38:201][194]LogMaterial: Display: Missing cached shader map for material FExportMaterialRenderer M_M_block_WorldGridMaterial_261B793B48B37FE84D24DEBE425CCBC0, compiling. 
+[2019.01.04-14.53.40:683][194]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.04-14.53.40:683][194]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.04-14.53.40:683][194]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.04-14.53.40:683][194]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.04-14.53.40:683][194]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.04-14.53.40:683][194]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.04-14.53.40:684][194]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.04-14.53.40:684][194]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.04-14.53.40:684][194]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.04-14.53.40:684][194]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.04-14.53.40:684][194]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.04-14.53.40:684][194]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.04-14.53.40:684][194]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.04-14.53.40:684][194]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.04-14.53.40:684][194]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.04-14.53.40:684][194]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.04-14.53.40:684][194]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.04-14.53.40:684][194]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.04-14.53.40:684][194]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.04-14.53.40:684][194]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.04-14.53.40:684][194]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.04-14.53.40:684][194]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.04-14.53.40:684][194]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.04-14.53.40:684][194]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.04-14.53.40:684][194]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.04-14.53.40:684][194]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.04-14.53.40:684][194]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.04-14.53.40:684][194]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.04-14.53.40:684][194]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.04-14.53.40:693][194]LogTexture: Display: Building textures: T_M_block_M_M_block_WorldGridMaterial_261B793B48B37FE84D24DEBE425CCBC0_E8430DA6428D10BEB7B7FF978234D5D1_BaseColor (BGRA8, 128X128)
+[2019.01.04-14.54.21:603][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.54.41:293][767]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-14.54.41:322][767]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.54.41:322][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-14.54.41:322][767]PIE: New page: PIE session: StackMap (Jan 4, 2019, 4:54:41 AM)
+[2019.01.04-14.54.41:323][767]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.54.41:327][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004512s)
+[2019.01.04-14.54.41:328][767]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.54.41:328][767]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2019.01.04-14.54.41:328][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.005393s)
+[2019.01.04-14.54.41:368][767]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-14.54.41:382][767]LogInit: FAudioDevice initialized.
+[2019.01.04-14.54.41:415][767]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.54.41:416][767]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.54.41
+[2019.01.04-14.54.41:417][767]LogWorld: Bringing up level for play took: 0.000702
+[2019.01.04-14.54.41:437][767]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.54.41:438][767]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 0.947
+[2019.01.04-14.54.41:438][767]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.54.43:051][862]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.54.44:114][921]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.54.44:115][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.54.44:157][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.04-14.54.44:158][921]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.54.44:187][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.54.44:251][923]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.01.04-14.54.45:595][999]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.55.11:258][470]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.55.16:492][767]LogSlate: Window 'Statistics' being destroyed
+[2019.01.04-14.55.16:498][767]LogSlate: Window 'Statistics' being destroyed
+[2019.01.04-14.55.21:116][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.56.15:002][165]MapCheck: New page: Map Check
+[2019.01.04-14.56.15:016][165]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.56.15:031][165]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.04-14.56.15:032][165]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.04-14.56.15:095][165]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.01.04-14.56.15:104][165]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.04-14.56.15:104][165]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2019.01.04-14.56.15:112][165]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy GradientBackground, compiling. 
+[2019.01.04-14.56.15:569][165]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.04-14.56.15:569][165]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.04-14.56.15:569][165]TextureStreamingBuild: Display: Compiling optional shaders took 0.482 seconds.
+[2019.01.04-14.56.15:574][165]LogLevel: Display: Export Material TexCoord Scales took 0.005 seconds.
+[2019.01.04-14.56.15:583][165]TextureStreamingBuild: Display: Build Texture Streaming took 0.008 seconds.
+[2019.01.04-14.56.15:619][165]LightingResults: New page: Lighting Build - Jan 4, 2019, 4:56:15 AM
+[2019.01.04-14.56.15:677][165]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.04-14.56.15:911][165]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.04-14.56.15:935][165]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.04-14.56.16:459][165]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.04-14.56.16:459][165]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7784
+[2019.01.04-14.56.21:336][165]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.04-14.56.21:336][165]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.04-14.56.21:336][165]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.04-14.56.21:336][165]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.04-14.56.21:336][165]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.04-14.56.21:580][165]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.04-14.56.21:581][165]MapCheck: New page: StackMap - Jan 4, 2019, 4:56:21 AM
+[2019.01.04-14.56.21:596][165]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 15.468ms to complete.
+[2019.01.04-14.56.21:620][165]LogEditorBuildUtils: Build time 0:06
+[2019.01.04-14.56.24:858][289]Job is a success!
+[2019.01.04-14.56.24:891][290]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.56.24:932][290]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2019.01.04-14.56.24:932][290]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.01.04-14.56.24:933][290]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2019.01.04-14.56.24:933][290]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.04-14.56.24:933][290]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2019.01.04-14.56.24:933][290]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2019.01.04-14.56.24:933][290]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.01.04-14.56.24:955][290]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 64X64)
+[2019.01.04-14.56.24:955][290]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 64X64)
+[2019.01.04-14.56.24:955][290]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.01.04-14.56.24:988][290]Lightmass on DESKTOP-VPEBSJI: 2.24 sec total, 320 ms importing, 38 ms setup, 415 ms photons, 1.40 sec processing, 0 ms extra exporting [1/1 mappings]. Threads: 9.66 sec total, 1.18 sec processing.
+[2019.01.04-14.56.25:032][290]LogStaticLightingSystem: Illumination: 9.39 sec (8 ms encoding lightmaps, 2 ms encoding shadowmaps)
+[2019.01.04-14.56.25:032][290]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.01.04-14.56.25:032][290]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.01.04-14.56.25:343][290]DumpUnbuiltLightIteractions
+[2019.01.04-14.56.25:343][290]Lights with unbuilt interactions: 0
+[2019.01.04-14.56.25:343][290]
+[2019.01.04-14.56.25:343][290]Primitives with unbuilt interactions: 0
+[2019.01.04-14.56.25:347][290]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.56.25:540][291]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.04-14.56.25:540][291]MapCheck: New page: StackMap - Jan 4, 2019, 4:56:25 AM
+[2019.01.04-14.56.25:541][291]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.581ms to complete.
+[2019.01.04-14.56.28:146][433]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.56.31:363][621]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-14.56.31:384][621]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.56.31:384][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-14.56.31:385][621]PIE: New page: PIE session: StackMap (Jan 4, 2019, 4:56:31 AM)
+[2019.01.04-14.56.31:385][621]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.56.31:391][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005994s)
+[2019.01.04-14.56.31:391][621]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.56.31:392][621]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2019.01.04-14.56.31:392][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.006832s)
+[2019.01.04-14.56.31:432][621]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-14.56.31:445][621]LogInit: FAudioDevice initialized.
+[2019.01.04-14.56.31:445][621]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.56.31:477][621]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.56.31:478][621]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.56.31
+[2019.01.04-14.56.31:479][621]LogWorld: Bringing up level for play took: 0.000710
+[2019.01.04-14.56.31:498][621]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.56.31:498][621]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 1.008
+[2019.01.04-14.56.31:499][621]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.56.41:989][247]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.56.43:331][295]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.56.43:332][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.56.43:377][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.04-14.56.43:378][295]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.56.43:411][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.56.43:427][296]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.01.04-14.56.48:405][592]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.04-14.56.48:405][592]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.04-14.57.17:977][334]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.57.18:936][384]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-14.57.18:959][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.57.18:959][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-14.57.18:959][384]PIE: New page: PIE session: StackMap (Jan 4, 2019, 4:57:18 AM)
+[2019.01.04-14.57.18:959][384]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.57.18:963][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003492s)
+[2019.01.04-14.57.18:963][384]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.57.18:964][384]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2019.01.04-14.57.18:964][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004302s)
+[2019.01.04-14.57.19:004][384]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-14.57.19:017][384]LogInit: FAudioDevice initialized.
+[2019.01.04-14.57.19:017][384]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.57.19:051][384]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.57.19:052][384]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.57.19
+[2019.01.04-14.57.19:053][384]LogWorld: Bringing up level for play took: 0.000677
+[2019.01.04-14.57.19:072][384]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.57.19:073][384]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 0.582
+[2019.01.04-14.57.19:073][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.57.20:562][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.57.21:996][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.58.19:098][973]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.58.19:098][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.58.19:140][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.04-14.58.19:140][973]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.58.19:179][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.58.19:194][974]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.01.04-14.58.30:452][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.58.57:748][164]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.01.04-14.58.59:723][281]Cmd: DELETE
+[2019.01.04-14.58.59:723][281]Cmd: ACTOR DELETE
+[2019.01.04-14.58.59:731][281]LogEditorActor: Deleted Actor: SpotLight
+[2019.01.04-14.58.59:771][281]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2019.01.04-14.59.02:835][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.59.07:453][731]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.04-14.59.30:248][934]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.59.34:543][172]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.04-14.59.34:543][172]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.04-14.59.39:656][473]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-14.59.47:077][888]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.04-14.59.47:077][888]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.04-15.00.07:636][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-15.00.28:670][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-15.00.47:340][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-15.01.25:146][187]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-15.01.57:465][976]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.04-15.01.59:260][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-15.01.59:360][ 87]BlueprintLog: New page: Compile StackSpawner
+[2019.01.04-15.02.00:597][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/StackSpawner" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/StackSpawner.uasset" SILENT=true
+[2019.01.04-15.02.01:013][113]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/StackSpawner91B7DA1F451DD3BAC7FD528172E55827.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/StackSpawner.uasset'
+[2019.01.04-15.02.03:585][238]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-15.02.03:627][238]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-15.02.03:627][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-15.02.03:627][238]PIE: New page: PIE session: StackMap (Jan 4, 2019, 5:02:03 AM)
+[2019.01.04-15.02.03:627][238]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-15.02.03:632][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004914s)
+[2019.01.04-15.02.03:633][238]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-15.02.03:633][238]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2019.01.04-15.02.03:633][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.006032s)
+[2019.01.04-15.02.03:683][238]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-15.02.03:700][238]LogInit: FAudioDevice initialized.
+[2019.01.04-15.02.03:730][238]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-15.02.03:732][238]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-10.02.03
+[2019.01.04-15.02.03:732][238]LogWorld: Bringing up level for play took: 0.001015
+[2019.01.04-15.02.03:755][238]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-15.02.03:755][238]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap -0.736
+[2019.01.04-15.02.03:755][238]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-15.02.11:813][685]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-15.02.13:299][758]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-15.02.13:299][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-15.02.13:336][758]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.04-15.02.13:336][758]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-15.02.13:373][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-15.02.13:457][759]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.01.04-15.02.14:237][801]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-15.02.16:966][951]MapCheck: New page: Map Check
+[2019.01.04-15.02.16:976][951]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-15.02.16:992][951]LightingResults: New page: Lighting Build - Jan 4, 2019, 5:02:16 AM
+[2019.01.04-15.02.17:003][951]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.04-15.02.17:005][951]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.04-15.02.17:005][951]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.04-15.02.17:006][951]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.04-15.02.17:006][951]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7784
+[2019.01.04-15.02.21:536][951]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.04-15.02.21:536][951]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.04-15.02.21:536][951]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.04-15.02.21:536][951]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.04-15.02.21:536][951]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.04-15.02.21:699][951]LogEditorBuildUtils: Build time 0:04
+[2019.01.04-15.02.24:361][ 50]Job is a success!
+[2019.01.04-15.02.24:403][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-15.02.24:442][ 51]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2019.01.04-15.02.24:442][ 51]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.01.04-15.02.24:442][ 51]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2019.01.04-15.02.24:442][ 51]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.04-15.02.24:442][ 51]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2019.01.04-15.02.24:442][ 51]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2019.01.04-15.02.24:442][ 51]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.01.04-15.02.24:459][ 51]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 64X64)
+[2019.01.04-15.02.24:459][ 51]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 64X64)
+[2019.01.04-15.02.24:459][ 51]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2019.01.04-15.02.24:511][ 51]Lightmass on DESKTOP-VPEBSJI: 2.12 sec total, 199 ms importing, 25 ms setup, 392 ms photons, 1.49 sec processing, 0 ms extra exporting [1/1 mappings]. Threads: 10.2 sec total, 1.33 sec processing.
+[2019.01.04-15.02.24:519][ 51]LogStaticLightingSystem: Illumination: 7.48 sec (5 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.01.04-15.02.24:519][ 51]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.01.04-15.02.24:519][ 51]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.01.04-15.02.24:542][ 51]DumpUnbuiltLightIteractions
+[2019.01.04-15.02.24:542][ 51]Lights with unbuilt interactions: 0
+[2019.01.04-15.02.24:542][ 51]
+[2019.01.04-15.02.24:543][ 51]Primitives with unbuilt interactions: 0
+[2019.01.04-15.02.24:545][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-15.02.24:622][ 52]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.04-15.02.24:622][ 52]MapCheck: New page: StackMap - Jan 4, 2019, 5:02:24 AM
+[2019.01.04-15.02.24:623][ 52]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.827ms to complete.
+[2019.01.04-15.02.25:960][127]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-15.02.52:136][633]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-15.02.53:658][703]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-15.02.53:682][703]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-15.02.53:683][703]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-15.02.53:683][703]PIE: New page: PIE session: StackMap (Jan 4, 2019, 5:02:53 AM)
+[2019.01.04-15.02.53:683][703]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-15.02.53:690][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006311s)
+[2019.01.04-15.02.53:691][703]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-15.02.53:691][703]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2019.01.04-15.02.53:691][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.007472s)
+[2019.01.04-15.02.53:731][703]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-15.02.53:748][703]LogInit: FAudioDevice initialized.
+[2019.01.04-15.02.53:748][703]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-15.02.53:779][703]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-15.02.53:780][703]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-10.02.53
+[2019.01.04-15.02.53:781][703]LogWorld: Bringing up level for play took: 0.000960
+[2019.01.04-15.02.53:805][703]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-15.02.53:805][703]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap -0.685
+[2019.01.04-15.02.53:805][703]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-15.03.01:804][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-15.03.03:053][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-15.03.06:323][420]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-15.03.06:323][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-15.03.06:370][420]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.04-15.03.06:370][420]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-15.03.06:406][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-15.03.06:508][421]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.01.04-15.03.17:229][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-15.03.23:518][335]BlueprintLog: New page: Compile StackSpawner
+[2019.01.04-15.03.31:599][704]MapCheck: New page: Map Check
+[2019.01.04-15.03.31:624][704]LightingResults: New page: Lighting Build - Jan 4, 2019, 5:03:31 AM
+[2019.01.04-15.03.31:639][704]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.04-15.03.31:642][704]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.04-15.03.31:642][704]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.04-15.03.31:643][704]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.04-15.03.31:643][704]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7784
+[2019.01.04-15.03.36:152][704]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.04-15.03.36:152][704]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.04-15.03.36:152][704]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.04-15.03.36:152][704]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.04-15.03.36:152][704]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.04-15.03.36:294][704]LogEditorBuildUtils: Build time 0:04
+[2019.01.04-15.03.39:266][811]Job is a success!
+[2019.01.04-15.03.39:345][812]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2019.01.04-15.03.39:345][812]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.01.04-15.03.39:345][812]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2019.01.04-15.03.39:345][812]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.04-15.03.39:345][812]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2019.01.04-15.03.39:345][812]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2019.01.04-15.03.39:345][812]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.01.04-15.03.39:364][812]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 64X64)
+[2019.01.04-15.03.39:364][812]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 64X64)
+[2019.01.04-15.03.39:364][812]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2019.01.04-15.03.39:408][812]Lightmass on DESKTOP-VPEBSJI: 2.27 sec total, 291 ms importing, 41 ms setup, 421 ms photons, 1.50 sec processing, 0 ms extra exporting [1/1 mappings]. Threads: 10.3 sec total, 1.29 sec processing.
+[2019.01.04-15.03.39:417][812]LogStaticLightingSystem: Illumination: 7.75 sec (6 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.01.04-15.03.39:417][812]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.01.04-15.03.39:417][812]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.01.04-15.03.40:157][812]DumpUnbuiltLightIteractions
+[2019.01.04-15.03.40:158][812]Lights with unbuilt interactions: 0
+[2019.01.04-15.03.40:158][812]
+[2019.01.04-15.03.40:158][812]Primitives with unbuilt interactions: 0
+[2019.01.04-15.03.40:334][813]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.04-15.03.40:334][813]MapCheck: New page: StackMap - Jan 4, 2019, 5:03:40 AM
+[2019.01.04-15.03.40:335][813]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.648ms to complete.
+[2019.01.04-15.03.42:874][933]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-15.03.42:904][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-15.03.42:904][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-15.03.42:904][933]PIE: New page: PIE session: StackMap (Jan 4, 2019, 5:03:42 AM)
+[2019.01.04-15.03.42:904][933]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-15.03.42:908][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003967s)
+[2019.01.04-15.03.42:909][933]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-15.03.42:909][933]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2019.01.04-15.03.42:909][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004855s)
+[2019.01.04-15.03.42:950][933]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-15.03.42:964][933]LogInit: FAudioDevice initialized.
+[2019.01.04-15.03.42:996][933]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-15.03.42:997][933]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-10.03.42
+[2019.01.04-15.03.42:998][933]LogWorld: Bringing up level for play took: 0.000718
+[2019.01.04-15.03.43:020][933]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-15.03.43:020][933]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 0.529
+[2019.01.04-15.03.43:020][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-15.03.59:569][854]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-15.04.00:593][901]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-15.04.00:593][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-15.04.00:636][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.04-15.04.00:636][901]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-15.04.00:674][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-15.04.00:756][902]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.01.04-15.04.01:635][944]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-15.04.30:942][572]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-15.04.36:284][892]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.04-15.04.36:284][892]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.04-15.04.53:971][948]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.04-15.05.00:176][260]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.04-15.05.00:177][260]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.04-15.05.18:609][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-15.05.40:312][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-15.06.04:649][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-15.06.04:732][684]BlueprintLog: New page: Compile StackSpawner
+[2019.01.04-15.06.10:281][941]MapCheck: New page: Map Check
+[2019.01.04-15.06.10:305][941]LightingResults: New page: Lighting Build - Jan 4, 2019, 5:06:10 AM
+[2019.01.04-15.06.10:318][941]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.04-15.06.10:320][941]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.04-15.06.10:320][941]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.04-15.06.10:321][941]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.04-15.06.10:321][941]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7784
+[2019.01.04-15.06.14:832][941]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.04-15.06.14:832][941]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.04-15.06.14:832][941]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.04-15.06.14:832][941]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.04-15.06.14:832][941]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.04-15.06.14:999][941]LogEditorBuildUtils: Build time 0:04
+[2019.01.04-15.06.17:432][ 37]Job is a success!
+[2019.01.04-15.06.17:519][ 38]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2019.01.04-15.06.17:520][ 38]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.01.04-15.06.17:520][ 38]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2019.01.04-15.06.17:520][ 38]LogVolumetricLightmapImport:      Bricks at Level
+[2019.01.04-15.06.17:520][ 38]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2019.01.04-15.06.17:520][ 38]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2019.01.04-15.06.17:520][ 38]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.01.04-15.06.17:539][ 38]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 64X64)
+[2019.01.04-15.06.17:539][ 38]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 64X64)
+[2019.01.04-15.06.17:539][ 38]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2019.01.04-15.06.17:601][ 38]Lightmass on DESKTOP-VPEBSJI: 1.96 sec total, 184 ms importing, 22 ms setup, 394 ms photons, 1.33 sec processing, 0 ms extra exporting [1/1 mappings]. Threads: 9.19 sec total, 1.09 sec processing.
+[2019.01.04-15.06.17:615][ 38]LogStaticLightingSystem: Illumination: 7.26 sec (7 ms encoding lightmaps, 1 ms encoding shadowmaps)
+[2019.01.04-15.06.17:615][ 38]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.01.04-15.06.17:615][ 38]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.01.04-15.06.17:839][ 38]DumpUnbuiltLightIteractions
+[2019.01.04-15.06.17:839][ 38]Lights with unbuilt interactions: 0
+[2019.01.04-15.06.17:839][ 38]
+[2019.01.04-15.06.17:839][ 38]Primitives with unbuilt interactions: 0
+[2019.01.04-15.06.17:943][ 39]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.01.04-15.06.17:944][ 39]MapCheck: New page: StackMap - Jan 4, 2019, 5:06:17 AM
+[2019.01.04-15.06.17:945][ 39]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.652ms to complete.
+[2019.01.04-15.06.20:585][172]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-15.06.20:613][172]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-15.06.20:613][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-15.06.20:613][172]PIE: New page: PIE session: StackMap (Jan 4, 2019, 5:06:20 AM)
+[2019.01.04-15.06.20:613][172]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-15.06.20:617][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003609s)
+[2019.01.04-15.06.20:618][172]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-15.06.20:618][172]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2019.01.04-15.06.20:618][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004757s)
+[2019.01.04-15.06.20:661][172]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-15.06.20:676][172]LogInit: FAudioDevice initialized.
+[2019.01.04-15.06.20:709][172]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-15.06.20:710][172]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-10.06.20
+[2019.01.04-15.06.20:710][172]LogWorld: Bringing up level for play took: 0.000728
+[2019.01.04-15.06.20:731][172]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-15.06.20:731][172]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 0.24
+[2019.01.04-15.06.20:731][172]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-15.06.24:782][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-15.06.25:847][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-15.06.39:599][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-15.06.39:600][276]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.04-15.06.39:600][276]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.04-15.06.39:642][276]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-15.06.39:646][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003388s)
+[2019.01.04-15.06.39:646][276]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-15.06.39:647][276]LogPlayLevel: PIE: World Init took: (0.000652s)
+[2019.01.04-15.06.39:647][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004250s)
+[2019.01.04-15.06.39:647][276]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-15.06.39:651][276]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-10.06.39
+[2019.01.04-15.06.39:652][276]LogWorld: Bringing up level for play took: 0.004240
+[2019.01.04-15.06.39:652][276]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.04-15.06.39:660][276]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-15.06.39:660][276]LogLoad: Took 0.059820 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)

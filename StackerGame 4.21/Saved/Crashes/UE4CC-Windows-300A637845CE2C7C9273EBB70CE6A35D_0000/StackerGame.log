@@ -1,0 +1,1054 @@
+﻿Log file open, 01/04/19 09:19:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: StackerGame
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.300801
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.111s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=geekTechnique -epicuserid=f07ec2100ff54539b47ba7d2e550d7d3 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.04-14.19.28:173][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.04-14.19.28:173][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.04-14.19.28:173][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.04-14.19.28:173][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.04-14.19.28:173][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2019.01.04-14.19.28:173][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.01.04-14.19.28:174][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.04-14.19.28:175][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.04-14.19.28:175][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.04-14.19.28:175][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.04-14.19.28:185][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.04-14.19.28:185][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.04-14.19.28:186][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.04-14.19.28:186][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.04-14.19.28:186][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.04-14.19.28:207][  0]LogHAL: Display: Platform has ~ 16 GB [16985501696 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.04-14.19.28:207][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.04-14.19.28:207][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.04-14.19.28:207][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.19.28:207][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.04-14.19.28:207][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.04-14.19.28:207][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.19.28:207][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.04-14.19.28:207][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.04-14.19.28:208][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.04-14.19.28:209][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.04-14.19.28:209][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.04-14.19.28:209][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.04-14.19.28:209][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.04-14.19.28:209][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.04-14.19.28:209][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.04-14.19.28:209][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.04-14.19.28:209][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.04-14.19.28:209][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.04-14.19.28:209][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.04-14.19.28:209][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.04-14.19.28:209][  0]LogInit: Computer: DESKTOP-VPEBSJI
+[2019.01.04-14.19.28:209][  0]LogInit: User: nope
+[2019.01.04-14.19.28:209][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.04-14.19.28:209][  0]LogInit: High frequency timer resolution =2.742189 MHz
+[2019.01.04-14.19.28:209][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.01.04-14.19.28:209][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.04-14.19.28:209][  0]LogMemory: Process Physical Memory: 102.19 MB used, 102.19 MB peak
+[2019.01.04-14.19.28:209][  0]LogMemory: Process Virtual Memory: 91.26 MB used, 91.26 MB peak
+[2019.01.04-14.19.28:209][  0]LogMemory: Physical Memory: 8564.99 MB used,  7633.65 MB free, 16198.64 MB total
+[2019.01.04-14.19.28:209][  0]LogMemory: Virtual Memory: 4647.87 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.01.04-14.19.28:225][  0]LogInit: Using OS detected language (en-US).
+[2019.01.04-14.19.28:225][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.04-14.19.28:226][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.04-14.19.28:728][  0]LogStreaming: Display: Took  0.503s to InitEngineTextLocalization.
+[2019.01.04-14.19.28:728][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.04-14.19.28:799][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.04-14.19.28:799][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.04-14.19.29:243][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.04-14.19.29:243][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.04-14.19.29:372][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.01.04-14.19.29:372][  0]LogD3D11RHI:       4021/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.01.04-14.19.29:395][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.01.04-14.19.29:395][  0]LogD3D11RHI:       128/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.01.04-14.19.29:397][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.04-14.19.29:397][  0]LogD3D11RHI:       0/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.04-14.19.29:397][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.04-14.19.29:438][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.04-14.19.29:439][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.01.04-14.19.29:439][  0]LogWindows: EnumDisplayDevices:
+[2019.01.04-14.19.29:439][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.01.04-14.19.29:440][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2019.01.04-14.19.29:440][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.01.04-14.19.29:440][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.01.04-14.19.29:440][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.01.04-14.19.29:440][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.01.04-14.19.29:440][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.01.04-14.19.29:440][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.01.04-14.19.29:500][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.04-14.19.29:523][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.04-14.19.30:078][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.04-14.19.30:110][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.04-14.19.30:138][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.04-14.19.30:165][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.04-14.19.30:193][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.04-14.19.30:219][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.04-14.19.30:245][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.04-14.19.30:271][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.04-14.19.30:282][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.04-14.19.30:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.19.30:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.19.30:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.19.30:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.19.30:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.19.30:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.19.30:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.19.30:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.19.30:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.19.30:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.19.30:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.19.30:423][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.19.30:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.19.30:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.19.30:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.19.30:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.19.30:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.19.30:424][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.04-14.19.30:426][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.04-14.19.30:500][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.04-14.19.30:500][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.04-14.19.30:535][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.04-14.19.30:535][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.04-14.19.30:553][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.04-14.19.30:573][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.04-14.19.30:593][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.04-14.19.30:611][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.04-14.19.30:688][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.04-14.19.30:688][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.04-14.19.30:688][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.04-14.19.30:793][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Intermediate/Shaders/WorkingDirectory/14948/).
+[2019.01.04-14.19.30:794][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nope/AppData/Local/Temp/UnrealShaderWorkingDir/CCBE032A4DF0453A9E8D8591AF5B51A7/'.
+[2019.01.04-14.19.30:797][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.04-14.19.30:797][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.04-14.19.30:797][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.04-14.19.31:549][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.04-14.19.31:628][  0]LogDerivedDataCache: Loaded boot cache 0.08s 84MB C:/Users/nope/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.04-14.19.31:628][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/nope/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.04-14.19.31:628][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.04-14.19.31:628][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.04-14.19.31:628][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.04-14.19.31:628][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.04-14.19.31:645][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.04-14.19.31:645][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.04-14.19.31:645][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.04-14.19.31:657][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nope/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.04-14.19.31:657][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.04-14.19.31:657][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.04-14.19.31:692][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.04-14.19.31:693][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.04-14.19.31:694][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.04-14.19.31:801][  0]LogAssetRegistry: FAssetRegistry took 0.0365 seconds to start up
+[2019.01.04-14.19.32:242][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.04-14.19.32:453][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.04-14.19.32:458][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.04-14.19.32:458][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.04-14.19.32:458][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.04-14.19.32:458][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.04-14.19.32:476][  0]LogNetVersion: StackerGame 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1419414380)
+[2019.01.04-14.19.33:167][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.146663 seconds
+[2019.01.04-14.19.33:176][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.04-14.19.33:176][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.01.04-14.19.33:176][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.04-14.19.34:238][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.04-14.19.34:251][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.04-14.19.35:021][  0]SourceControl: Source control is disabled
+[2019.01.04-14.19.35:021][  0]SourceControl: Source control is disabled
+[2019.01.04-14.19.35:023][  0]SourceControl: Source control is disabled
+[2019.01.04-14.19.35:024][  0]SourceControl: Source control is disabled
+[2019.01.04-14.19.35:186][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.04-14.19.35:301][  0]LogOcInput: OculusInput pre-init called
+[2019.01.04-14.19.35:442][  0]LogEngine: Initializing Engine...
+[2019.01.04-14.19.35:442][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.04-14.19.35:444][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.04-14.19.35:444][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.04-14.19.35:444][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.04-14.19.35:444][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.04-14.19.35:717][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.04-14.19.35:734][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.04-14.19.35:758][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-14.19.35:777][  0]LogInit: FAudioDevice initialized.
+[2019.01.04-14.19.35:777][  0]LogNetVersion: Set ProjectVersion to 0.0.6. Version Checksum will be recalculated on next use.
+[2019.01.04-14.19.35:832][  0]LogDerivedDataCache: Saved boot cache 0.05s 84MB C:/Users/nope/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.04-14.19.35:853][  0]LogInit: Texture streaming: Enabled
+[2019.01.04-14.19.35:870][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.04-14.19.35:884][  0]LogInit: Transaction tracking system initialized
+[2019.01.04-14.19.35:910][  0]BlueprintLog: New page: Editor Load
+[2019.01.04-14.19.35:992][  0]LocalizationService: Localization service is disabled
+[2019.01.04-14.19.36:990][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/' took 0.01s
+[2019.01.04-14.19.36:990][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.04-14.19.36:990][  0]LogCook: Display: Mobile HDR setting 0
+[2019.01.04-14.19.36:990][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.04-14.19.36:990][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.04-14.19.36:990][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.04-14.19.36:991][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.04-14.19.36:991][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.04-14.19.37:131][  0]SourceControl: Source control is disabled
+[2019.01.04-14.19.37:131][  0]Cmd: MAP LOAD FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.04-14.19.37:131][  0]LightingResults: New page: Lighting Build
+[2019.01.04-14.19.37:134][  0]MapCheck: New page: Map Check
+[2019.01.04-14.19.37:134][  0]LightingResults: New page: Lighting Build
+[2019.01.04-14.19.38:185][  0]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.19.38:195][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.04-14.19.38:226][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.04-14.19.38:227][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.178ms to complete.
+[2019.01.04-14.19.38:227][  0]LogFileHelpers: Loading map 'StackMap' took 1.097
+[2019.01.04-14.19.38:385][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.19.38:396][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.19.38:405][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.19.38:413][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.19.38:453][  0]LogCollectionManager: Loaded 0 collections in 0.001862 seconds
+[2019.01.04-14.19.38:494][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Collections/' took 0.01s
+[2019.01.04-14.19.38:494][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Developers/nope/Collections/' took 0.01s
+[2019.01.04-14.19.38:494][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Collections/' took 0.00s
+[2019.01.04-14.19.38:494][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.04-14.19.38:507][  0]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2652 classes and 622 folders.
+[2019.01.04-14.19.38:520][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.04-14.19.38:532][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:545][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:574][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:582][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:590][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:599][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:607][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:615][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:623][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:633][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:641][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:649][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:658][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:666][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:674][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:682][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:726][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:734][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:740][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:748][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:801][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:809][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:817][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:826][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:833][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.38:841][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.04-14.19.39:024][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.04-14.19.39:069][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.04-14.19.39:072][  0]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.04-14.19.39:094][  0]LogSlate: Took 0.009963 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.04-14.19.39:311][  0]LogRenderer: Reallocating scene render targets to support 380x712 Format 10 NumSamples 1 (Frame:1).
+[2019.01.04-14.19.39:464][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.04-14.19.39:464][  0]LogLoad: (Engine Initialization) Total time: 13.34 seconds
+[2019.01.04-14.19.39:465][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.04-14.19.39:483][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.04-14.19.39:529][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.04-14.19.39:548][  0]LogSlate: Took 0.007215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.04-14.19.40:146][  4]LogAssetRegistry: Asset discovery search completed in 8.3678 seconds
+[2019.01.04-14.19.40:149][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.04-14.19.40:149][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000068 seconds (updated 0 objects)
+[2019.01.04-14.21.05:249][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.21.05:515][125]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.04-14.21.05:523][125]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/StackSpawner.StackSpawner
+[2019.01.04-14.21.06:282][125]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2019.01.04-14.21.07:358][125]LogSlate: Took 0.005324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.04-14.21.08:243][126]LogSlate: Took 0.006152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.04-14.23.03:504][ 43]LogEditorTransaction: Undo Move Node
+[2019.01.04-14.30.40:033][888]BlueprintLog: New page: Compile StackSpawner
+[2019.01.04-14.30.41:411][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/StackSpawner" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/StackSpawner.uasset" SILENT=true
+[2019.01.04-14.30.41:794][889]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/StackSpawner390266A54926AC4C813632AAE78DB7E5.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/StackSpawner.uasset'
+[2019.01.04-14.31.05:955][158]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Meshes/block.block
+[2019.01.04-14.31.06:643][159]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2019.01.04-14.33.16:710][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/block" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" SILENT=true
+[2019.01.04-14.33.16:741][931]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/block324D295C469488CA7608C4BDD63E762C.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset'
+[2019.01.04-14.33.20:926][176]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-14.33.20:996][176]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.33.20:996][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-14.33.20:998][176]PIE: New page: PIE session: StackMap (Jan 4, 2019, 4:33:20 AM)
+[2019.01.04-14.33.21:011][176]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.33.21:016][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004699s)
+[2019.01.04-14.33.21:017][176]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.33.21:017][176]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2019.01.04-14.33.21:017][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.006048s)
+[2019.01.04-14.33.21:057][176]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-14.33.21:072][176]LogInit: FAudioDevice initialized.
+[2019.01.04-14.33.21:117][176]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.33.21:120][176]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.33.21
+[2019.01.04-14.33.21:121][176]LogWorld: Bringing up level for play took: 0.001218
+[2019.01.04-14.33.21:146][176]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.01.04-14.33.21:165][176]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.33.21:166][176]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 0.675
+[2019.01.04-14.33.21:166][176]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.33.22:395][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.33.23:769][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.33.31:939][813]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.04-14.33.31:940][813]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.04-14.33.31:972][813]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.33.31:976][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003505s)
+[2019.01.04-14.33.31:977][813]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.33.31:977][813]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2019.01.04-14.33.31:977][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004364s)
+[2019.01.04-14.33.31:977][813]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.33.31:978][813]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.33.31
+[2019.01.04-14.33.31:978][813]LogWorld: Bringing up level for play took: 0.000667
+[2019.01.04-14.33.31:979][813]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.04-14.33.31:986][813]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.33.31:986][813]LogLoad: Took 0.046719 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.04-14.33.33:135][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.33.37:317][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.33.41:804][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.33.53:287][ 91]LogScript: Warning: Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill
+	StackSpawner_C /Game/Maps/UEDPIE_0_StackMap.StackMap:PersistentLevel.StackSpawner_218
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner:2A2C
+[2019.01.04-14.33.53:287][ 91]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:287][ 91]LogScript: Warning: Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill
+	StackSpawner_C /Game/Maps/UEDPIE_0_StackMap.StackMap:PersistentLevel.StackSpawner_218
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner:2A87
+[2019.01.04-14.33.53:287][ 91]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:287][ 91]LogScript: Warning: Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill
+	StackSpawner_C /Game/Maps/UEDPIE_0_StackMap.StackMap:PersistentLevel.StackSpawner_218
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner:2B56
+[2019.01.04-14.33.53:287][ 91]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:303][ 92]LogScript: Warning: Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill
+	StackSpawner_C /Game/Maps/UEDPIE_0_StackMap.StackMap:PersistentLevel.StackSpawner_218
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner:2A2C
+[2019.01.04-14.33.53:303][ 92]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:304][ 92]LogScript: Warning: Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill
+	StackSpawner_C /Game/Maps/UEDPIE_0_StackMap.StackMap:PersistentLevel.StackSpawner_218
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner:2A87
+[2019.01.04-14.33.53:304][ 92]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:304][ 92]LogScript: Warning: Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill
+	StackSpawner_C /Game/Maps/UEDPIE_0_StackMap.StackMap:PersistentLevel.StackSpawner_218
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner:2B56
+[2019.01.04-14.33.53:304][ 92]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:320][ 93]LogScript: Warning: Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill
+	StackSpawner_C /Game/Maps/UEDPIE_0_StackMap.StackMap:PersistentLevel.StackSpawner_218
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner:2A2C
+[2019.01.04-14.33.53:321][ 93]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:321][ 93]LogScript: Warning: Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill
+	StackSpawner_C /Game/Maps/UEDPIE_0_StackMap.StackMap:PersistentLevel.StackSpawner_218
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner:2A87
+[2019.01.04-14.33.53:321][ 93]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:321][ 93]LogScript: Warning: Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill
+	StackSpawner_C /Game/Maps/UEDPIE_0_StackMap.StackMap:PersistentLevel.StackSpawner_218
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner:2B56
+[2019.01.04-14.33.53:321][ 93]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:337][ 94]LogScript: Warning: Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill
+	StackSpawner_C /Game/Maps/UEDPIE_0_StackMap.StackMap:PersistentLevel.StackSpawner_218
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner:2A2C
+[2019.01.04-14.33.53:337][ 94]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:338][ 94]LogScript: Warning: Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill
+	StackSpawner_C /Game/Maps/UEDPIE_0_StackMap.StackMap:PersistentLevel.StackSpawner_218
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner:2A87
+[2019.01.04-14.33.53:338][ 94]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:338][ 94]LogScript: Warning: Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill
+	StackSpawner_C /Game/Maps/UEDPIE_0_StackMap.StackMap:PersistentLevel.StackSpawner_218
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner:2B56
+[2019.01.04-14.33.53:338][ 94]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:354][ 95]LogScript: Warning: Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill
+	StackSpawner_C /Game/Maps/UEDPIE_0_StackMap.StackMap:PersistentLevel.StackSpawner_218
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner:2A2C
+[2019.01.04-14.33.53:354][ 95]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:354][ 95]LogScript: Warning: Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill
+	StackSpawner_C /Game/Maps/UEDPIE_0_StackMap.StackMap:PersistentLevel.StackSpawner_218
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner:2A87
+[2019.01.04-14.33.53:354][ 95]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:354][ 95]LogScript: Warning: Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill
+	StackSpawner_C /Game/Maps/UEDPIE_0_StackMap.StackMap:PersistentLevel.StackSpawner_218
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner:2B56
+[2019.01.04-14.33.53:355][ 95]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:370][ 96]LogScript: Warning: Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill
+	StackSpawner_C /Game/Maps/UEDPIE_0_StackMap.StackMap:PersistentLevel.StackSpawner_218
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner:2A2C
+[2019.01.04-14.33.53:371][ 96]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:371][ 96]LogScript: Warning: Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill
+	StackSpawner_C /Game/Maps/UEDPIE_0_StackMap.StackMap:PersistentLevel.StackSpawner_218
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner:2A87
+[2019.01.04-14.33.53:371][ 96]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:371][ 96]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:387][ 97]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:387][ 97]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:387][ 97]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:404][ 98]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:404][ 98]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:404][ 98]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:421][ 99]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:421][ 99]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:421][ 99]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:437][100]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:437][100]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:438][100]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:454][101]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:454][101]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:455][101]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:472][102]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:472][102]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:472][102]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:488][103]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:489][103]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:489][103]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:506][104]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:506][104]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:506][104]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:525][105]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:526][105]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:526][105]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:541][106]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:541][106]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:541][106]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:558][107]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:558][107]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:558][107]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:574][108]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:575][108]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:575][108]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:594][109]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:594][109]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:594][109]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:616][110]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:616][110]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:616][110]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:633][111]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:633][111]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:633][111]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:649][112]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:649][112]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:650][112]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:664][113]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:664][113]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:664][113]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:681][114]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:682][114]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:682][114]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:698][115]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:699][115]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:699][115]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:715][116]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:715][116]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:715][116]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:732][117]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:733][117]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:733][117]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:748][118]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:749][118]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:749][118]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:766][119]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:766][119]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:767][119]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:782][120]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:783][120]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:784][120]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:798][121]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:798][121]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:798][121]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:816][122]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:816][122]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:816][122]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:831][123]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:831][123]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:832][123]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:849][124]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:849][124]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:850][124]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:865][125]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:865][125]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:865][125]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:882][126]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:883][126]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:883][126]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:898][127]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:899][127]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:899][127]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:915][128]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:916][128]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:916][128]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:932][129]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:932][129]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:932][129]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:949][130]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:950][130]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:950][130]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:965][131]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:965][131]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:965][131]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:983][132]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:983][132]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.53:983][132]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:000][133]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:000][133]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:000][133]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:016][134]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:017][134]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:017][134]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:031][135]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:031][135]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:031][135]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:050][136]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:050][136]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:050][136]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:065][137]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:065][137]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:065][137]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:081][138]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:081][138]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:082][138]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:098][139]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:098][139]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:098][139]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:115][140]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:116][140]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:116][140]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:131][141]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:132][141]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:132][141]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:148][142]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:148][142]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:148][142]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:164][143]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:165][143]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:165][143]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:182][144]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:182][144]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:182][144]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:199][145]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:199][145]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:199][145]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:216][146]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:217][146]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:217][146]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:233][147]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:233][147]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:233][147]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:249][148]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:250][148]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:250][148]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:266][149]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:267][149]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:267][149]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:283][150]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:284][150]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:284][150]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:299][151]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:299][151]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:299][151]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:315][152]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:316][152]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:316][152]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:333][153]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:333][153]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:334][153]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:349][154]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:350][154]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:350][154]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:367][155]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:367][155]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:367][155]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:382][156]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:382][156]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:382][156]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:398][157]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:399][157]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:399][157]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:416][158]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:416][158]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:416][158]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:432][159]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:432][159]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:432][159]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:448][160]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:448][160]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:449][160]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:465][161]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:466][161]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:466][161]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:482][162]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:483][162]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:483][162]PIE: Error: Blueprint Runtime Error: "Attempted to access Tile_C_36 via property PreviousTile, but Tile_C_36 is pending kill". Blueprint:  StackSpawner Function:  Execute Ubergraph Stack Spawner Graph:  EventGraph Node:  Branch
+[2019.01.04-14.33.54:500][163]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.04-14.33.54:500][163]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.04-14.33.54:536][163]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.33.54:540][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003560s)
+[2019.01.04-14.33.54:541][163]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.33.54:541][163]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2019.01.04-14.33.54:541][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004607s)
+[2019.01.04-14.33.54:541][163]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.33.54:548][163]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.33.54
+[2019.01.04-14.33.54:548][163]LogWorld: Bringing up level for play took: 0.006248
+[2019.01.04-14.33.54:549][163]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.04-14.33.54:558][163]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.33.54:558][163]LogLoad: Took 0.057298 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.04-14.33.55:858][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.33.56:789][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.34.09:211][ 42]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.04-14.34.09:211][ 42]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.04-14.34.09:255][ 42]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.34.09:259][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004542s)
+[2019.01.04-14.34.09:260][ 42]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.34.09:260][ 42]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2019.01.04-14.34.09:260][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.005561s)
+[2019.01.04-14.34.09:260][ 42]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.34.09:262][ 42]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.34.09
+[2019.01.04-14.34.09:262][ 42]LogWorld: Bringing up level for play took: 0.001032
+[2019.01.04-14.34.09:263][ 42]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.04-14.34.09:271][ 42]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.34.09:271][ 42]LogLoad: Took 0.060737 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.04-14.34.10:268][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.34.11:501][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.34.21:052][749]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.04-14.34.21:052][749]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.04-14.34.21:088][749]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.34.21:091][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003370s)
+[2019.01.04-14.34.21:092][749]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.34.21:092][749]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2019.01.04-14.34.21:092][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004287s)
+[2019.01.04-14.34.21:092][749]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.34.21:094][749]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.34.21
+[2019.01.04-14.34.21:094][749]LogWorld: Bringing up level for play took: 0.000791
+[2019.01.04-14.34.21:094][749]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.04-14.34.21:102][749]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.34.21:102][749]LogLoad: Took 0.049920 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.04-14.34.25:130][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.34.25:163][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.34.25:164][988]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.34.25:201][988]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.04-14.34.25:201][988]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.34.25:233][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.34.25:381][989]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.01.04-14.34.39:490][812]LogSlate: Window 'Message Log' being destroyed
+[2019.01.04-14.34.39:500][812]LogSlate: Window 'Message Log' being destroyed
+[2019.01.04-14.34.46:015][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/block" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" SILENT=true
+[2019.01.04-14.34.46:039][197]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/blockDB45ADE04D9AE4583A8897847035181E.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset'
+[2019.01.04-14.34.49:426][389]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-14.34.49:453][389]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.34.49:453][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-14.34.49:453][389]PIE: New page: PIE session: StackMap (Jan 4, 2019, 4:34:49 AM)
+[2019.01.04-14.34.49:453][389]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.34.49:457][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003490s)
+[2019.01.04-14.34.49:457][389]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.34.49:457][389]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2019.01.04-14.34.49:458][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004299s)
+[2019.01.04-14.34.49:498][389]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-14.34.49:512][389]LogInit: FAudioDevice initialized.
+[2019.01.04-14.34.49:546][389]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.34.49:547][389]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.34.49
+[2019.01.04-14.34.49:548][389]LogWorld: Bringing up level for play took: 0.000685
+[2019.01.04-14.34.49:568][389]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.34.49:568][389]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 1.078
+[2019.01.04-14.34.49:569][389]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.34.50:706][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.34.51:539][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.34.56:106][770]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.34.56:107][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.34.56:145][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.04-14.34.56:145][770]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.34.56:182][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.04-14.34.56:223][772]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.01.04-14.36.08:509][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/block" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" SILENT=true
+[2019.01.04-14.36.08:536][ 86]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/blockF299FEA4461071B0AE6D4BB49B219EBB.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset'
+[2019.01.04-14.36.11:696][263]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.04-14.36.11:714][263]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.36.11:715][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.04-14.36.11:715][263]PIE: New page: PIE session: StackMap (Jan 4, 2019, 4:36:11 AM)
+[2019.01.04-14.36.11:715][263]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.04-14.36.11:721][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005795s)
+[2019.01.04-14.36.11:721][263]LogAIModule: Creating AISystem for world StackMap
+[2019.01.04-14.36.11:721][263]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2019.01.04-14.36.11:721][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.006628s)
+[2019.01.04-14.36.11:767][263]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.04-14.36.11:781][263]LogInit: FAudioDevice initialized.
+[2019.01.04-14.36.11:811][263]LogLoad: Game class is 'GameModeBase'
+[2019.01.04-14.36.11:812][263]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.04-09.36.11
+[2019.01.04-14.36.11:812][263]LogWorld: Bringing up level for play took: 0.000669
+[2019.01.04-14.36.11:832][263]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.04-14.36.11:832][263]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap -0.658
+[2019.01.04-14.36.11:833][263]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.04-14.36.16:683][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.04-14.36.21:233][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/block" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" SILENT=true
+[2019.01.04-14.36.21:263][738]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/block7CF56FAA48753C8BB7E8D3B22A3F17C3.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset'
