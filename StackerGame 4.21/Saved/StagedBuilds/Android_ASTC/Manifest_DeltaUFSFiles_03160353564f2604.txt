@@ -760,5 +760,7 @@ StackerGame/Content/Sounds/Possible_theme.uasset
 StackerGame/Content/Sounds/Possible_theme.uexp
 StackerGame/Content/Sounds/tile_gets_cut_sound.uasset
 StackerGame/Content/Sounds/tile_gets_cut_sound.uexp
+StackerGame/Content/Sounds/Whoosh.uasset
+StackerGame/Content/Sounds/Whoosh.uexp
 Manifest_NonUFSFiles_Android.txt
 Manifest_UFSFiles_Android.txt

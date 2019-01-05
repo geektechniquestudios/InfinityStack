@@ -384,5 +384,6 @@ Z:\bin\res\drawable-ldpi\icon.png \
 Z:\bin\res\drawable-mdpi\icon.png \
 Z:\bin\res\drawable-mdpi\notify_panel_notification_icon_bg.png \
 Z:\bin\res\drawable-xhdpi\icon.png \
+Z:\assets\main.obb.png \
 Z:\assets\UE4CommandLine.txt \
 Z:\bin\AndroidManifest.xml \
