@@ -19,18 +19,6 @@ Windows.Engine:AssetRegistry:CookedTagsWhitelist:5=(Class=*,Tag=PrimaryAssetName
 Windows.Engine:AssetRegistry:CookedTagsWhitelist:6=(Class=World,Tag=Tests)
 Windows.Engine:AssetRegistry:CookedTagsWhitelist:7=(Class=World,Tag=TestNames)
 Windows.Engine:AssetRegistry:bSerializeSearchableNameDependencies:0=false
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/Maps/StackMap.StackMap
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Script/Engine.GameModeBase
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultServerGameMode:0=None
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/Maps/StackMap.StackMap
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry.Entry
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:LocalMapOptions:0=
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:TransitionMap:0=None
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:bUseSplitscreen:0=False
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:TwoPlayerSplitscreenLayout:0=Horizontal
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:ThreePlayerSplitscreenLayout:0=FavorTop
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:bOffsetPlayerGamepadIds:0=False
 Windows.Engine:Core.System:CutdownPaths:0=%GAMEDIR%CutdownPackages
 Windows.Engine:Core.System:ZeroEngineVersionWarning:0=True
 Windows.Engine:Core.System:UseStrictEngineVersioning:0=True
@@ -152,6 +140,18 @@ Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:
 Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:99=/Engine/EngineResources/WhiteSquareTexture
 Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:100=/Engine/EngineResources/GradientTexture0
 Windows.Engine:MagicLeapSettings:WindowMirrorMode:0=1
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/Maps/StackMap.StackMap
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/Maps/StackMap.StackMap
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry.Entry
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Script/Engine.GameModeBase
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:LocalMapOptions:0=
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:TransitionMap:0=None
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:bUseSplitscreen:0=False
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:TwoPlayerSplitscreenLayout:0=Horizontal
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:ThreePlayerSplitscreenLayout:0=FavorTop
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:bOffsetPlayerGamepadIds:0=False
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultServerGameMode:0=None
 Windows.Engine:URL:Protocol:0=unreal
 Windows.Engine:URL:Name:0=Player
 Windows.Engine:URL:SaveExt:0=usa
@@ -1101,11 +1101,11 @@ Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bEnableGoog
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bSupportAdMob:0=True
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bBuildForArmV7:0=True
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bBuildForArm64:0=False
-Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bBuildForX86:0=False
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bBuildForX86:0=false
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bBuildForX8664:0=False
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bBuildForES2:0=True
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bSupportsVulkan:0=False
-Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bDetectVulkanByDefault:0=true
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bDetectVulkanByDefault:0=True
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bSplitIntoSeparateApks:0=false
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bPackageDataInsideApk:0=True
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bUseExternalFilesDir:0=False
@@ -1114,12 +1114,12 @@ Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:Orientation
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:InstallLocation:0=InternalOnly
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:DepthBufferPreference:0=Default
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:PackageName:0=com.GeekTechnique.InfinityStack
-Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:StoreVersion:0=6
-Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:VersionDisplayName:0=0.0.6
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:StoreVersion:0=7
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:VersionDisplayName:0=1.0
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:MinSDKVersion:0=14
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:TargetSDKVersion:0=26
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bEnableGradle:0=False
-Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bEnableLint:0=false
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bEnableLint:0=False
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bShowLaunchImage:0=True
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bValidateTextureFormats:0=True
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bMultiTargetFormat_ETC1:0=True
@@ -1138,11 +1138,12 @@ Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:TextureForm
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bEnableNewKeyboard:0=False
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bAndroidVoiceEnabled:0=False
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bBuildWithHiddenSymbolVisibility:0=False
-Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bSaveSymbols:0=false
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bSaveSymbols:0=False
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bAllowControllers:0=True
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bAllowIMU:0=True
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:ApplicationDisplayName:0=Stack Attack!
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bDisableVerifyOBBOnStartUp:0=False
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bAllowLargeOBBFiles:0=False
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:MaxAspectRatio:0=2.019161
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:AntVerbosity:0=Quiet
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bFullScreen:0=False
@@ -1156,8 +1157,6 @@ Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:ExtraPermis
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:ExtraPermissions:3=android.permission.USE_CREDENTIALS
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bPackageForGearVR:0=False
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bRemoveOSIG:0=False
-Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:GoogleVRCaps:0=Cardboard
-Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:GoogleVRCaps:1=Daydream33
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bGoogleVRSustainedPerformance:0=False
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:KeyStore:0=StackAttackKey.keystore
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:KeyAlias:0=StackAttack
@@ -1182,9 +1181,16 @@ Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:AudioNumSou
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:SpatializationPlugin:0=
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:ReverbPlugin:0=
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:OcclusionPlugin:0=
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:CompressionOverrides:0=(bOverrideCompressionTimes=False,DurationThreshold=5.000000,MaxNumRandomBranches=0,SoundCueQualityIndex=0)
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bResampleForDevice:0=False
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:MaxSampleRate:0=0.000000
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:HighSampleRate:0=0.000000
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:MedSampleRate:0=0.000000
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:LowSampleRate:0=0.000000
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:MinSampleRate:0=0.000000
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:CompressionQualityModifier:0=0.000000
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:AndroidGraphicsDebugger:0=None
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:MaliGraphicsDebuggerPath:0=(Path="")
-Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:RenderDocPath:0=(Path="")
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bMultiTargetFormat_ETC1a:0=True
 Windows.Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:SDKAPILevel:0=latest
 Windows.Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:NDKAPILevel:0=android-19
@@ -1801,11 +1807,8 @@ Windows.Input:/Script/EngineSettings.ConsoleSettings:HistoryColor:0=(R=180,G=180
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCommandColor:0=(B=185,G=109,R=144,A=255)
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCVarColor:0=(B=86,G=158,R=86,A=255)
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteFadedColor:0=(R=100,G=100,B=100,A=255)
-Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
-Mac.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/nope/Desktop/Android Builds")
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/nope/Desktop/Android Builds/Android_Multi/Android_Multi")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bIncludeNativizedAssetsInProjectGeneration:0=False
@@ -1823,6 +1826,7 @@ Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bNativizeOnlySelectedBlue
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Shipping
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bChunkHardReferencesOnly:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludePrerequisites:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeCrashReporter:0=False
@@ -1942,10 +1946,6 @@ Windows.Game:/Script/AIModule.EnvQueryManager:QueryCountWarningInterval:0=30.0
 Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:0=(PrimaryAssetType="Map",AssetBaseClass=/Script/Engine.World,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game/Maps")))
 Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:1=(PrimaryAssetType="PrimaryAssetLabel",AssetBaseClass=/Script/Engine.PrimaryAssetLabel,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game")))
 Windows.Game:Staging:RemapDirectories:0=(From="Engine/Plugins/Lumin", To="Engine/Plugins/MagicLeap")
-Android.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
-HTML5.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
-IOS.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
-Linux.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:UsingXGE:0=False
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:bExpandCustomClassPickerClassList:0=True
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCategories:0=(Name="Matinee")
