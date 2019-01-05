@@ -2,5 +2,5 @@
 package com.google.android.gms.plus;
 
 public final class BuildConfig {
-    public final static boolean DEBUG = false;
+    public final static boolean DEBUG = true;
 }
