@@ -1137,7 +1137,7 @@ Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:Orientation
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:InstallLocation:0=InternalOnly
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:DepthBufferPreference:0=Default
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:PackageName:0=com.GeekTechnique.InfinityStack
-Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:StoreVersion:0=8
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:StoreVersion:0=9
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:VersionDisplayName:0=1.0
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:MinSDKVersion:0=14
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:TargetSDKVersion:0=26
@@ -1784,7 +1784,7 @@ Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCommandColor:0=
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCVarColor:0=(B=86,G=158,R=86,A=255)
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteFadedColor:0=(R=100,G=100,B=100,A=255)
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/nope/Desktop/Android Builds/Android_Multi")
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/nope/Desktop/Android Builds")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bIncludeNativizedAssetsInProjectGeneration:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bExcludeMonolithicEngineHeadersInNativizedCode:0=False
@@ -1798,7 +1798,7 @@ Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bEncryptIniFiles:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bEncryptPakIndex:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bNativizeBlueprintAssets:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bNativizeOnlySelectedBlueprints:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Shipping
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Development
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
@@ -1877,7 +1877,7 @@ Windows.Game:/Script/EngineSettings.GeneralProjectSettings:Description:0=Infinit
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:LicensingTerms:0=
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:PrivacyPolicy:0=
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:ProjectName:0=Infinity Stack
-Windows.Game:/Script/EngineSettings.GeneralProjectSettings:ProjectVersion:0=1.0.1
+Windows.Game:/Script/EngineSettings.GeneralProjectSettings:ProjectVersion:0=1.0.2
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:Homepage:0=
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:SupportContact:0=
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:MinWindowWidth:0=16

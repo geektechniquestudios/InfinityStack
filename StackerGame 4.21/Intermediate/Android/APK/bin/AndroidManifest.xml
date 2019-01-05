@@ -1,4 +1,4 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.GeekTechnique.InfinityStack" com.google.android.gms.games.APP_ID="@string/app_id" com.google.android.gms.appstate.APP_ID="@string/app_id" android:installLocation="internalOnly" android:versionCode="8" android:versionName="1.0">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.GeekTechnique.InfinityStack" com.google.android.gms.games.APP_ID="@string/app_id" com.google.android.gms.appstate.APP_ID="@string/app_id" android:installLocation="internalOnly" android:versionCode="9" android:versionName="1.0">
   <!-- Application Definition -->
   <application android:label="@string/app_name" android:icon="@drawable/icon" android:hardwareAccelerated="true" android:hasCode="true">
     <activity android:name="com.epicgames.ue4.SplashActivity" android:label="@string/app_name" android:theme="@style/UE4SplashTheme" android:launchMode="singleTask" android:screenOrientation="portrait" android:debuggable="false">
@@ -13,7 +13,7 @@
     <activity android:name=".DownloaderActivity" android:screenOrientation="portrait" android:configChanges="mcc|mnc|uiMode|screenSize|orientation|keyboardHidden|keyboard" android:theme="@style/UE4SplashTheme" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.EngineVersion" android:value="4.21.1" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.EngineBranch" android:value="++UE4+Release-4.21" />
-    <meta-data android:name="com.epicgames.ue4.GameActivity.ProjectVersion" android:value="1.0.1" />
+    <meta-data android:name="com.epicgames.ue4.GameActivity.ProjectVersion" android:value="1.0.2" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.DepthBufferPreference" android:value="0" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bPackageDataInsideApk" android:value="true" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bVerifyOBBOnStartUp" android:value="true" />
@@ -21,7 +21,7 @@
     <meta-data android:name="com.epicgames.ue4.GameActivity.ProjectName" android:value="StackerGame" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.AppType" android:value="" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bHasOBBFiles" android:value="true" />
-    <meta-data android:name="com.epicgames.ue4.GameActivity.BuildConfiguration" android:value="Shipping" />
+    <meta-data android:name="com.epicgames.ue4.GameActivity.BuildConfiguration" android:value="Development" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.CookedFlavors" android:value="ETC1,ETC2,DXT,ATC,PVRTC,ASTC" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bValidateTextureFormats" android:value="true" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bUseExternalFilesDir" android:value="false" />
