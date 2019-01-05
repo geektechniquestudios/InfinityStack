@@ -1137,7 +1137,7 @@ Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:Orientation
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:InstallLocation:0=InternalOnly
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:DepthBufferPreference:0=Default
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:PackageName:0=com.GeekTechnique.InfinityStack
-Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:StoreVersion:0=7
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:StoreVersion:0=8
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:VersionDisplayName:0=1.0
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:MinSDKVersion:0=14
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:TargetSDKVersion:0=26
@@ -1164,7 +1164,7 @@ Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bBuildWithH
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bSaveSymbols:0=False
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bAllowControllers:0=True
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bAllowIMU:0=True
-Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:ApplicationDisplayName:0=Stack Attack!
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:ApplicationDisplayName:0=Infinity Stack
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bDisableVerifyOBBOnStartUp:0=False
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bAllowLargeOBBFiles:0=False
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:MaxAspectRatio:0=2.019161
@@ -1178,8 +1178,11 @@ Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:ExtraPermis
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:ExtraPermissions:1=android.permission.INTERNET
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:ExtraPermissions:2=android.permission.GET_ACCOUNTS
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:ExtraPermissions:3=android.permission.USE_CREDENTIALS
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:ExtraPermissions:4=android.permission.BODY_SENSORS
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bPackageForGearVR:0=False
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bRemoveOSIG:0=False
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:GoogleVRCaps:0=Cardboard
+Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:GoogleVRCaps:1=Daydream33
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bGoogleVRSustainedPerformance:0=False
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:KeyStore:0=StackAttackKey.keystore
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:KeyAlias:0=StackAttack
@@ -1781,8 +1784,7 @@ Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCommandColor:0=
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCVarColor:0=(B=86,G=158,R=86,A=255)
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteFadedColor:0=(R=100,G=100,B=100,A=255)
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/nope/Desktop/Android Builds/Android_Multi/Android_Multi")
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/nope/Desktop/Android Builds/Android_Multi")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bIncludeNativizedAssetsInProjectGeneration:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bExcludeMonolithicEngineHeadersInNativizedCode:0=False
@@ -1834,6 +1836,7 @@ Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCompressed:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookAll:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookMapsOnly:0=True
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Windows.Game:Internationalization:LocalizationPaths:0=%GAMEDIR%Content/Localization/Game
 Windows.Game:DefaultPlayer:Name:0=Player
 Windows.Game:/Script/Engine.GameNetworkManager:TotalNetBandwidth:0=32000
@@ -1867,20 +1870,21 @@ Windows.Game:/Script/Engine.GameSession:MaxPlayers:0=16
 Windows.Game:/Script/Engine.GameSession:MaxSpectators:0=2
 Windows.Game:/Script/Engine.GameSession:MaxSplitscreensPerConnection:0=4
 Windows.Game:/Script/Engine.GameSession:bRequiresPushToTalk:0=true
-Windows.Game:/Script/EngineSettings.GeneralProjectSettings:CompanyName:0=
+Windows.Game:/Script/EngineSettings.GeneralProjectSettings:CompanyName:0=Geek Technique Studios
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:CompanyDistinguishedName:0=
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:CopyrightNotice:0=Fill out your copyright notice in the Description page of Project Settings.
-Windows.Game:/Script/EngineSettings.GeneralProjectSettings:Description:0=
+Windows.Game:/Script/EngineSettings.GeneralProjectSettings:Description:0=Infinity Stack
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:LicensingTerms:0=
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:PrivacyPolicy:0=
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:ProjectName:0=Infinity Stack
-Windows.Game:/Script/EngineSettings.GeneralProjectSettings:ProjectVersion:0=0.0.6
+Windows.Game:/Script/EngineSettings.GeneralProjectSettings:ProjectVersion:0=1.0.1
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:Homepage:0=
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:SupportContact:0=
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:MinWindowWidth:0=16
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:MinWindowHeight:0=16
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:ProjectID:0=ED745B714954181AED8B9A96C698355A
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:bShouldWindowPreserveAspectRatio:0=True
+Windows.Game:/Script/EngineSettings.GeneralProjectSettings:ProjectDisplayedTitle:0=NSLOCTEXT("[/Script/EngineSettings]", "95D4499F40B87170E5E42B95EFCF324B", "Infinity Stack")
 Windows.Game:/Script/Engine.HUD:DebugDisplay:0=AI
 Windows.Game:/Script/Engine.PlayerController:InputYawScale:0=2.5
 Windows.Game:/Script/Engine.PlayerController:InputPitchScale:0=-2.5
