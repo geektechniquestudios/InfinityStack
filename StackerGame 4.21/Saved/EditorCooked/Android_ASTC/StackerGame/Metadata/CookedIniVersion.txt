@@ -19,6 +19,18 @@ Windows.Engine:AssetRegistry:CookedTagsWhitelist:5=(Class=*,Tag=PrimaryAssetName
 Windows.Engine:AssetRegistry:CookedTagsWhitelist:6=(Class=World,Tag=Tests)
 Windows.Engine:AssetRegistry:CookedTagsWhitelist:7=(Class=World,Tag=TestNames)
 Windows.Engine:AssetRegistry:bSerializeSearchableNameDependencies:0=false
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/Maps/StackMap.StackMap
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Script/Engine.GameModeBase
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultServerGameMode:0=None
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/Maps/StackMap.StackMap
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry.Entry
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:LocalMapOptions:0=
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:TransitionMap:0=None
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:bUseSplitscreen:0=False
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:TwoPlayerSplitscreenLayout:0=Horizontal
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:ThreePlayerSplitscreenLayout:0=FavorTop
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:bOffsetPlayerGamepadIds:0=False
 Windows.Engine:Core.System:CutdownPaths:0=%GAMEDIR%CutdownPackages
 Windows.Engine:Core.System:ZeroEngineVersionWarning:0=True
 Windows.Engine:Core.System:UseStrictEngineVersioning:0=True
@@ -140,18 +152,6 @@ Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:
 Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:99=/Engine/EngineResources/WhiteSquareTexture
 Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:100=/Engine/EngineResources/GradientTexture0
 Windows.Engine:MagicLeapSettings:WindowMirrorMode:0=1
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/Maps/StackMap.StackMap
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/Maps/StackMap.StackMap
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry.Entry
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Script/Engine.GameModeBase
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:LocalMapOptions:0=
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:TransitionMap:0=None
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:bUseSplitscreen:0=False
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:TwoPlayerSplitscreenLayout:0=Horizontal
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:ThreePlayerSplitscreenLayout:0=FavorTop
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:bOffsetPlayerGamepadIds:0=False
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultServerGameMode:0=None
 Windows.Engine:URL:Protocol:0=unreal
 Windows.Engine:URL:Name:0=Player
 Windows.Engine:URL:SaveExt:0=usa
@@ -1808,8 +1808,7 @@ Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCommandColor:0=
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCVarColor:0=(B=86,G=158,R=86,A=255)
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteFadedColor:0=(R=100,G=100,B=100,A=255)
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/nope/Desktop/Android Builds/Android_Multi/Android_Multi")
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/nope/Desktop/Android Builds/Android_Multi")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bIncludeNativizedAssetsInProjectGeneration:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bExcludeMonolithicEngineHeadersInNativizedCode:0=False
@@ -1823,7 +1822,7 @@ Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bEncryptIniFiles:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bEncryptPakIndex:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bNativizeBlueprintAssets:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bNativizeOnlySelectedBlueprints:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Shipping
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Development
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
@@ -1861,6 +1860,7 @@ Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCompressed:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookAll:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookMapsOnly:0=True
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Windows.Game:Internationalization:LocalizationPaths:0=%GAMEDIR%Content/Localization/Game
 Windows.Game:DefaultPlayer:Name:0=Player
 Windows.Game:/Script/Engine.GameNetworkManager:TotalNetBandwidth:0=32000

@@ -1585,8 +1585,7 @@ Linux.Engine:AssetRegistry:bFilterAssetDataWithNoTags:0=false
 Linux.Engine:AssetRegistry:bFilterDependenciesWithNoTags:0=false
 Linux.Engine:AssetRegistry:bFilterSearchableNames:0=true
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/nope/Desktop/Android Builds/Android_Multi/Android_Multi")
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/nope/Desktop/Android Builds/Android_Multi")
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bIncludeNativizedAssetsInProjectGeneration:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bExcludeMonolithicEngineHeadersInNativizedCode:0=False
@@ -1600,7 +1599,7 @@ Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bEncryptIniFiles:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bEncryptPakIndex:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bNativizeBlueprintAssets:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bNativizeOnlySelectedBlueprints:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Shipping
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Development
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
@@ -1638,6 +1637,7 @@ Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCompressed:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookAll:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookMapsOnly:0=True
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Windows.Game:Internationalization:LocalizationPaths:0=%GAMEDIR%Content/Localization/Game
 Windows.Game:DefaultPlayer:Name:0=Player
 Windows.Game:/Script/Engine.GameNetworkManager:TotalNetBandwidth:0=32000
