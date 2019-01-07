@@ -1480,3 +1480,66 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.07-06.41.32:321][501]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
 [2019.01.07-06.41.32:358][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.01.07-06.41.32:395][502]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.01.07-06.42.13:364][929]BlueprintLog: New page: Compile GameStartMenu
+[2019.01.07-06.42.16:650][111]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.07-06.42.16:686][111]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.07-06.42.16:686][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.07-06.42.16:686][111]PIE: New page: PIE session: StackMap (Jan 6, 2019, 8:42:16 PM)
+[2019.01.07-06.42.16:686][111]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.07-06.42.16:690][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004290s)
+[2019.01.07-06.42.16:691][111]LogAIModule: Creating AISystem for world StackMap
+[2019.01.07-06.42.16:691][111]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2019.01.07-06.42.16:691][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.005039s)
+[2019.01.07-06.42.16:739][111]LogInit: XAudio2 using 'Panasonic-TV (3- Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.07-06.42.16:746][111]LogInit: FAudioDevice initialized.
+[2019.01.07-06.42.16:784][111]LogLoad: Game class is 'GameModeBase'
+[2019.01.07-06.42.16:785][111]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.07-01.42.16
+[2019.01.07-06.42.16:787][111]LogWorld: Bringing up level for play took: 0.002401
+[2019.01.07-06.42.16:811][111]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.07-06.42.16:811][111]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 1.121
+[2019.01.07-06.42.16:812][111]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.07-06.42.18:700][220]LogSlate: Window 'Message Log' being destroyed
+[2019.01.07-06.42.18:705][220]LogSlate: Window 'Message Log' being destroyed
+[2019.01.07-06.42.18:706][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.07-06.42.27:635][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.07-06.42.33:431][ 97]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.07-06.42.33:431][ 97]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.07-06.42.33:475][ 97]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.07-06.42.33:479][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004758s)
+[2019.01.07-06.42.33:480][ 97]LogAIModule: Creating AISystem for world StackMap
+[2019.01.07-06.42.33:480][ 97]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2019.01.07-06.42.33:480][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.005686s)
+[2019.01.07-06.42.33:480][ 97]LogLoad: Game class is 'GameModeBase'
+[2019.01.07-06.42.33:481][ 97]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.07-01.42.33
+[2019.01.07-06.42.33:482][ 97]LogWorld: Bringing up level for play took: 0.001681
+[2019.01.07-06.42.33:483][ 97]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.07-06.42.33:492][ 97]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.07-06.42.33:493][ 97]LogLoad: Took 0.062584 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.07-06.42.35:197][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.07-06.42.40:247][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.07-06.42.43:265][682]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.07-06.42.43:265][682]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.07-06.42.43:306][682]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.07-06.42.43:310][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004016s)
+[2019.01.07-06.42.43:310][682]LogAIModule: Creating AISystem for world StackMap
+[2019.01.07-06.42.43:311][682]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2019.01.07-06.42.43:311][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004777s)
+[2019.01.07-06.42.43:311][682]LogLoad: Game class is 'GameModeBase'
+[2019.01.07-06.42.43:312][682]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.07-01.42.43
+[2019.01.07-06.42.43:313][682]LogWorld: Bringing up level for play took: 0.001646
+[2019.01.07-06.42.43:314][682]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.07-06.42.43:323][682]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.07-06.42.43:324][682]LogLoad: Took 0.058150 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.07-06.42.49:851][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.07-06.42.51:213][154]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.07-06.42.52:214][202]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.07-06.42.52:215][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.07-06.42.52:253][202]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.07-06.42.52:253][202]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.07-06.42.52:293][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.07-06.42.52:314][203]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.01.07-06.42.55:849][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.07-06.43.13:820][482]BlueprintLog: New page: Compile GameStartMenu
+[2019.01.07-06.43.14:532][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameStartMenu" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameStartMenu.uasset" SILENT=true
+[2019.01.07-06.43.14:631][511]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/GameStartMenuAE9E1DE749D07223944B57A68F6F3297.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameStartMenu.uasset'
+[2019.01.07-06.43.15:151][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
