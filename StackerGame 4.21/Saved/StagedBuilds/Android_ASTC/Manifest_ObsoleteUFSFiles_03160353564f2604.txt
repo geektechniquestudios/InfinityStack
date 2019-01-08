@@ -1,0 +1,16 @@
+Engine/Content/EditorMaterials/AntialiasedGridFloor.uasset
+Engine/Content/EditorMaterials/AntialiasedGridFloor.uexp
+Engine/Content/EditorMaterials/GridMaterial.uasset
+Engine/Content/EditorMaterials/GridMaterial.uexp
+Engine/Content/EditorMaterials/PersonaFloorMat.uasset
+Engine/Content/EditorMaterials/PersonaFloorMat.uexp
+Engine/Content/EditorMeshes/PhAT_FloorBox.uasset
+Engine/Content/EditorMeshes/PhAT_FloorBox.uexp
+Engine/Content/EditorResources/TilePatine_D.uasset
+Engine/Content/EditorResources/TilePatine_D.ubulk
+Engine/Content/EditorResources/TilePatine_D.uexp
+Engine/Content/EditorResources/TilePatine_N.uasset
+Engine/Content/EditorResources/TilePatine_N.ubulk
+Engine/Content/EditorResources/TilePatine_N.uexp
+nt/Sounds/GameOverSound.uexp
+StackerGame/Saved/Logs/StackerGame-backup-0001.01.01-00.00.00.log
