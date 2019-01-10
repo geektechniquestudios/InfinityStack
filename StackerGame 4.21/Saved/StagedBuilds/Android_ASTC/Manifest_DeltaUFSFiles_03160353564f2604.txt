@@ -16,5 +16,7 @@ StackerGame/Content/Blueprints/StackSpawner.uasset
 StackerGame/Content/Blueprints/StackSpawner.uexp
 StackerGame/Content/Maps/StackMap.uexp
 StackerGame/Content/Maps/StackMap.umap
+StackerGame/Content/Maps/StackMap_BuiltData.uasset
+StackerGame/Content/Maps/StackMap_BuiltData.uexp
 Manifest_NonUFSFiles_Android.txt
 Manifest_UFSFiles_Android.txt
