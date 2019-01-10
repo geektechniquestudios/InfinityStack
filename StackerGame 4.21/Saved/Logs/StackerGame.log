@@ -1,4 +1,4 @@
-﻿Log file open, 01/09/19 19:20:46
+﻿Log file open, 01/09/19 23:27:52
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -10,7 +10,7 @@ LogInit: Display: Running engine for game: StackerGame
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.314310
+LogStats: Stats thread started at 0.303794
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -94,7 +94,7 @@ LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  0.089s to configure plugins.
+LogStreaming: Display: Took  0.095s to configure plugins.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -149,696 +149,580 @@ LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
 LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
 LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
 LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
-LogStreaming: Display: Took  0.003s to delete old logs.
+LogStreaming: Display: Took  0.004s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2019.01.10-00.20.46:895][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2019.01.10-00.20.46:895][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2019.01.10-00.20.46:895][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
-[2019.01.10-00.20.46:895][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2019.01.10-00.20.46:895][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
-[2019.01.10-00.20.46:896][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
-[2019.01.10-00.20.46:897][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2019.01.10-00.20.46:897][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
-[2019.01.10-00.20.46:897][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
-[2019.01.10-00.20.46:907][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.01.10-00.20.46:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.01.10-00.20.46:908][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.01.10-00.20.46:908][  0]LogInit: Selected Device Profile: [Windows]
-[2019.01.10-00.20.46:908][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2019.01.10-00.20.46:923][  0]LogHAL: Display: Platform has ~ 16 GB [16985501696 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2019.01.10-00.20.46:923][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
-[2019.01.10-00.20.46:923][  0]LogInit: Going up to parent DeviceProfile []
-[2019.01.10-00.20.46:923][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.10-00.20.46:923][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.01.10-00.20.46:923][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
-[2019.01.10-00.20.46:923][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.10-00.20.46:923][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.01.10-00.20.46:923][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.10-00.20.46:923][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.01.10-00.20.46:923][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.01.10-00.20.46:923][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.01.10-00.20.46:923][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.01.10-00.20.46:923][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.01.10-00.20.46:923][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.01.10-00.20.46:923][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.01.10-00.20.46:923][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.01.10-00.20.46:923][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.01.10-00.20.46:923][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.01.10-00.20.46:923][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.01.10-00.20.46:923][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.01.10-00.20.46:924][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2019.01.10-00.20.46:925][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2019.01.10-00.20.46:925][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
-[2019.01.10-00.20.46:925][  0]LogInit: Computer: DESKTOP-VPEBSJI
-[2019.01.10-00.20.46:925][  0]LogInit: User: nope
-[2019.01.10-00.20.46:925][  0]LogInit: CPU Page size=4096, Cores=4
-[2019.01.10-00.20.46:925][  0]LogInit: High frequency timer resolution =2.742193 MHz
-[2019.01.10-00.20.46:925][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
-[2019.01.10-00.20.46:925][  0]LogMemory: Platform Memory Stats for Windows
-[2019.01.10-00.20.46:925][  0]LogMemory: Process Physical Memory: 103.33 MB used, 103.33 MB peak
-[2019.01.10-00.20.46:925][  0]LogMemory: Process Virtual Memory: 89.86 MB used, 89.86 MB peak
-[2019.01.10-00.20.46:925][  0]LogMemory: Physical Memory: 6662.14 MB used,  9536.50 MB free, 16198.64 MB total
-[2019.01.10-00.20.46:925][  0]LogMemory: Virtual Memory: 4646.31 MB used,  134213080.00 MB free, 134217728.00 MB total
-[2019.01.10-00.20.46:942][  0]LogInit: Using OS detected language (en-US).
-[2019.01.10-00.20.46:942][  0]LogInit: Using OS detected locale (en-US).
-[2019.01.10-00.20.46:943][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2019.01.10-00.20.47:395][  0]LogStreaming: Display: Took  0.453s to InitEngineTextLocalization.
-[2019.01.10-00.20.47:396][  0]LogInit: Setting process to per monitor DPI aware
-[2019.01.10-00.20.47:455][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2019.01.10-00.20.47:455][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2019.01.10-00.20.47:743][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.01.10-00.20.47:744][  0]LogD3D11RHI: D3D11 adapters:
-[2019.01.10-00.20.47:891][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
-[2019.01.10-00.20.47:891][  0]LogD3D11RHI:       4021/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2019.01.10-00.20.47:914][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
-[2019.01.10-00.20.47:915][  0]LogD3D11RHI:       128/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2019.01.10-00.20.47:919][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2019.01.10-00.20.47:919][  0]LogD3D11RHI:       0/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2019.01.10-00.20.47:920][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2019.01.10-00.20.47:974][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2019.01.10-00.20.47:974][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
-[2019.01.10-00.20.47:974][  0]LogWindows: EnumDisplayDevices:
-[2019.01.10-00.20.47:974][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
-[2019.01.10-00.20.47:975][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:1)
-[2019.01.10-00.20.47:976][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
-[2019.01.10-00.20.47:978][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2019.01.10-00.20.47:978][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
-[2019.01.10-00.20.47:978][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2019.01.10-00.20.47:978][  0]LogD3D11RHI:      Driver Date: Unknown
-[2019.01.10-00.20.47:978][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
-[2019.01.10-00.20.48:078][  0]LogD3D11RHI: Async texture creation enabled
-[2019.01.10-00.20.48:106][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2019.01.10-00.20.48:891][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2019.01.10-00.20.48:910][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2019.01.10-00.20.48:926][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2019.01.10-00.20.48:944][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2019.01.10-00.20.48:966][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2019.01.10-00.20.48:984][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2019.01.10-00.20.49:001][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2019.01.10-00.20.49:021][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2019.01.10-00.20.49:031][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2019.01.10-00.20.49:136][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.10-00.20.49:136][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.10-00.20.49:136][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.10-00.20.49:136][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.10-00.20.49:136][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.10-00.20.49:136][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.10-00.20.49:136][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.10-00.20.49:136][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.10-00.20.49:136][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.10-00.20.49:136][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.10-00.20.49:136][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.10-00.20.49:136][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.10-00.20.49:136][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.10-00.20.49:136][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.10-00.20.49:136][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.10-00.20.49:136][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.10-00.20.49:136][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.10-00.20.49:136][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.10-00.20.49:138][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2019.01.10-00.20.49:205][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2019.01.10-00.20.49:205][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2019.01.10-00.20.49:235][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2019.01.10-00.20.49:235][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2019.01.10-00.20.49:250][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2019.01.10-00.20.49:265][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2019.01.10-00.20.49:280][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2019.01.10-00.20.49:297][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2019.01.10-00.20.49:350][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
-[2019.01.10-00.20.49:350][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
-[2019.01.10-00.20.49:350][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2019.01.10-00.20.49:419][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Intermediate/Shaders/WorkingDirectory/11100/).
-[2019.01.10-00.20.49:419][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nope/AppData/Local/Temp/UnrealShaderWorkingDir/DE3AB688450C1676A50B3BBADDA017B7/'.
-[2019.01.10-00.20.49:422][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2019.01.10-00.20.49:422][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2019.01.10-00.20.49:422][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2019.01.10-00.20.50:059][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2019.01.10-00.20.50:138][  0]LogDerivedDataCache: Loaded boot cache 0.08s 84MB C:/Users/nope/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
-[2019.01.10-00.20.50:138][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/nope/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
-[2019.01.10-00.20.50:138][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2019.01.10-00.20.50:138][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2019.01.10-00.20.50:138][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.01.10-00.20.50:138][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2019.01.10-00.20.50:155][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2019.01.10-00.20.50:155][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.01.10-00.20.50:155][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2019.01.10-00.20.50:167][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nope/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2019.01.10-00.20.50:167][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2019.01.10-00.20.50:167][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2019.01.10-00.20.50:197][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2019.01.10-00.20.50:199][  0]LogSlate: Using FreeType 2.6.0
-[2019.01.10-00.20.50:200][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2019.01.10-00.20.50:297][  0]LogAssetRegistry: FAssetRegistry took 0.0365 seconds to start up
-[2019.01.10-00.20.50:685][  0]LogInit: Selected Device Profile: [Windows]
-[2019.01.10-00.20.50:864][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2019.01.10-00.20.50:868][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2019.01.10-00.20.50:868][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2019.01.10-00.20.50:868][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2019.01.10-00.20.50:868][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2019.01.10-00.20.50:883][  0]LogNetVersion: StackerGame 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1419414380)
-[2019.01.10-00.20.51:524][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.130391 seconds
-[2019.01.10-00.20.51:535][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
-[2019.01.10-00.20.51:535][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
-[2019.01.10-00.20.51:535][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2019.01.10-00.20.52:573][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2019.01.10-00.20.52:586][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2019.01.10-00.20.53:473][  0]SourceControl: Source control is disabled
-[2019.01.10-00.20.53:473][  0]SourceControl: Source control is disabled
-[2019.01.10-00.20.53:477][  0]SourceControl: Source control is disabled
-[2019.01.10-00.20.53:478][  0]SourceControl: Source control is disabled
-[2019.01.10-00.20.53:727][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2019.01.10-00.20.54:030][  0]LogOcInput: OculusInput pre-init called
-[2019.01.10-00.20.54:229][  0]LogEngine: Initializing Engine...
-[2019.01.10-00.20.54:230][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.01.10-00.20.54:232][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2019.01.10-00.20.54:232][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2019.01.10-00.20.54:232][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2019.01.10-00.20.54:232][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2019.01.10-00.20.54:715][  0]LogInit: Initializing FReadOnlyCVARCache
-[2019.01.10-00.20.54:735][  0]LogAIModule: Creating AISystem for world Untitled
-[2019.01.10-00.20.54:761][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2019.01.10-00.20.54:781][  0]LogInit: FAudioDevice initialized.
-[2019.01.10-00.20.54:781][  0]LogNetVersion: Set ProjectVersion to 1.1.0. Version Checksum will be recalculated on next use.
-[2019.01.10-00.20.54:846][  0]LogDerivedDataCache: Saved boot cache 0.07s 84MB C:/Users/nope/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
-[2019.01.10-00.20.54:869][  0]LogInit: Texture streaming: Enabled
-[2019.01.10-00.20.54:889][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2019.01.10-00.20.54:905][  0]LogInit: Transaction tracking system initialized
-[2019.01.10-00.20.54:934][  0]BlueprintLog: New page: Editor Load
-[2019.01.10-00.20.55:025][  0]LocalizationService: Localization service is disabled
-[2019.01.10-00.20.56:009][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/' took 0.01s
-[2019.01.10-00.20.56:009][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2019.01.10-00.20.56:009][  0]LogCook: Display: Mobile HDR setting 1
-[2019.01.10-00.20.56:009][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2019.01.10-00.20.56:009][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2019.01.10-00.20.56:009][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2019.01.10-00.20.56:009][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2019.01.10-00.20.56:010][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2019.01.10-00.20.56:181][  0]SourceControl: Source control is disabled
-[2019.01.10-00.20.56:181][  0]Cmd: MAP LOAD FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2019.01.10-00.20.56:182][  0]LightingResults: New page: Lighting Build
-[2019.01.10-00.20.56:185][  0]MapCheck: New page: Map Check
-[2019.01.10-00.20.56:185][  0]LightingResults: New page: Lighting Build
-[2019.01.10-00.20.56:418][  0]LogLinker: Warning: Can't find file '/Game/Sounds/2ndSong'
-[2019.01.10-00.20.56:418][  0]LogLinker: Warning: Can't find file for asset '/Game/Sounds/2ndSong' while loading ../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameStartMenu.uasset.
-[2019.01.10-00.20.56:418][  0]LoadErrors: Error: /Game/Blueprints/GameStartMenu : Can't find file for asset. /Game/Sounds/2ndSong
-[2019.01.10-00.20.56:422][  0]LogLinker: Warning: Can't find file '/Game/Sounds/2ndSong'
-[2019.01.10-00.20.56:422][  0]LogLinker: Warning: Can't find file for asset '/Game/Sounds/2ndSong' while loading ../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameStartMenu.uasset.
-[2019.01.10-00.20.56:422][  0]LoadErrors: Error: /Game/Blueprints/GameStartMenu : Can't find file for asset. /Game/Sounds/2ndSong
-[2019.01.10-00.20.56:429][  0]LogLinker: Warning: Can't find file '/Game/Sounds/2ndSong'
-[2019.01.10-00.20.56:429][  0]LoadErrors: Failed to load /Game/Sounds/2ndSong.2ndSong Referenced by K2Node_CallFunction_18
-[2019.01.10-00.20.56:429][  0]LogLinker: Warning: Can't find file for asset '/Game/Sounds/2ndSong' while loading ../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameStartMenu.uasset.
-[2019.01.10-00.20.56:429][  0]LoadErrors: Failed to load /Game/Sounds/2ndSong.2ndSong Referenced by K2Node_CallFunction_18
-[2019.01.10-00.20.56:429][  0]LoadErrors: Error: /Game/Blueprints/GameStartMenu : Can't find file for asset. /Game/Sounds/2ndSong
-[2019.01.10-00.20.56:432][  0]LogLinker: Warning: Can't find file '/Game/Sounds/2ndSong'
-[2019.01.10-00.20.56:432][  0]LogLinker: Warning: Can't find file for asset '/Game/Sounds/2ndSong' while loading ../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameStartMenu.uasset.
-[2019.01.10-00.20.56:432][  0]LoadErrors: Error: /Game/Blueprints/GameStartMenu : Can't find file for asset. /Game/Sounds/2ndSong
-[2019.01.10-00.20.56:433][  0]LogLinker: Warning: Can't find file '/Game/Sounds/2ndSong'
-[2019.01.10-00.20.56:433][  0]LogLinker: Warning: Can't find file for asset '/Game/Sounds/2ndSong' while loading ../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameStartMenu.uasset.
-[2019.01.10-00.20.56:433][  0]LoadErrors: Error: /Game/Blueprints/GameStartMenu : Can't find file for asset. /Game/Sounds/2ndSong
-[2019.01.10-00.20.56:438][  0]LogLinker: Warning: Can't find file '/Game/Sounds/correct__2_'
-[2019.01.10-00.20.56:439][  0]LogLinker: Warning: Can't find file for asset '/Game/Sounds/correct__2_' while loading ../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameOverMenu.uasset.
-[2019.01.10-00.20.56:439][  0]LoadErrors: Error: /Game/Blueprints/GameOverMenu : Can't find file for asset. /Game/Sounds/correct__2_
-[2019.01.10-00.20.56:441][  0]LogLinker: Warning: Can't find file '/Game/Sounds/correct__2_'
-[2019.01.10-00.20.56:441][  0]LogLinker: Warning: Can't find file for asset '/Game/Sounds/correct__2_' while loading ../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameOverMenu.uasset.
-[2019.01.10-00.20.56:441][  0]LoadErrors: Error: /Game/Blueprints/GameOverMenu : Can't find file for asset. /Game/Sounds/correct__2_
-[2019.01.10-00.20.56:453][  0]LogLinker: Warning: Can't find file '/Game/Sounds/correct__2_'
-[2019.01.10-00.20.56:453][  0]LoadErrors: Failed to load /Game/Sounds/correct__2_.correct__2_ Referenced by K2Node_CallFunction_107
-[2019.01.10-00.20.56:454][  0]LogLinker: Warning: Can't find file for asset '/Game/Sounds/correct__2_' while loading ../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameOverMenu.uasset.
-[2019.01.10-00.20.56:454][  0]LoadErrors: Failed to load /Game/Sounds/correct__2_.correct__2_ Referenced by K2Node_CallFunction_107
-[2019.01.10-00.20.56:454][  0]LoadErrors: Error: /Game/Blueprints/GameOverMenu : Can't find file for asset. /Game/Sounds/correct__2_
-[2019.01.10-00.20.56:454][  0]LogLinker: Warning: Can't find file '/Game/Sounds/correct__2_'
-[2019.01.10-00.20.56:454][  0]LoadErrors: Failed to load /Game/Sounds/correct__2_.correct__2_ Referenced by K2Node_CallFunction_106
-[2019.01.10-00.20.56:454][  0]LogLinker: Warning: Can't find file for asset '/Game/Sounds/correct__2_' while loading ../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameOverMenu.uasset.
-[2019.01.10-00.20.56:454][  0]LoadErrors: Failed to load /Game/Sounds/correct__2_.correct__2_ Referenced by K2Node_CallFunction_106
-[2019.01.10-00.20.56:454][  0]LoadErrors: Error: /Game/Blueprints/GameOverMenu : Can't find file for asset. /Game/Sounds/correct__2_
-[2019.01.10-00.20.56:656][  0]LogLinker: Warning: Can't find file '/Game/Sounds/correct__2_'
-[2019.01.10-00.20.56:657][  0]LogLinker: Warning: Can't find file for asset '/Game/Sounds/correct__2_' while loading ../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/StackSpawner.uasset.
-[2019.01.10-00.20.56:657][  0]LoadErrors: Error: /Game/Blueprints/StackSpawner : Can't find file for asset. /Game/Sounds/correct__2_
-[2019.01.10-00.20.56:658][  0]LogLinker: Warning: Can't find file '/Game/Sounds/correct__2_'
-[2019.01.10-00.20.56:658][  0]LogLinker: Warning: Can't find file for asset '/Game/Sounds/correct__2_' while loading ../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/StackSpawner.uasset.
-[2019.01.10-00.20.56:658][  0]LoadErrors: Error: /Game/Blueprints/StackSpawner : Can't find file for asset. /Game/Sounds/correct__2_
-[2019.01.10-00.20.57:060][  0]LogAIModule: Creating AISystem for world StackMap
-[2019.01.10-00.20.57:068][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2019.01.10-00.20.57:102][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2019.01.10-00.20.57:102][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.171ms to complete.
-[2019.01.10-00.20.57:102][  0]LogFileHelpers: Loading map 'StackMap' took 0.921
-[2019.01.10-00.20.57:205][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.10-00.20.57:214][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.10-00.20.57:222][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.10-00.20.57:230][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.10-00.20.57:244][  0]LogCollectionManager: Loaded 0 collections in 0.002085 seconds
-[2019.01.10-00.20.57:260][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Collections/' took 0.01s
-[2019.01.10-00.20.57:260][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Developers/nope/Collections/' took 0.00s
-[2019.01.10-00.20.57:260][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Collections/' took 0.00s
-[2019.01.10-00.20.57:260][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2019.01.10-00.20.57:270][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2652 classes and 622 folders.
-[2019.01.10-00.20.57:278][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2019.01.10-00.20.57:280][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:280][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:281][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:281][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:282][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:282][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:283][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:283][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:284][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:284][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:285][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:285][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:286][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:286][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:287][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:287][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:288][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:288][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:289][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:289][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:290][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:290][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:291][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:291][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:292][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:292][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.10-00.20.57:328][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2019.01.10-00.20.57:352][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2019.01.10-00.20.57:355][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2019.01.10-00.20.57:361][  0]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2019.01.10-00.20.57:455][  0]LogRenderer: Reallocating scene render targets to support 384x712 Format 10 NumSamples 1 (Frame:1).
-[2019.01.10-00.20.57:607][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2019.01.10-00.20.57:607][  0]LogLoad: (Engine Initialization) Total time: 12.66 seconds
-[2019.01.10-00.20.57:607][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2019.01.10-00.20.57:704][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2019.01.10-00.20.57:706][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.01.10-00.20.58:136][  4]LogAssetRegistry: Asset discovery search completed in 7.8614 seconds
-[2019.01.10-00.20.58:138][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2019.01.10-00.20.58:138][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
-[2019.01.10-00.21.08:502][ 35]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2019.01.10-00.21.08:511][ 35]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/StackSpawner.StackSpawner
-[2019.01.10-00.21.09:053][ 35]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
-[2019.01.10-00.21.09:978][ 35]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2019.01.10-00.21.10:772][ 36]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2019.01.10-00.21.58:028][316]LogSlate: Window 'Delete Assets' being destroyed
-[2019.01.10-00.22.14:480][999]LogSlate: Window 'Message Log' being destroyed
-[2019.01.10-00.22.14:483][999]LogSlate: Window 'Message Log' being destroyed
-[2019.01.10-00.22.24:049][ 47]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\nope\Downloads\correct (2).wav)
-[2019.01.10-00.22.44:405][905]BlueprintLog: New page: Compile StackSpawner
-[2019.01.10-00.22.47:127][959]LogTemp: Repeating last play command: Selected Viewport
-[2019.01.10-00.22.47:192][959]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
-[2019.01.10-00.22.47:192][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2019.01.10-00.22.47:192][959]PIE: New page: PIE session: StackMap (Jan 9, 2019, 2:22:47 PM)
-[2019.01.10-00.22.47:205][959]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
-[2019.01.10-00.22.47:208][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003187s)
-[2019.01.10-00.22.47:209][959]LogAIModule: Creating AISystem for world StackMap
-[2019.01.10-00.22.47:209][959]LogPlayLevel: PIE: World Init took: (0.000590s)
-[2019.01.10-00.22.47:209][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004097s)
-[2019.01.10-00.22.47:251][959]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2019.01.10-00.22.47:266][959]LogInit: FAudioDevice initialized.
-[2019.01.10-00.22.47:311][959]LogLoad: Game class is 'GameModeBase'
-[2019.01.10-00.22.47:313][959]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.09-19.22.47
-[2019.01.10-00.22.47:313][959]LogWorld: Bringing up level for play took: 0.000868
-[2019.01.10-00.22.47:330][959]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
-[2019.01.10-00.22.47:344][959]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
-[2019.01.10-00.22.47:344][959]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 1.061
-[2019.01.10-00.22.47:344][959]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
-[2019.01.10-00.22.50:077][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.01.10-00.23.01:339][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.01.10-00.23.02:543][687]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave correct__2_...
-[2019.01.10-00.23.02:551][687]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 24000 while cooking SoundWave /Game/Sounds/correct__2_.correct__2_.
-[2019.01.10-00.23.24:475][805]LogNet: Browse: /Game/Maps/StackMap
-[2019.01.10-00.23.24:476][805]LogLoad: LoadMap: /Game/Maps/StackMap
-[2019.01.10-00.23.24:512][805]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
-[2019.01.10-00.23.24:515][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003068s)
-[2019.01.10-00.23.24:515][805]LogAIModule: Creating AISystem for world StackMap
-[2019.01.10-00.23.24:515][805]LogPlayLevel: PIE: World Init took: (0.000576s)
-[2019.01.10-00.23.24:516][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.003802s)
-[2019.01.10-00.23.24:516][805]LogLoad: Game class is 'GameModeBase'
-[2019.01.10-00.23.24:517][805]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.09-19.23.24
-[2019.01.10-00.23.24:517][805]LogWorld: Bringing up level for play took: 0.000742
-[2019.01.10-00.23.24:518][805]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2019.01.10-00.23.24:527][805]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
-[2019.01.10-00.23.24:527][805]LogLoad: Took 0.051614 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
-[2019.01.10-00.23.35:579][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.01.10-00.23.37:607][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.01.10-00.23.58:675][643]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner'!
-[2019.01.10-00.24.00:725][749]LogNet: Browse: /Game/Maps/StackMap
-[2019.01.10-00.24.00:726][749]LogLoad: LoadMap: /Game/Maps/StackMap
-[2019.01.10-00.24.00:765][749]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
-[2019.01.10-00.24.00:768][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003481s)
-[2019.01.10-00.24.00:769][749]LogAIModule: Creating AISystem for world StackMap
-[2019.01.10-00.24.00:769][749]LogPlayLevel: PIE: World Init took: (0.000733s)
-[2019.01.10-00.24.00:769][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004399s)
-[2019.01.10-00.24.00:769][749]LogLoad: Game class is 'GameModeBase'
-[2019.01.10-00.24.00:770][749]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.09-19.24.00
-[2019.01.10-00.24.00:771][749]LogWorld: Bringing up level for play took: 0.000778
-[2019.01.10-00.24.00:771][749]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2019.01.10-00.24.00:781][749]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
-[2019.01.10-00.24.00:781][749]LogLoad: Took 0.054950 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
-[2019.01.10-00.24.02:370][829]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.01.10-00.24.03:791][885]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
-[2019.01.10-00.24.03:791][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.10-00.24.03:825][885]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2019.01.10-00.24.03:825][885]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
-[2019.01.10-00.24.03:861][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.10-00.24.03:889][886]LogPlayLevel: Display: Destroying online subsystem :Context_5
-[2019.01.10-00.24.09:483][172]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.01.10-00.24.10:809][233]LogTemp: Repeating last play command: Selected Viewport
-[2019.01.10-00.24.10:878][233]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
-[2019.01.10-00.24.10:878][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2019.01.10-00.24.10:879][233]PIE: New page: PIE session: StackMap (Jan 9, 2019, 2:24:10 PM)
-[2019.01.10-00.24.10:879][233]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
-[2019.01.10-00.24.10:882][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003166s)
-[2019.01.10-00.24.10:882][233]LogAIModule: Creating AISystem for world StackMap
-[2019.01.10-00.24.10:883][233]LogPlayLevel: PIE: World Init took: (0.000586s)
-[2019.01.10-00.24.10:883][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.003884s)
-[2019.01.10-00.24.10:927][233]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2019.01.10-00.24.10:941][233]LogInit: FAudioDevice initialized.
-[2019.01.10-00.24.10:941][233]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.01.10-00.24.10:970][233]LogLoad: Game class is 'GameModeBase'
-[2019.01.10-00.24.10:971][233]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.09-19.24.10
-[2019.01.10-00.24.10:971][233]LogWorld: Bringing up level for play took: 0.000713
-[2019.01.10-00.24.10:993][233]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
-[2019.01.10-00.24.10:993][233]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 0.711
-[2019.01.10-00.24.10:994][233]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
-[2019.01.10-00.24.13:639][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.01.10-00.24.15:637][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.01.10-00.24.31:423][232]LogNet: Browse: /Game/Maps/StackMap
-[2019.01.10-00.24.31:424][232]LogLoad: LoadMap: /Game/Maps/StackMap
-[2019.01.10-00.24.31:463][232]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
-[2019.01.10-00.24.31:466][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003036s)
-[2019.01.10-00.24.31:466][232]LogAIModule: Creating AISystem for world StackMap
-[2019.01.10-00.24.31:466][232]LogPlayLevel: PIE: World Init took: (0.000552s)
-[2019.01.10-00.24.31:466][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.003767s)
-[2019.01.10-00.24.31:466][232]LogLoad: Game class is 'GameModeBase'
-[2019.01.10-00.24.31:468][232]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.09-19.24.31
-[2019.01.10-00.24.31:468][232]LogWorld: Bringing up level for play took: 0.000747
-[2019.01.10-00.24.31:468][232]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2019.01.10-00.24.31:478][232]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
-[2019.01.10-00.24.31:478][232]LogLoad: Took 0.054022 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
-[2019.01.10-00.24.33:217][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.01.10-00.24.44:531][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.01.10-00.24.47:206][ 30]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
-[2019.01.10-00.24.47:206][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.10-00.24.47:241][ 30]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2019.01.10-00.24.47:242][ 30]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
-[2019.01.10-00.24.47:277][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.10-00.24.47:307][ 31]LogPlayLevel: Display: Destroying online subsystem :Context_6
-[2019.01.10-00.25.21:939][753]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/GameOverMenu.GameOverMenu
-[2019.01.10-00.25.25:748][948]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/GameStartMenu.GameStartMenu
-[2019.01.10-00.25.28:703][ 98]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/NewHighScore.NewHighScore
-[2019.01.10-00.25.33:969][386]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/OptionsMenu.OptionsMenu
-[2019.01.10-00.27.10:628][235]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\nope\Downloads\switch.wav)
-[2019.01.10-00.27.12:003][316]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave switch...
-[2019.01.10-00.27.12:012][316]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 5428 while cooking SoundWave /Game/Sounds/switch.switch.
-[2019.01.10-00.27.33:841][541]BlueprintLog: New page: Compile GameOverMenu
-[2019.01.10-00.27.34:510][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameOverMenu" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameOverMenu.uasset" SILENT=true
-[2019.01.10-00.27.34:622][568]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/GameOverMenu9656A44844D481503BC77690C2D58F63.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameOverMenu.uasset'
-[2019.01.10-00.27.46:746][197]LogSlate: Took 0.001742 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
-[2019.01.10-00.29.07:496][763]BlueprintLog: New page: Compile NewHighScore
-[2019.01.10-00.29.34:892][322]BlueprintLog: New page: Compile OptionsMenu
-[2019.01.10-00.29.36:635][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/OptionsMenu" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/OptionsMenu.uasset" SILENT=true
-[2019.01.10-00.29.36:849][394]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/OptionsMenuC003C75F48B4E80872DCA19546A76160.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/OptionsMenu.uasset'
-[2019.01.10-00.29.40:485][559]LogTemp: Repeating last play command: Selected Viewport
-[2019.01.10-00.29.40:531][559]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
-[2019.01.10-00.29.40:532][559]BlueprintLog: New page: Pre-Play auto-recompile
-[2019.01.10-00.29.40:578][559]LogPlayLevel: [PlayLevel] Compiling GameStartMenu before play...
-[2019.01.10-00.29.40:849][559]LogPlayLevel: PlayLevel: Blueprint regeneration took 317 ms (1 blueprints)
-[2019.01.10-00.29.40:849][559]PIE: New page: PIE session: StackMap (Jan 9, 2019, 2:29:40 PM)
-[2019.01.10-00.29.40:850][559]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
-[2019.01.10-00.29.40:853][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003117s)
-[2019.01.10-00.29.40:853][559]LogAIModule: Creating AISystem for world StackMap
-[2019.01.10-00.29.40:853][559]LogPlayLevel: PIE: World Init took: (0.000596s)
-[2019.01.10-00.29.40:853][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.003838s)
-[2019.01.10-00.29.40:901][559]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2019.01.10-00.29.40:916][559]LogInit: FAudioDevice initialized.
-[2019.01.10-00.29.40:947][559]LogLoad: Game class is 'GameModeBase'
-[2019.01.10-00.29.40:948][559]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.09-19.29.40
-[2019.01.10-00.29.40:949][559]LogWorld: Bringing up level for play took: 0.000712
-[2019.01.10-00.29.40:970][559]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
-[2019.01.10-00.29.40:970][559]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 0.688
-[2019.01.10-00.29.40:971][559]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
-[2019.01.10-00.29.44:232][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.01.10-00.29.59:250][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.01.10-00.30.18:665][777]LogNet: Browse: /Game/Maps/StackMap
-[2019.01.10-00.30.18:666][777]LogLoad: LoadMap: /Game/Maps/StackMap
-[2019.01.10-00.30.18:709][777]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
-[2019.01.10-00.30.18:713][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003425s)
-[2019.01.10-00.30.18:713][777]LogAIModule: Creating AISystem for world StackMap
-[2019.01.10-00.30.18:713][777]LogPlayLevel: PIE: World Init took: (0.000686s)
-[2019.01.10-00.30.18:713][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004295s)
-[2019.01.10-00.30.18:713][777]LogLoad: Game class is 'GameModeBase'
-[2019.01.10-00.30.18:715][777]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.09-19.30.18
-[2019.01.10-00.30.18:715][777]LogWorld: Bringing up level for play took: 0.000845
-[2019.01.10-00.30.18:715][777]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2019.01.10-00.30.18:725][777]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
-[2019.01.10-00.30.18:725][777]LogLoad: Took 0.059656 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
-[2019.01.10-00.30.19:854][840]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.01.10-00.30.21:043][887]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
-[2019.01.10-00.30.21:044][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.10-00.30.21:079][887]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2019.01.10-00.30.21:079][887]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
-[2019.01.10-00.30.21:121][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.10-00.30.21:147][888]LogPlayLevel: Display: Destroying online subsystem :Context_15
-[2019.01.10-00.30.23:609][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.01.10-00.30.29:512][278]BlueprintLog: New page: Compile OptionsMenu
-[2019.01.10-00.31.34:992][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/StackSpawner" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/StackSpawner.uasset" SILENT=true
-[2019.01.10-00.31.35:396][594]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/StackSpawner2B0AB6B44E5B77F9DFA15B89BD84180C.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/StackSpawner.uasset'
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:1]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.01.10-04.27.52:312][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.10-04.27.52:313][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.10-04.27.52:313][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.10-04.27.52:313][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.10-04.27.52:327][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.10-04.27.52:327][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.10-04.27.52:328][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.10-04.27.52:328][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.10-04.27.52:328][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.10-04.27.52:351][  0]LogHAL: Display: Platform has ~ 16 GB [16985501696 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.10-04.27.52:351][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.10-04.27.52:351][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.10-04.27.52:351][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-04.27.52:351][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.10-04.27.52:351][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2019.01.10-04.27.52:351][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-04.27.52:351][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.10-04.27.52:351][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-04.27.52:351][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.10-04.27.52:351][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.10-04.27.52:351][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.10-04.27.52:351][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.10-04.27.52:351][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.10-04.27.52:351][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.10-04.27.52:351][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.10-04.27.52:351][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.10-04.27.52:351][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.10-04.27.52:351][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.10-04.27.52:351][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.10-04.27.52:351][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.10-04.27.52:351][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.10-04.27.52:351][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.10-04.27.52:351][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.10-04.27.52:351][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.10-04.27.52:351][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.10-04.27.52:351][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.10-04.27.52:352][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.10-04.27.52:352][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.10-04.27.52:352][  0]LogInit: Computer: DESKTOP-VPEBSJI
+[2019.01.10-04.27.52:352][  0]LogInit: User: nope
+[2019.01.10-04.27.52:352][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.10-04.27.52:352][  0]LogInit: High frequency timer resolution =2.742191 MHz
+[2019.01.10-04.27.52:353][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.01.10-04.27.52:353][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.10-04.27.52:353][  0]LogMemory: Process Physical Memory: 103.03 MB used, 103.03 MB peak
+[2019.01.10-04.27.52:353][  0]LogMemory: Process Virtual Memory: 89.51 MB used, 89.51 MB peak
+[2019.01.10-04.27.52:353][  0]LogMemory: Physical Memory: 5951.00 MB used,  10247.63 MB free, 16198.64 MB total
+[2019.01.10-04.27.52:353][  0]LogMemory: Virtual Memory: 4646.31 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.01.10-04.27.52:371][  0]LogInit: Using OS detected language (en-US).
+[2019.01.10-04.27.52:371][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.10-04.27.52:372][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.10-04.27.52:841][  0]LogStreaming: Display: Took  0.471s to InitEngineTextLocalization.
+[2019.01.10-04.27.52:842][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.10-04.27.52:902][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.10-04.27.52:902][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.10-04.27.53:176][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.10-04.27.53:176][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.10-04.27.53:243][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.01.10-04.27.53:243][  0]LogD3D11RHI:       4021/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.01.10-04.27.53:257][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.01.10-04.27.53:257][  0]LogD3D11RHI:       128/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.01.10-04.27.53:260][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.10-04.27.53:260][  0]LogD3D11RHI:       0/0/8099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.10-04.27.53:260][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.10-04.27.53:291][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.10-04.27.53:291][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.01.10-04.27.53:291][  0]LogWindows: EnumDisplayDevices:
+[2019.01.10-04.27.53:291][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.01.10-04.27.53:291][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2019.01.10-04.27.53:292][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.01.10-04.27.53:292][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.01.10-04.27.53:292][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.01.10-04.27.53:292][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.01.10-04.27.53:292][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.01.10-04.27.53:292][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.01.10-04.27.53:344][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.10-04.27.53:363][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.10-04.27.53:727][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.10-04.27.53:743][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.10-04.27.53:760][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.10-04.27.53:778][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.10-04.27.53:794][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.10-04.27.53:810][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.10-04.27.53:826][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.10-04.27.53:842][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.10-04.27.53:850][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.10-04.27.53:940][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-04.27.53:940][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-04.27.53:940][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-04.27.53:940][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-04.27.53:940][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-04.27.53:940][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-04.27.53:940][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-04.27.53:940][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-04.27.53:940][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-04.27.53:940][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-04.27.53:940][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-04.27.53:940][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-04.27.53:940][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-04.27.53:940][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-04.27.53:940][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-04.27.53:940][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-04.27.53:940][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-04.27.53:940][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-04.27.53:941][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.10-04.27.54:006][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.10-04.27.54:006][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.10-04.27.54:034][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.10-04.27.54:034][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.10-04.27.54:049][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.10-04.27.54:064][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.10-04.27.54:078][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.10-04.27.54:094][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.10-04.27.54:149][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.10-04.27.54:149][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.10-04.27.54:150][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.10-04.27.54:211][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Intermediate/Shaders/WorkingDirectory/8404/).
+[2019.01.10-04.27.54:211][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nope/AppData/Local/Temp/UnrealShaderWorkingDir/2A35123E4899794E36CF2B86682E94B8/'.
+[2019.01.10-04.27.54:214][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.10-04.27.54:214][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.10-04.27.54:214][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.10-04.27.54:826][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.10-04.27.54:897][  0]LogDerivedDataCache: Loaded boot cache 0.07s 84MB C:/Users/nope/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.10-04.27.54:897][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/nope/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.10-04.27.54:897][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.10-04.27.54:897][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.10-04.27.54:897][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.10-04.27.54:897][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.10-04.27.54:913][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.10-04.27.54:913][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.10-04.27.54:913][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.10-04.27.54:926][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nope/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.10-04.27.54:926][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.10-04.27.54:926][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.10-04.27.54:955][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.10-04.27.54:957][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.10-04.27.54:958][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.10-04.27.55:054][  0]LogAssetRegistry: FAssetRegistry took 0.0355 seconds to start up
+[2019.01.10-04.27.55:426][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.10-04.27.55:604][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.10-04.27.55:608][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.10-04.27.55:608][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.10-04.27.55:608][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.10-04.27.55:608][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.10-04.27.55:621][  0]LogNetVersion: StackerGame 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1419414380)
+[2019.01.10-04.27.56:231][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.127570 seconds
+[2019.01.10-04.27.56:241][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.10-04.27.56:241][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.01.10-04.27.56:241][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.10-04.27.57:241][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.10-04.27.57:255][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.10-04.27.58:031][  0]SourceControl: Source control is disabled
+[2019.01.10-04.27.58:031][  0]SourceControl: Source control is disabled
+[2019.01.10-04.27.58:033][  0]SourceControl: Source control is disabled
+[2019.01.10-04.27.58:033][  0]SourceControl: Source control is disabled
+[2019.01.10-04.27.58:201][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.10-04.27.58:326][  0]LogOcInput: OculusInput pre-init called
+[2019.01.10-04.27.58:469][  0]LogEngine: Initializing Engine...
+[2019.01.10-04.27.58:470][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.10-04.27.58:472][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.10-04.27.58:472][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.10-04.27.58:472][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.10-04.27.58:472][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.10-04.27.58:758][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.10-04.27.58:773][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.10-04.27.58:799][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.10-04.27.59:152][  0]LogInit: FAudioDevice initialized.
+[2019.01.10-04.27.59:153][  0]LogNetVersion: Set ProjectVersion to 1.1.0. Version Checksum will be recalculated on next use.
+[2019.01.10-04.27.59:218][  0]LogDerivedDataCache: Saved boot cache 0.06s 84MB C:/Users/nope/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.10-04.27.59:242][  0]LogInit: Texture streaming: Enabled
+[2019.01.10-04.27.59:258][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.10-04.27.59:272][  0]LogInit: Transaction tracking system initialized
+[2019.01.10-04.27.59:297][  0]BlueprintLog: New page: Editor Load
+[2019.01.10-04.27.59:387][  0]LocalizationService: Localization service is disabled
+[2019.01.10-04.28.00:452][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/' took 0.02s
+[2019.01.10-04.28.00:452][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.10-04.28.00:452][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.10-04.28.00:452][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.10-04.28.00:452][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.10-04.28.00:452][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.10-04.28.00:452][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.10-04.28.00:452][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.10-04.28.00:589][  0]SourceControl: Source control is disabled
+[2019.01.10-04.28.00:680][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.10-04.28.00:682][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.10-04.28.05:416][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.01.10-04.28.05:418][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.10-04.28.05:422][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.10-04.28.07:672][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2019.01.10-04.28.07:673][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.10-04.28.07:676][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.10-04.28.07:698][  0]Cmd: MAP LOAD FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.10-04.28.07:698][  0]LightingResults: New page: Lighting Build
+[2019.01.10-04.28.07:702][  0]MapCheck: New page: Map Check
+[2019.01.10-04.28.07:703][  0]LightingResults: New page: Lighting Build
+[2019.01.10-04.28.08:939][  0]LogAIModule: Creating AISystem for world StackMap
+[2019.01.10-04.28.08:947][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.10-04.28.08:980][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.10-04.28.08:980][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.19ms to complete.
+[2019.01.10-04.28.08:980][  0]LogFileHelpers: Loading map 'StackMap' took 1.282
+[2019.01.10-04.28.09:067][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-04.28.09:075][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-04.28.09:083][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-04.28.09:092][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-04.28.09:111][  0]LogCollectionManager: Loaded 0 collections in 0.001912 seconds
+[2019.01.10-04.28.09:127][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Collections/' took 0.01s
+[2019.01.10-04.28.09:128][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Developers/nope/Collections/' took 0.00s
+[2019.01.10-04.28.09:128][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Collections/' took 0.00s
+[2019.01.10-04.28.09:128][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.10-04.28.09:137][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2652 classes and 622 folders.
+[2019.01.10-04.28.09:146][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.10-04.28.09:154][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:163][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:191][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:198][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:204][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:211][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:218][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:225][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:233][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:240][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:247][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:255][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:262][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:268][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:275][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:282][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:324][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:331][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:337][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:344][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:397][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:404][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:412][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:419][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:425][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:432][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-04.28.09:592][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.10-04.28.09:605][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.10-04.28.09:617][  0]LogSlate: Took 0.005657 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.10-04.28.09:764][  0]LogRenderer: Reallocating scene render targets to support 384x712 Format 10 NumSamples 1 (Frame:1).
+[2019.01.10-04.28.09:882][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.10-04.28.09:882][  0]LogLoad: (Engine Initialization) Total time: 19.54 seconds
+[2019.01.10-04.28.09:882][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.10-04.28.10:109][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.10-04.28.10:355][  3]LogAssetRegistry: Asset discovery search completed in 15.3240 seconds
+[2019.01.10-04.28.10:357][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.10-04.28.10:357][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2019.01.10-04.28.10:929][ 36]LogSlate: Took 0.005583 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.10-04.28.16:134][348]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.10-04.28.18:775][505]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/StackSpawner.StackSpawner
+[2019.01.10-04.28.19:341][505]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2019.01.10-04.28.20:303][505]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/OptionsMenu.OptionsMenu
+[2019.01.10-04.28.20:708][505]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.10-04.28.23:582][663]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.10-04.29.37:482][815]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/GameOverMenu.GameOverMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Blueprints/Button.Button:WidgetTree.CanvasPanel_0
+[2019.01.10-04.29.37:482][815]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/GameOverMenu.GameOverMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Blueprints/GameStartMenu.GameStartMenu:WidgetTree.CanvasPanel_0
+[2019.01.10-04.29.37:482][815]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/GameOverMenu.GameOverMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Blueprints/NewHighScore.NewHighScore:WidgetTree.CanvasPanel_0
+[2019.01.10-04.29.37:482][815]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/GameOverMenu.GameOverMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Blueprints/ScoreCounter.ScoreCounter:WidgetTree.CanvasPanel_0
+[2019.01.10-04.29.37:482][815]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/GameOverMenu.GameOverMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Blueprints/OptionsMenu.OptionsMenu:WidgetTree.CanvasPanel_0
+[2019.01.10-04.29.37:482][815]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/GameOverMenu.GameOverMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Blueprints/Button.Button_C:WidgetTree.CanvasPanel_0
+[2019.01.10-04.29.37:482][815]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/GameOverMenu.GameOverMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Blueprints/GameOverMenu.GameOverMenu_C:WidgetTree.CanvasPanel_0
+[2019.01.10-04.29.37:482][815]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/GameOverMenu.GameOverMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Blueprints/GameStartMenu.GameStartMenu_C:WidgetTree.CanvasPanel_0
+[2019.01.10-04.29.37:482][815]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/GameOverMenu.GameOverMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Blueprints/NewHighScore.NewHighScore_C:WidgetTree.CanvasPanel_0
+[2019.01.10-04.29.37:482][815]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/GameOverMenu.GameOverMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Blueprints/OptionsMenu.OptionsMenu_C:WidgetTree.CanvasPanel_0
+[2019.01.10-04.29.37:482][815]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/GameOverMenu.GameOverMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Blueprints/ScoreCounter.ScoreCounter_C:WidgetTree.CanvasPanel_0
+[2019.01.10-04.29.37:482][815]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/GameOverMenu.GameOverMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_5:OptionsMenu_C_0.WidgetTree_0.CanvasPanel_0
+[2019.01.10-04.29.37:482][815]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/GameOverMenu.GameOverMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_5:OptionsMenu_C_1.WidgetTree_0.CanvasPanel_0
+[2019.01.10-04.29.37:482][815]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/GameOverMenu.GameOverMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_5:OptionsMenu_C_2.WidgetTree_0.CanvasPanel_0
+[2019.01.10-04.29.37:482][815]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/Blueprints/OptionsMenu.OptionsMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4 or CanvasPanelSlot /Game/Blueprints/OptionsMenu.OptionsMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4
+[2019.01.10-04.29.37:482][815]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/Blueprints/OptionsMenu.OptionsMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4 or CanvasPanelSlot /Engine/Transient.World_5:OptionsMenu_C_0.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_4
+[2019.01.10-04.29.37:482][815]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/Blueprints/OptionsMenu.OptionsMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4 or CanvasPanelSlot /Engine/Transient.World_5:OptionsMenu_C_1.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_4
+[2019.01.10-04.29.37:482][815]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/Blueprints/OptionsMenu.OptionsMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4 or CanvasPanelSlot /Engine/Transient.World_5:OptionsMenu_C_2.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_4
+[2019.01.10-04.29.37:482][815]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/Blueprints/OptionsMenu.OptionsMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_4) from referencer (CheckBox /Engine/UMG/Editor/Transient.EasyModeTicker).  Import failed...
+[2019.01.10-04.29.37:482][815]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_4"''
+[2019.01.10-04.30.46:358][216]LogSlate: Took 0.012945 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.01.10-04.30.48:506][325]LogEditorTransaction: Undo Move Widget
+[2019.01.10-04.31.02:506][ 55]Cmd: TRANSACTION UNDO
+[2019.01.10-04.31.02:507][ 55]LogEditorTransaction: Undo Set Vector Property
+[2019.01.10-04.31.05:827][224]Cmd: TRANSACTION UNDO
+[2019.01.10-04.31.05:827][224]LogEditorTransaction: Undo Set Vector Property
+[2019.01.10-04.33.46:504][301]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.10-04.34.47:254][717]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.10-04.37.51:341][440]BlueprintLog: New page: Compile OptionsMenu
+[2019.01.10-04.38.00:532][938]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.10-04.38.00:565][938]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.10-04.38.00:566][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.10-04.38.00:566][938]PIE: New page: PIE session: StackMap (Jan 9, 2019, 6:38:00 PM)
+[2019.01.10-04.38.00:580][938]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.10-04.38.00:583][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003396s)
+[2019.01.10-04.38.00:584][938]LogAIModule: Creating AISystem for world StackMap
+[2019.01.10-04.38.00:584][938]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2019.01.10-04.38.00:584][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004436s)
+[2019.01.10-04.38.00:630][938]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.10-04.38.00:646][938]LogInit: FAudioDevice initialized.
+[2019.01.10-04.38.00:688][938]LogLoad: Game class is 'GameModeBase'
+[2019.01.10-04.38.00:689][938]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.09-23.38.00
+[2019.01.10-04.38.00:690][938]LogWorld: Bringing up level for play took: 0.000973
+[2019.01.10-04.38.00:713][938]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.01.10-04.38.00:724][938]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.10-04.38.00:724][938]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 0.738
+[2019.01.10-04.38.00:724][938]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.10-04.38.03:927][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-04.38.35:212][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-04.38.40:166][254]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.10-04.38.40:166][254]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.10-04.38.40:207][254]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.10-04.38.40:210][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003135s)
+[2019.01.10-04.38.40:210][254]LogAIModule: Creating AISystem for world StackMap
+[2019.01.10-04.38.40:211][254]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2019.01.10-04.38.40:211][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.003935s)
+[2019.01.10-04.38.40:211][254]LogLoad: Game class is 'GameModeBase'
+[2019.01.10-04.38.40:212][254]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.09-23.38.40
+[2019.01.10-04.38.40:212][254]LogWorld: Bringing up level for play took: 0.000877
+[2019.01.10-04.38.40:213][254]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.10-04.38.40:223][254]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.10-04.38.40:223][254]LogLoad: Took 0.057752 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.10-04.38.42:222][369]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.10-04.38.43:214][414]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.10-04.38.43:215][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-04.38.43:252][414]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.10-04.38.43:252][414]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.10-04.38.43:290][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-04.38.43:311][415]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.01.10-04.38.44:044][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-04.38.44:173][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StackMap" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.10-04.38.44:437][463]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/StackMap5AD4AB324155C3C213C6D1847428B2CB.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap.umap'
+[2019.01.10-04.38.44:487][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StackMap_BuiltData" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap_BuiltData.uasset" SILENT=true
+[2019.01.10-04.38.44:547][463]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/StackMap_BuiltData266991A3446FFDED58E4CCA981AD9DAD.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap_BuiltData.uasset'
+[2019.01.10-04.38.45:654][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-04.39.29:516][942]BlueprintLog: New page: Compile OptionsMenu
+[2019.01.10-04.39.39:258][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StackMap" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.10-04.39.39:514][385]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/StackMapDE82E8CD4D8E27CF7DC54E8CA415A389.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap.umap'
+[2019.01.10-04.39.39:558][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StackMap_BuiltData" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap_BuiltData.uasset" SILENT=true
+[2019.01.10-04.39.39:608][385]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/StackMap_BuiltData9F829D214AEACD581CB0688BD061D86B.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap_BuiltData.uasset'
