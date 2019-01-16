@@ -1,4 +1,6 @@
-Y:\gen\com\android\vending\billing\IInAppBillingService.java : \
-  Y:\src\com\android\vending\billing\IInAppBillingService.aidl
+X:\gen\com\android\vending\licensing\ILicensingService.java : \
+  X:\src\com\android\vending\licensing\ILicensingService.aidl \
+  X:\src\com\android\vending\licensing\ILicenseResultListener.aidl
 
-Y:\src\com\android\vending\billing\IInAppBillingService.aidl :
+X:\src\com\android\vending\licensing\ILicensingService.aidl :
+X:\src\com\android\vending\licensing\ILicenseResultListener.aidl :

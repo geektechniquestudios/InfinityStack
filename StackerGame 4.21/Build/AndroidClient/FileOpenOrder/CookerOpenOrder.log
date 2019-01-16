@@ -1745,60 +1745,61 @@
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorStem.uasset" 1744
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 1745
 "../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset" 1746
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1747
-"../../../Engine/Content/Maps/Entry.umap" 1748
-"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 1749
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1750
-"../../../Engine/Content/Maps/Templates/Template_Default.umap" 1751
-"../../../Engine/Content/Maps/Templates/VR-Basic_BuiltData.uasset" 1752
-"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 1753
-"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 1754
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 1755
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 1756
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset" 1757
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uasset" 1758
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_02.uasset" 1759
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_02.uasset" 1760
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_03.uasset" 1761
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_03.uasset" 1762
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Pyramid_01.uasset" 1763
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset" 1764
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 1765
-"../../../Engine/Content/Maps/Templates/VR-Basic.umap" 1766
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/SaveGameBP.uasset" 1767
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/TileMat.uasset" 1768
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/BaseMat.uasset" 1769
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/BaseMat_Inst.uasset" 1770
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" 1771
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/Tile.uasset" 1772
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/TileRemainder.uasset" 1773
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Darken.uasset" 1774
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/GradientBackground.uasset" 1775
-"../../../Engine/Content/BasicShapes/Plane.uasset" 1776
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/ButtonStyle.uasset" 1777
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/ButtonText.uasset" 1778
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/Button.uasset" 1779
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/buttonClick.uasset" 1780
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/MenuIn.uasset" 1781
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/switch.uasset" 1782
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/OptionsMenu.uasset" 1783
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/MenuMusic.uasset" 1784
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Possible_theme.uasset" 1785
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Whoosh.uasset" 1786
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameStartMenu.uasset" 1787
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Images/largeRedoButton.uasset" 1788
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Images/largeRedoButton2.uasset" 1789
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameOverMenu.uasset" 1790
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/NewHighScore.uasset" 1791
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/ScoreCounter.uasset" 1792
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/FireflyLight.uasset" 1793
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/Embers.uasset" 1794
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/GameOverSound.uasset" 1795
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/grow.uasset" 1796
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/note1.uasset" 1797
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/note2.uasset" 1798
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/note3.uasset" 1799
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/snap.uasset" 1800
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/StackSpawner.uasset" 1801
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap_BuiltData.uasset" 1802
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap.umap" 1803
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/FireflyLight.uasset" 1747
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Particles/Embers3.uasset" 1748
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1749
+"../../../Engine/Content/Maps/Entry.umap" 1750
+"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 1751
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1752
+"../../../Engine/Content/Maps/Templates/Template_Default.umap" 1753
+"../../../Engine/Content/Maps/Templates/VR-Basic_BuiltData.uasset" 1754
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 1755
+"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 1756
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 1757
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 1758
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset" 1759
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uasset" 1760
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_02.uasset" 1761
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_02.uasset" 1762
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_03.uasset" 1763
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_03.uasset" 1764
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Pyramid_01.uasset" 1765
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset" 1766
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 1767
+"../../../Engine/Content/Maps/Templates/VR-Basic.umap" 1768
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/SaveGameBP.uasset" 1769
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/TileMat.uasset" 1770
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/BaseMat.uasset" 1771
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/BaseMat_Inst.uasset" 1772
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" 1773
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/Tile.uasset" 1774
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/TileRemainder.uasset" 1775
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Darken.uasset" 1776
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/GradientBackground.uasset" 1777
+"../../../Engine/Content/BasicShapes/Plane.uasset" 1778
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/ButtonStyle.uasset" 1779
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/ButtonText.uasset" 1780
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/Button.uasset" 1781
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/buttonClick.uasset" 1782
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/MenuIn.uasset" 1783
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/switch.uasset" 1784
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/OptionsMenu.uasset" 1785
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/MenuMusic.uasset" 1786
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Possible_theme.uasset" 1787
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Whoosh.uasset" 1788
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameStartMenu.uasset" 1789
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Images/largeRedoButton.uasset" 1790
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Images/largeRedoButton2.uasset" 1791
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameOverMenu.uasset" 1792
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/NewHighScore.uasset" 1793
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/ScoreCounter.uasset" 1794
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/Embers.uasset" 1795
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/GameOverSound.uasset" 1796
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/grow.uasset" 1797
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/note1.uasset" 1798
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/note2.uasset" 1799
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/note3.uasset" 1800
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/snap.uasset" 1801
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/StackSpawner.uasset" 1802
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap_BuiltData.uasset" 1803
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap.umap" 1804
