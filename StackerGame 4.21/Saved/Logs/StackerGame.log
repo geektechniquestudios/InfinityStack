@@ -4534,3 +4534,1031 @@ Script call stack:
 [2019.01.16-00.26.45:116][502]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/StackMap15414A614867F92139D777876F73EC71.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap.umap'
 [2019.01.16-00.26.45:314][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StackMap_BuiltData" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap_BuiltData.uasset" SILENT=true
 [2019.01.16-00.26.45:388][502]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/StackMap_BuiltData636B2C2D4BA4B27DF21AB08B3A576E74.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap_BuiltData.uasset'
+[2019.01.16-00.29.05:439][601]BlueprintLog: New page: Compile StackSpawner
+[2019.01.16-00.30.42:367][871]BlueprintLog: New page: Compile StackSpawner
+[2019.01.16-00.30.45:849][957]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-00.30.46:107][957]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-00.30.46:107][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.16-00.30.46:107][957]PIE: New page: PIE session: StackMap (Jan 15, 2019, 2:30:46 PM)
+[2019.01.16-00.30.46:107][957]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-00.30.46:112][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004074s)
+[2019.01.16-00.30.46:113][957]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-00.30.46:113][957]LogPlayLevel: PIE: World Init took: (0.001103s)
+[2019.01.16-00.30.46:113][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.005474s)
+[2019.01.16-00.30.46:170][957]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-00.30.46:192][957]LogInit: FAudioDevice initialized.
+[2019.01.16-00.30.46:227][957]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-00.30.46:229][957]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-19.30.46
+[2019.01.16-00.30.46:229][957]LogWorld: Bringing up level for play took: 0.000931
+[2019.01.16-00.30.46:254][957]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-00.30.46:255][957]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 0.263
+[2019.01.16-00.30.46:255][957]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-00.30.50:079][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-00.30.51:719][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-00.30.59:088][474]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-00.30.59:089][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-00.30.59:343][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.16-00.30.59:344][474]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-00.30.59:392][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-00.30.59:808][475]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2019.01.16-00.36.13:649][198]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-02.13.10:854][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:854][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:854][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:854][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:854][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:854][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:854][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:854][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:854][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:855][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:855][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:855][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:855][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:855][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:855][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:855][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:855][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:855][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:855][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:855][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:855][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:855][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:855][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:855][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:855][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:855][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:855][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:855][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:855][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:856][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:856][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:856][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:856][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:856][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:856][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:856][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:856][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:856][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:856][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:856][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:856][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:856][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:856][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:856][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:856][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:856][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:856][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:856][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:856][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:857][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:857][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:857][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:857][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:857][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:857][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:857][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:857][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:857][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:857][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:857][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:857][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:857][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:857][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:857][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:857][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:857][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:857][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:857][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:857][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:857][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:857][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:857][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:858][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:858][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:858][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:858][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:858][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:858][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:858][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:858][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:858][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:858][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:858][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:858][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:858][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:858][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:858][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:858][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:858][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:858][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:858][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:858][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:858][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:858][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.10:858][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.11:847][204]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.992 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.16-02.13.18:669][223]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-02.13.22:166][230]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/StackMap_Auto701A21959430AD04D2CA111927EEA4001.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Autosaves/Game/Maps/StackMap_Auto7.umap'
+[2019.01.16-02.13.22:171][230]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StackMap' took 0.976
+[2019.01.16-02.13.22:171][230]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.976
+[2019.01.16-02.13.22:180][230]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/StackSpawner] ([1] browsable assets)...
+[2019.01.16-02.13.22:280][230]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/StackSpawner.StackSpawner]
+[2019.01.16-02.13.22:280][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/StackSpawner]
+[2019.01.16-02.13.23:108][230]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/StackSpawner_Auto7076B1D9D4F67A8034D2E6F9700954D1D.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Autosaves/Game/Blueprints/StackSpawner_Auto7.uasset'
+[2019.01.16-02.13.23:112][230]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Button] ([1] browsable assets)...
+[2019.01.16-02.13.23:112][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Button]
+[2019.01.16-02.13.23:194][230]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Button_Auto71CAA868F4B582EDD6E1A529C54358801.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Autosaves/Game/Blueprints/Button_Auto7.uasset'
+[2019.01.16-02.13.23:197][230]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/OptionsMenu] ([1] browsable assets)...
+[2019.01.16-02.13.23:197][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/OptionsMenu]
+[2019.01.16-02.13.23:445][230]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/OptionsMenu_Auto7D3E9B2704551763A5E30D9985A370EF0.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Autosaves/Game/Blueprints/OptionsMenu_Auto7.uasset'
+[2019.01.16-02.13.23:447][230]LogFileHelpers: Auto-saving content packages took 1.273
+[2019.01.16-02.17.25:355][525]BlueprintLog: New page: Compile StackSpawner
+[2019.01.16-02.20.52:433][806]BlueprintLog: New page: Compile StackSpawner
+[2019.01.16-02.21.41:623][119]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-02.21.41:987][119]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.21.41:987][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.16-02.21.41:987][119]PIE: New page: PIE session: StackMap (Jan 15, 2019, 4:21:41 PM)
+[2019.01.16-02.21.41:988][119]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.21.41:993][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005327s)
+[2019.01.16-02.21.41:994][119]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.21.41:995][119]LogPlayLevel: PIE: World Init took: (0.001437s)
+[2019.01.16-02.21.41:995][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.007093s)
+[2019.01.16-02.21.42:064][119]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-02.21.42:085][119]LogInit: FAudioDevice initialized.
+[2019.01.16-02.21.42:120][119]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.21.42:122][119]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.21.42
+[2019.01.16-02.21.42:123][119]LogWorld: Bringing up level for play took: 0.001666
+[2019.01.16-02.21.42:152][119]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.21.42:152][119]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 0.174
+[2019.01.16-02.21.42:152][119]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.21.45:057][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.21.53:095][602]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-02.21.54:310][639]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.21.54:311][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.21.54:717][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.16-02.21.54:718][639]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.21.54:771][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.21.55:335][640]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2019.01.16-02.21.57:830][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.22.26:395][ 27]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-02.22.26:446][ 27]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.22.26:447][ 27]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.16-02.22.26:691][ 27]LogPlayLevel: [PlayLevel] Compiling StackSpawner before play...
+[2019.01.16-02.22.27:663][ 27]LogPlayLevel: PlayLevel: Blueprint regeneration took 1216 ms (1 blueprints)
+[2019.01.16-02.22.27:663][ 27]PIE: New page: PIE session: StackMap (Jan 15, 2019, 4:22:27 PM)
+[2019.01.16-02.22.27:663][ 27]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.22.27:668][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003991s)
+[2019.01.16-02.22.27:668][ 27]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.22.27:669][ 27]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2019.01.16-02.22.27:669][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.005112s)
+[2019.01.16-02.22.27:725][ 27]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-02.22.27:743][ 27]LogInit: FAudioDevice initialized.
+[2019.01.16-02.22.27:779][ 27]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.22.27:780][ 27]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.22.27
+[2019.01.16-02.22.27:781][ 27]LogWorld: Bringing up level for play took: 0.000970
+[2019.01.16-02.22.27:806][ 27]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.22.27:806][ 27]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 1.828
+[2019.01.16-02.22.27:806][ 27]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.22.29:794][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.22.31:431][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.22.37:910][465]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.22.37:910][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.22.37:955][465]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.16-02.22.37:955][465]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.22.38:004][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.22.38:036][466]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2019.01.16-02.24.00:852][484]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-02.24.01:215][484]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.24.01:216][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.16-02.24.01:216][484]PIE: New page: PIE session: StackMap (Jan 15, 2019, 4:24:01 PM)
+[2019.01.16-02.24.01:216][484]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.24.01:220][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004231s)
+[2019.01.16-02.24.01:221][484]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.24.01:222][484]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2019.01.16-02.24.01:222][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.005499s)
+[2019.01.16-02.24.01:283][484]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-02.24.01:302][484]LogInit: FAudioDevice initialized.
+[2019.01.16-02.24.01:335][484]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.24.01:337][484]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.24.01
+[2019.01.16-02.24.01:337][484]LogWorld: Bringing up level for play took: 0.001041
+[2019.01.16-02.24.01:362][484]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.24.01:363][484]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 1.385
+[2019.01.16-02.24.01:363][484]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.24.03:323][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.24.05:024][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.24.15:040][ 88]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.16-02.24.15:041][ 88]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.16-02.24.15:096][ 88]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.24.15:101][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004311s)
+[2019.01.16-02.24.15:102][ 88]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.24.15:102][ 88]LogPlayLevel: PIE: World Init took: (0.001703s)
+[2019.01.16-02.24.15:103][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.006251s)
+[2019.01.16-02.24.15:103][ 88]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.24.15:104][ 88]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.24.15
+[2019.01.16-02.24.15:105][ 88]LogWorld: Bringing up level for play took: 0.001214
+[2019.01.16-02.24.15:105][ 88]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.16-02.24.15:118][ 88]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.24.15:118][ 88]LogLoad: Took 0.076857 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.16-02.24.17:446][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.24.19:428][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.24.26:775][647]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.16-02.24.26:776][647]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.16-02.24.26:825][647]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.24.26:829][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003247s)
+[2019.01.16-02.24.26:829][647]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.24.26:829][647]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2019.01.16-02.24.26:829][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.003952s)
+[2019.01.16-02.24.26:829][647]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.24.26:831][647]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.24.26
+[2019.01.16-02.24.26:831][647]LogWorld: Bringing up level for play took: 0.000874
+[2019.01.16-02.24.26:832][647]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.16-02.24.26:841][647]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.24.26:841][647]LogLoad: Took 0.064948 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.16-02.24.28:514][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.24.29:839][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.24.46:474][586]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.16-02.24.46:475][586]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.16-02.24.46:530][586]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.24.46:535][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004119s)
+[2019.01.16-02.24.46:535][586]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.24.46:535][586]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2019.01.16-02.24.46:535][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.005022s)
+[2019.01.16-02.24.46:535][586]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.24.46:537][586]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.24.46
+[2019.01.16-02.24.46:537][586]LogWorld: Bringing up level for play took: 0.001188
+[2019.01.16-02.24.46:538][586]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.16-02.24.46:550][586]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.24.46:550][586]LogLoad: Took 0.075761 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.16-02.25.10:623][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.25.11:513][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.25.17:257][ 94]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.16-02.25.17:258][ 94]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.16-02.25.17:313][ 94]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.25.17:316][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003242s)
+[2019.01.16-02.25.17:316][ 94]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.25.17:317][ 94]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2019.01.16-02.25.17:317][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004070s)
+[2019.01.16-02.25.17:317][ 94]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.25.17:318][ 94]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.25.17
+[2019.01.16-02.25.17:319][ 94]LogWorld: Bringing up level for play took: 0.001021
+[2019.01.16-02.25.17:319][ 94]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.16-02.25.17:331][ 94]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.25.17:331][ 94]LogLoad: Took 0.073384 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.16-02.25.19:039][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.25.23:129][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.25.23:934][380]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.16-02.25.23:935][380]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.16-02.25.23:985][380]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.25.23:988][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003085s)
+[2019.01.16-02.25.23:989][380]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.25.23:989][380]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2019.01.16-02.25.23:989][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.003866s)
+[2019.01.16-02.25.23:989][380]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.25.23:990][380]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.25.23
+[2019.01.16-02.25.23:991][380]LogWorld: Bringing up level for play took: 0.000958
+[2019.01.16-02.25.23:991][380]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.16-02.25.24:001][380]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.25.24:001][380]LogLoad: Took 0.065825 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.16-02.25.25:712][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.25.26:510][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.25.31:325][745]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.25.31:326][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.25.31:366][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.16-02.25.31:366][745]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.25.31:418][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.25.31:448][746]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2019.01.16-02.26.01:371][998]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-02.26.01:622][998]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.26.01:622][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.16-02.26.01:622][998]PIE: New page: PIE session: StackMap (Jan 15, 2019, 4:26:01 PM)
+[2019.01.16-02.26.01:623][998]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.26.01:626][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003530s)
+[2019.01.16-02.26.01:627][998]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.26.01:627][998]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2019.01.16-02.26.01:627][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004630s)
+[2019.01.16-02.26.01:680][998]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-02.26.01:698][998]LogInit: FAudioDevice initialized.
+[2019.01.16-02.26.01:732][998]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.26.01:734][998]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.26.01
+[2019.01.16-02.26.01:734][998]LogWorld: Bringing up level for play took: 0.000826
+[2019.01.16-02.26.01:759][998]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.26.01:760][998]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap -0.218
+[2019.01.16-02.26.01:760][998]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.26.04:178][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.26.04:787][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.26.09:692][306]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.26.09:692][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.26.09:997][306]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.16-02.26.09:997][306]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.26.10:041][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.26.10:544][307]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2019.01.16-02.26.24:843][933]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-02.26.24:895][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.26.24:895][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.16-02.26.24:895][933]PIE: New page: PIE session: StackMap (Jan 15, 2019, 4:26:24 PM)
+[2019.01.16-02.26.24:895][933]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.26.24:900][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004567s)
+[2019.01.16-02.26.24:901][933]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.26.24:901][933]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2019.01.16-02.26.24:901][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.005705s)
+[2019.01.16-02.26.24:970][933]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-02.26.24:990][933]LogInit: FAudioDevice initialized.
+[2019.01.16-02.26.25:025][933]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.26.25:027][933]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.26.25
+[2019.01.16-02.26.25:028][933]LogWorld: Bringing up level for play took: 0.001879
+[2019.01.16-02.26.25:056][933]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.26.25:056][933]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 1.079
+[2019.01.16-02.26.25:056][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.26.26:565][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.26.27:183][ 20]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 11862
+[2019.01.16-02.26.27:183][ 20]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ReceiveTick
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner
+
+[2019.01.16-02.26.27:190][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-02.27.15:394][ 20]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.27.15:395][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.27.15:631][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.16-02.27.15:631][ 20]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.27.15:687][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.27.16:097][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2019.01.16-02.27.28:571][501]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/StackMap_Auto8A1C2C4CC4A2472E59A0CD7A48F5AC984.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Autosaves/Game/Maps/StackMap_Auto8.umap'
+[2019.01.16-02.27.28:576][501]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StackMap' took 0.382
+[2019.01.16-02.27.28:576][501]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.382
+[2019.01.16-02.27.28:579][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/StackSpawner] ([1] browsable assets)...
+[2019.01.16-02.27.28:596][501]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/StackSpawner.StackSpawner]
+[2019.01.16-02.27.28:596][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/StackSpawner]
+[2019.01.16-02.27.29:244][501]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/StackSpawner_Auto8CDDE2AF846EFB28B2DED0C947686B838.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Autosaves/Game/Blueprints/StackSpawner_Auto8.uasset'
+[2019.01.16-02.27.29:246][501]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Button] ([1] browsable assets)...
+[2019.01.16-02.27.29:246][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Button]
+[2019.01.16-02.27.29:324][501]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Button_Auto8612F6CA7409EEBAD14664B9381A156A3.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Autosaves/Game/Blueprints/Button_Auto8.uasset'
+[2019.01.16-02.27.29:325][501]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/OptionsMenu] ([1] browsable assets)...
+[2019.01.16-02.27.29:325][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/OptionsMenu]
+[2019.01.16-02.27.29:562][501]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/OptionsMenu_Auto8F51EB84142803F3BA978A1A83809D1AC.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Autosaves/Game/Blueprints/OptionsMenu_Auto8.uasset'
+[2019.01.16-02.27.29:565][501]LogFileHelpers: Auto-saving content packages took 0.987
+[2019.01.16-02.27.37:226][855]BlueprintLog: New page: Compile StackSpawner
+[2019.01.16-02.27.52:712][450]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-02.27.52:947][450]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.27.52:947][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.16-02.27.52:947][450]PIE: New page: PIE session: StackMap (Jan 15, 2019, 4:27:52 PM)
+[2019.01.16-02.27.52:947][450]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.27.52:951][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003656s)
+[2019.01.16-02.27.52:951][450]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.27.52:951][450]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2019.01.16-02.27.52:953][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004492s)
+[2019.01.16-02.27.53:007][450]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-02.27.53:023][450]LogInit: FAudioDevice initialized.
+[2019.01.16-02.27.53:053][450]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.27.53:054][450]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.27.53
+[2019.01.16-02.27.53:055][450]LogWorld: Bringing up level for play took: 0.000811
+[2019.01.16-02.27.53:077][450]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.27.53:077][450]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 1.1
+[2019.01.16-02.27.53:077][450]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.27.55:597][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.27.56:321][570]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 11891
+[2019.01.16-02.27.56:321][570]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ReceiveTick
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner
+
+[2019.01.16-02.27.56:328][570]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-02.28.01:421][570]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.28.01:421][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.28.01:661][570]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.16-02.28.01:661][570]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.28.01:715][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.28.02:144][571]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2019.01.16-02.28.08:125][845]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-02.28.08:169][845]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.28.08:170][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.16-02.28.08:170][845]PIE: New page: PIE session: StackMap (Jan 15, 2019, 4:28:08 PM)
+[2019.01.16-02.28.08:170][845]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.28.08:174][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003671s)
+[2019.01.16-02.28.08:174][845]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.28.08:175][845]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2019.01.16-02.28.08:175][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004702s)
+[2019.01.16-02.28.08:229][845]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-02.28.08:246][845]LogInit: FAudioDevice initialized.
+[2019.01.16-02.28.08:284][845]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.28.08:286][845]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.28.08
+[2019.01.16-02.28.08:286][845]LogWorld: Bringing up level for play took: 0.001170
+[2019.01.16-02.28.08:309][845]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.28.08:309][845]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 0.332
+[2019.01.16-02.28.08:310][845]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.28.10:629][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.28.19:090][310]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-02.28.20:944][389]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.28.20:945][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.28.21:188][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.16-02.28.21:188][389]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.28.21:233][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.28.21:650][390]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2019.01.16-02.28.23:257][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.28.32:139][841]BlueprintLog: New page: Compile StackSpawner
+[2019.01.16-02.28.36:335][963]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-02.28.36:567][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.28.36:567][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.16-02.28.36:567][963]PIE: New page: PIE session: StackMap (Jan 15, 2019, 4:28:36 PM)
+[2019.01.16-02.28.36:567][963]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.28.36:570][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003255s)
+[2019.01.16-02.28.36:571][963]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.28.36:571][963]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2019.01.16-02.28.36:571][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004112s)
+[2019.01.16-02.28.36:625][963]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-02.28.36:641][963]LogInit: FAudioDevice initialized.
+[2019.01.16-02.28.36:673][963]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.28.36:674][963]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.28.36
+[2019.01.16-02.28.36:675][963]LogWorld: Bringing up level for play took: 0.000745
+[2019.01.16-02.28.36:696][963]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.28.36:696][963]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 0.719
+[2019.01.16-02.28.36:697][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.28.39:032][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.28.55:778][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.28.55:905][759]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.28.55:906][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.28.56:145][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.16-02.28.56:145][759]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.28.56:193][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.28.56:592][760]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2019.01.16-02.29.59:694][527]BlueprintLog: New page: Compile StackSpawner
+[2019.01.16-02.30.34:225][ 74]BlueprintLog: New page: Compile StackSpawner
+[2019.01.16-02.30.37:879][160]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-02.30.38:315][160]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.30.38:315][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.16-02.30.38:315][160]PIE: New page: PIE session: StackMap (Jan 15, 2019, 4:30:38 PM)
+[2019.01.16-02.30.38:316][160]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.30.38:324][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007956s)
+[2019.01.16-02.30.38:325][160]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.30.38:325][160]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2019.01.16-02.30.38:325][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.009079s)
+[2019.01.16-02.30.38:395][160]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-02.30.38:411][160]LogInit: FAudioDevice initialized.
+[2019.01.16-02.30.38:444][160]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.30.38:445][160]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.30.38
+[2019.01.16-02.30.38:446][160]LogWorld: Bringing up level for play took: 0.001209
+[2019.01.16-02.30.38:472][160]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.30.38:472][160]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 0.494
+[2019.01.16-02.30.38:473][160]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.30.40:898][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.30.45:591][464]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-02.30.47:219][528]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.30.47:220][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.30.47:512][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.16-02.30.47:512][528]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.30.47:558][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.30.48:000][529]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2019.01.16-02.31.02:045][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.31.33:158][538]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-02.31.33:200][538]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.31.33:200][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.16-02.31.33:200][538]PIE: New page: PIE session: StackMap (Jan 15, 2019, 4:31:33 PM)
+[2019.01.16-02.31.33:201][538]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.31.33:204][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003857s)
+[2019.01.16-02.31.33:205][538]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.31.33:205][538]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2019.01.16-02.31.33:205][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004803s)
+[2019.01.16-02.31.33:261][538]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-02.31.33:276][538]LogInit: FAudioDevice initialized.
+[2019.01.16-02.31.33:313][538]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.31.33:315][538]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.31.33
+[2019.01.16-02.31.33:315][538]LogWorld: Bringing up level for play took: 0.001256
+[2019.01.16-02.31.33:338][538]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.31.33:338][538]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap -0.64
+[2019.01.16-02.31.33:338][538]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.31.35:293][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.31.36:153][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.31.40:918][829]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.31.40:918][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.31.41:377][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.16-02.31.41:378][829]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.31.41:431][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.31.41:837][830]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2019.01.16-02.32.26:646][712]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-02.32.26:701][712]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.32.26:701][712]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.16-02.32.26:941][712]LogPlayLevel: [PlayLevel] Compiling StackSpawner before play...
+[2019.01.16-02.32.27:892][712]LogPlayLevel: PlayLevel: Blueprint regeneration took 1190 ms (1 blueprints)
+[2019.01.16-02.32.27:892][712]PIE: New page: PIE session: StackMap (Jan 15, 2019, 4:32:27 PM)
+[2019.01.16-02.32.27:892][712]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.32.27:896][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003605s)
+[2019.01.16-02.32.27:896][712]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.32.27:896][712]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2019.01.16-02.32.27:896][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004451s)
+[2019.01.16-02.32.27:954][712]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-02.32.27:973][712]LogInit: FAudioDevice initialized.
+[2019.01.16-02.32.28:004][712]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.32.28:006][712]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.32.28
+[2019.01.16-02.32.28:006][712]LogWorld: Bringing up level for play took: 0.000936
+[2019.01.16-02.32.28:030][712]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.32.28:031][712]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 2.053
+[2019.01.16-02.32.28:031][712]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.32.30:252][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.32.31:059][830]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 11614
+[2019.01.16-02.32.31:059][830]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Button.Button_C:BndEvt__Button_522_K2Node_ComponentBoundEvent_6_OnButtonPressedEvent__DelegateSignature
+	Function /Game/Blueprints/Button.Button_C:ExecuteUbergraph_Button
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:PlaceTile
+	Function /Game/Blueprints/StackSpawner.StackSpawner_C:ExecuteUbergraph_StackSpawner
+
+[2019.01.16-02.32.31:067][830]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-02.32.37:348][830]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.32.37:349][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.32.37:391][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.16-02.32.37:391][830]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.32.37:441][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.32.37:469][831]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2019.01.16-02.32.42:760][ 35]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-02.32.43:136][ 35]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.32.43:136][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.16-02.32.43:136][ 35]PIE: New page: PIE session: StackMap (Jan 15, 2019, 4:32:43 PM)
+[2019.01.16-02.32.43:137][ 35]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.32.43:141][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004396s)
+[2019.01.16-02.32.43:142][ 35]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.32.43:142][ 35]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2019.01.16-02.32.43:142][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.005448s)
+[2019.01.16-02.32.43:202][ 35]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-02.32.43:219][ 35]LogInit: FAudioDevice initialized.
+[2019.01.16-02.32.43:264][ 35]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.32.43:266][ 35]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.32.43
+[2019.01.16-02.32.43:267][ 35]LogWorld: Bringing up level for play took: 0.001341
+[2019.01.16-02.32.43:294][ 35]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.32.43:294][ 35]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 1.316
+[2019.01.16-02.32.43:294][ 35]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.32.45:071][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.32.49:016][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.32.49:833][320]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.16-02.32.49:833][320]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.16-02.32.49:881][320]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.32.49:885][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003114s)
+[2019.01.16-02.32.49:885][320]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.32.49:885][320]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2019.01.16-02.32.49:885][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.003906s)
+[2019.01.16-02.32.49:885][320]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.32.49:887][320]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.32.49
+[2019.01.16-02.32.49:887][320]LogWorld: Bringing up level for play took: 0.000787
+[2019.01.16-02.32.49:888][320]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.16-02.32.49:897][320]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.32.49:897][320]LogLoad: Took 0.063632 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.16-02.32.51:373][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.32.52:146][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.32.54:385][533]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.16-02.32.54:386][533]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.16-02.32.54:443][533]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.32.54:448][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004568s)
+[2019.01.16-02.32.54:448][533]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.32.54:449][533]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2019.01.16-02.32.54:449][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.005633s)
+[2019.01.16-02.32.54:449][533]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.32.54:450][533]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.32.54
+[2019.01.16-02.32.54:451][533]LogWorld: Bringing up level for play took: 0.001155
+[2019.01.16-02.32.54:451][533]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.16-02.32.54:467][533]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.32.54:467][533]LogLoad: Took 0.081419 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.16-02.32.55:940][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.32.57:558][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.33.02:084][853]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.16-02.33.02:085][853]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.16-02.33.02:140][853]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.33.02:144][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003456s)
+[2019.01.16-02.33.02:144][853]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.33.02:145][853]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2019.01.16-02.33.02:145][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004230s)
+[2019.01.16-02.33.02:145][853]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.33.02:146][853]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.33.02
+[2019.01.16-02.33.02:146][853]LogWorld: Bringing up level for play took: 0.000952
+[2019.01.16-02.33.02:147][853]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.16-02.33.02:162][853]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.33.02:162][853]LogLoad: Took 0.077038 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.16-02.33.57:252][557]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-02.33.58:586][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.33.58:587][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.33.58:632][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.16-02.33.58:632][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.33.58:683][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.33.58:725][593]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2019.01.16-02.34.00:255][652]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-02.34.01:559][694]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-02.34.01:945][694]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.34.01:945][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.16-02.34.01:945][694]PIE: New page: PIE session: StackMap (Jan 15, 2019, 4:34:01 PM)
+[2019.01.16-02.34.01:946][694]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.34.01:950][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004182s)
+[2019.01.16-02.34.01:950][694]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.34.01:951][694]LogPlayLevel: PIE: World Init took: (0.000976s)
+[2019.01.16-02.34.01:951][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.005348s)
+[2019.01.16-02.34.02:008][694]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-02.34.02:027][694]LogInit: FAudioDevice initialized.
+[2019.01.16-02.34.02:028][694]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-02.34.02:058][694]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.34.02:059][694]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.34.02
+[2019.01.16-02.34.02:060][694]LogWorld: Bringing up level for play took: 0.000872
+[2019.01.16-02.34.02:084][694]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.34.02:084][694]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 0.106
+[2019.01.16-02.34.02:084][694]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.34.03:912][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.34.04:744][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.34.06:761][871]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.16-02.34.06:762][871]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.16-02.34.06:815][871]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.34.06:818][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003256s)
+[2019.01.16-02.34.06:819][871]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.34.06:819][871]LogPlayLevel: PIE: World Init took: (0.000592s)
+[2019.01.16-02.34.06:819][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004025s)
+[2019.01.16-02.34.06:819][871]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.34.06:821][871]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.34.06
+[2019.01.16-02.34.06:821][871]LogWorld: Bringing up level for play took: 0.001050
+[2019.01.16-02.34.06:821][871]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.16-02.34.06:831][871]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.34.06:831][871]LogLoad: Took 0.068278 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.16-02.34.08:386][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.34.10:360][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.34.15:766][297]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.16-02.34.15:769][297]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.16-02.34.15:824][297]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.34.15:828][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003937s)
+[2019.01.16-02.34.15:829][297]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.34.15:829][297]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2019.01.16-02.34.15:829][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004875s)
+[2019.01.16-02.34.15:829][297]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.34.15:830][297]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.34.15
+[2019.01.16-02.34.15:831][297]LogWorld: Bringing up level for play took: 0.001176
+[2019.01.16-02.34.15:831][297]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.16-02.34.15:843][297]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.34.15:843][297]LogLoad: Took 0.074105 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.16-02.39.20:476][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.39.26:562][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.39.27:388][469]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.16-02.39.27:389][469]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.16-02.39.27:446][469]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.39.27:450][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003555s)
+[2019.01.16-02.39.27:450][469]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.39.27:451][469]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2019.01.16-02.39.27:451][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004528s)
+[2019.01.16-02.39.27:451][469]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.39.27:452][469]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.39.27
+[2019.01.16-02.39.27:452][469]LogWorld: Bringing up level for play took: 0.000856
+[2019.01.16-02.39.27:453][469]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.16-02.39.27:463][469]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.39.27:463][469]LogLoad: Took 0.074081 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.16-02.39.32:088][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.39.33:694][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.39.45:498][319]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.16-02.39.45:500][319]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.16-02.39.45:562][319]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.39.45:566][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004201s)
+[2019.01.16-02.39.45:567][319]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.39.45:567][319]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2019.01.16-02.39.45:567][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.005199s)
+[2019.01.16-02.39.45:567][319]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.39.45:569][319]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.39.45
+[2019.01.16-02.39.45:569][319]LogWorld: Bringing up level for play took: 0.001204
+[2019.01.16-02.39.45:570][319]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.16-02.39.45:583][319]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.39.45:583][319]LogLoad: Took 0.083045 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.16-02.39.49:011][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.39.49:954][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.39.51:804][599]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.16-02.39.51:806][599]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.16-02.39.51:856][599]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.39.51:859][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003191s)
+[2019.01.16-02.39.51:859][599]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.39.51:860][599]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2019.01.16-02.39.51:860][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004048s)
+[2019.01.16-02.39.51:860][599]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.39.51:861][599]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.39.51
+[2019.01.16-02.39.51:861][599]LogWorld: Bringing up level for play took: 0.000739
+[2019.01.16-02.39.51:862][599]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.16-02.39.51:872][599]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.39.51:872][599]LogLoad: Took 0.065955 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.16-02.39.53:510][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.39.54:687][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.39.58:674][952]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.16-02.39.58:675][952]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.16-02.39.58:722][952]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.39.58:724][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003061s)
+[2019.01.16-02.39.58:725][952]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.39.58:725][952]LogPlayLevel: PIE: World Init took: (0.000550s)
+[2019.01.16-02.39.58:725][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.003775s)
+[2019.01.16-02.39.58:725][952]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.39.58:726][952]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.39.58
+[2019.01.16-02.39.58:727][952]LogWorld: Bringing up level for play took: 0.001219
+[2019.01.16-02.39.58:727][952]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.16-02.39.58:737][952]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.39.58:737][952]LogLoad: Took 0.063339 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.16-02.40.00:574][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.40.02:456][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.40.05:624][251]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.16-02.40.05:625][251]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.16-02.40.05:683][251]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.40.05:688][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005216s)
+[2019.01.16-02.40.05:689][251]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.40.05:689][251]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2019.01.16-02.40.05:689][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.006487s)
+[2019.01.16-02.40.05:689][251]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.40.05:691][251]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.40.05
+[2019.01.16-02.40.05:691][251]LogWorld: Bringing up level for play took: 0.001030
+[2019.01.16-02.40.05:692][251]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.16-02.40.05:705][251]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.40.05:705][251]LogLoad: Took 0.080080 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.16-02.40.07:175][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.40.08:532][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.40.21:163][976]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.40.21:164][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.40.21:211][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.16-02.40.21:211][976]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.40.21:269][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.40.21:333][977]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2019.01.16-02.42.06:162][771]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-02.42.06:644][771]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.42.06:644][771]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.16-02.42.06:912][771]LogPlayLevel: [PlayLevel] Compiling StackSpawner before play...
+[2019.01.16-02.42.07:702][771]LogPlayLevel: PlayLevel: Blueprint regeneration took 1058 ms (1 blueprints)
+[2019.01.16-02.42.07:703][771]PIE: New page: PIE session: StackMap (Jan 15, 2019, 4:42:07 PM)
+[2019.01.16-02.42.07:703][771]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.42.07:707][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003882s)
+[2019.01.16-02.42.07:708][771]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.42.07:708][771]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2019.01.16-02.42.07:708][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.005096s)
+[2019.01.16-02.42.07:763][771]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-02.42.07:785][771]LogInit: FAudioDevice initialized.
+[2019.01.16-02.42.07:821][771]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.42.07:823][771]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.42.07
+[2019.01.16-02.42.07:823][771]LogWorld: Bringing up level for play took: 0.000889
+[2019.01.16-02.42.07:849][771]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.42.07:849][771]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 1.871
+[2019.01.16-02.42.07:849][771]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.42.24:527][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.42.25:669][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.42.28:300][737]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.16-02.42.28:302][737]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.16-02.42.28:355][737]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.42.28:359][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003567s)
+[2019.01.16-02.42.28:359][737]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.42.28:359][737]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2019.01.16-02.42.28:360][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004317s)
+[2019.01.16-02.42.28:360][737]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.42.28:361][737]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.42.28
+[2019.01.16-02.42.28:361][737]LogWorld: Bringing up level for play took: 0.000890
+[2019.01.16-02.42.28:362][737]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.16-02.42.28:372][737]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.42.28:372][737]LogLoad: Took 0.070370 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.16-02.42.30:119][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.42.30:885][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.42.32:281][921]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.16-02.42.32:282][921]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.16-02.42.32:330][921]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.42.32:333][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003073s)
+[2019.01.16-02.42.32:334][921]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.42.32:334][921]LogPlayLevel: PIE: World Init took: (0.000547s)
+[2019.01.16-02.42.32:334][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.003782s)
+[2019.01.16-02.42.32:334][921]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.42.32:335][921]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.42.32
+[2019.01.16-02.42.32:335][921]LogWorld: Bringing up level for play took: 0.000772
+[2019.01.16-02.42.32:336][921]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.16-02.42.32:345][921]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.42.32:345][921]LogLoad: Took 0.063290 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.16-02.42.33:949][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.42.35:415][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.43.32:541][838]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.16-02.43.32:542][838]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.16-02.43.32:608][838]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.43.32:612][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004258s)
+[2019.01.16-02.43.32:613][838]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.43.32:613][838]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2019.01.16-02.43.32:613][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.005235s)
+[2019.01.16-02.43.32:613][838]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.43.32:615][838]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.43.32
+[2019.01.16-02.43.32:615][838]LogWorld: Bringing up level for play took: 0.001276
+[2019.01.16-02.43.32:616][838]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.16-02.43.32:626][838]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.43.32:626][838]LogLoad: Took 0.083658 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.16-02.43.34:466][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.43.36:596][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.43.58:988][105]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.43.58:989][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.43.59:032][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.16-02.43.59:032][105]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.43.59:082][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.43.59:123][106]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2019.01.16-02.44.18:512][959]BlueprintLog: New page: Compile StackSpawner
+[2019.01.16-02.44.18:939][959]LogBlueprint: Error: [Compiler StackSpawner] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2019.01.16-02.44.19:489][959]LogBlueprint: Warning: [Compiler StackSpawner] [2999.27] Compile of StackSpawner failed. 1 Fatal Issue(s) 0 Warning(s) [in 977 ms] (/Game/Blueprints/StackSpawner.StackSpawner)
+[2019.01.16-02.44.28:890][364]BlueprintLog: New page: Compile StackSpawner
+[2019.01.16-02.47.08:318][193]BlueprintLog: New page: Compile StackSpawner
+[2019.01.16-02.47.08:913][193]LogBlueprint: Error: [Compiler StackSpawner] This blueprint (self) is not a Tile_C, therefore ' Target ' must have a connection.
+[2019.01.16-02.47.08:917][193]LogBlueprint: Error: [Compiler StackSpawner] Variable node  Get StaticMesh  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.01.16-02.47.09:749][193]LogBlueprint: Warning: [Compiler StackSpawner] [3169.53] Compile of StackSpawner failed. 2 Fatal Issue(s) 0 Warning(s) [in 1,430 ms] (/Game/Blueprints/StackSpawner.StackSpawner)
+[2019.01.16-02.47.50:952][ 41]BlueprintLog: New page: Compile StackSpawner
+[2019.01.16-02.47.51:329][ 41]LogBlueprint: Error: [Compiler StackSpawner] The type of  Object  is undetermined.  Connect something to  Cast To Tile  to imply a specific type.
+[2019.01.16-02.47.51:331][ 41]LogBlueprint: Error: [Compiler StackSpawner] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2019.01.16-02.47.51:799][ 41]LogBlueprint: Warning: [Compiler StackSpawner] [3211.58] Compile of StackSpawner failed. 2 Fatal Issue(s) 0 Warning(s) [in 847 ms] (/Game/Blueprints/StackSpawner.StackSpawner)
+[2019.01.16-02.48.36:920][151]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/StackMap_Auto91D9C0A234B8C5953FEA69590DD8E378A.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Autosaves/Game/Maps/StackMap_Auto9.umap'
+[2019.01.16-02.48.36:925][151]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StackMap' took 0.311
+[2019.01.16-02.48.36:925][151]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.311
+[2019.01.16-02.48.36:929][151]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/StackSpawner] ([1] browsable assets)...
+[2019.01.16-02.48.36:946][151]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/StackSpawner.StackSpawner]
+[2019.01.16-02.48.36:946][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/StackSpawner]
+[2019.01.16-02.48.37:422][151]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/StackSpawner_Auto94C0EC2264F4C424D7512F4A852E9B3A9.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Autosaves/Game/Blueprints/StackSpawner_Auto9.uasset'
+[2019.01.16-02.48.37:424][151]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Button] ([1] browsable assets)...
+[2019.01.16-02.48.37:424][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Button]
+[2019.01.16-02.48.37:492][151]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Button_Auto90C4EF6FF4FFE2D025975A0AAC567D8E8.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Autosaves/Game/Blueprints/Button_Auto9.uasset'
+[2019.01.16-02.48.37:493][151]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/OptionsMenu] ([1] browsable assets)...
+[2019.01.16-02.48.37:493][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/OptionsMenu]
+[2019.01.16-02.48.37:734][151]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/OptionsMenu_Auto9E492B0824B3030EB236B08ADC8C76E2D.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Autosaves/Game/Blueprints/OptionsMenu_Auto9.uasset'
+[2019.01.16-02.48.37:736][151]LogFileHelpers: Auto-saving content packages took 0.809
+[2019.01.16-02.50.05:999][110]LogEditorTransaction: Undo Move Node
+[2019.01.16-02.50.07:302][129]LogEditorTransaction: Undo Create Pin Link
+[2019.01.16-02.50.08:288][146]LogEditorTransaction: Undo Delete current selection
+[2019.01.16-02.50.09:920][196]LogEditorTransaction: Undo Create Pin Link
+[2019.01.16-02.50.10:996][219]LogEditorTransaction: Undo Create Pin Link
+[2019.01.16-02.53.27:240][173]BlueprintLog: New page: Compile StackSpawner
+[2019.01.16-02.59.00:364][617]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-02.59.00:898][617]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.59.00:898][617]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.16-02.59.01:185][617]LogPlayLevel: [PlayLevel] Compiling StackSpawner before play...
+[2019.01.16-02.59.02:145][617]LogPlayLevel: PlayLevel: Blueprint regeneration took 1246 ms (1 blueprints)
+[2019.01.16-02.59.02:145][617]PIE: New page: PIE session: StackMap (Jan 15, 2019, 4:59:02 PM)
+[2019.01.16-02.59.02:146][617]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.59.02:151][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005575s)
+[2019.01.16-02.59.02:153][617]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.59.02:154][617]LogPlayLevel: PIE: World Init took: (0.002144s)
+[2019.01.16-02.59.02:154][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.008134s)
+[2019.01.16-02.59.02:224][617]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-02.59.02:252][617]LogInit: FAudioDevice initialized.
+[2019.01.16-02.59.02:290][617]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.59.02:293][617]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.59.02
+[2019.01.16-02.59.02:293][617]LogWorld: Bringing up level for play took: 0.001935
+[2019.01.16-02.59.02:323][617]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.59.02:324][617]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 2.346
+[2019.01.16-02.59.02:324][617]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.59.05:233][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.59.06:124][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.59.12:391][ 50]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.16-02.59.12:392][ 50]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.16-02.59.12:449][ 50]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.59.12:454][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004617s)
+[2019.01.16-02.59.12:455][ 50]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.59.12:455][ 50]LogPlayLevel: PIE: World Init took: (0.001275s)
+[2019.01.16-02.59.12:455][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.006119s)
+[2019.01.16-02.59.12:455][ 50]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.59.12:457][ 50]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.59.12
+[2019.01.16-02.59.12:457][ 50]LogWorld: Bringing up level for play took: 0.001140
+[2019.01.16-02.59.12:458][ 50]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.16-02.59.12:470][ 50]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.59.12:470][ 50]LogLoad: Took 0.077748 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.16-02.59.13:467][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-02.59.14:701][148]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.59.14:701][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.59.14:746][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.16-02.59.14:746][148]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.59.14:802][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-02.59.14:843][149]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2019.01.16-02.59.25:443][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.59.38:754][215]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-02.59.39:065][215]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.59.39:065][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.16-02.59.39:066][215]PIE: New page: PIE session: StackMap (Jan 15, 2019, 4:59:39 PM)
+[2019.01.16-02.59.39:066][215]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-02.59.39:070][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004357s)
+[2019.01.16-02.59.39:071][215]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-02.59.39:071][215]LogPlayLevel: PIE: World Init took: (0.000978s)
+[2019.01.16-02.59.39:071][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.005542s)
+[2019.01.16-02.59.39:127][215]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-02.59.39:146][215]LogInit: FAudioDevice initialized.
+[2019.01.16-02.59.39:180][215]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-02.59.39:181][215]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-21.59.39
+[2019.01.16-02.59.39:182][215]LogWorld: Bringing up level for play took: 0.000838
+[2019.01.16-02.59.39:205][215]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-02.59.39:205][215]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 1.227
+[2019.01.16-02.59.39:205][215]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-02.59.41:088][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-02.59.41:890][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-03.00.00:018][220]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-03.00.00:020][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-03.00.00:292][220]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.16-03.00.00:292][220]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-03.00.00:342][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-03.00.00:549][221]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2019.01.16-03.00.16:330][ 39]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.16-03.00.16:330][ 39]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.16-03.00.57:056][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-03.01.08:515][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-03.01.11:359][843]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.16-03.01.22:844][298]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.16-03.01.22:845][298]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.16-03.02.03:887][ 71]BlueprintLog: New page: Compile StackSpawner
+[2019.01.16-03.02.04:364][ 71]LogBlueprint: Error: [Compiler StackSpawner] This blueprint (self) is not a Tile_C, therefore ' Target ' must have a connection.
+[2019.01.16-03.02.04:366][ 71]LogBlueprint: Error: [Compiler StackSpawner] Variable node  Get StaticMesh  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.01.16-03.02.05:077][ 71]LogBlueprint: Warning: [Compiler StackSpawner] [4064.85] Compile of StackSpawner failed. 2 Fatal Issue(s) 0 Warning(s) [in 1,188 ms] (/Game/Blueprints/StackSpawner.StackSpawner)
+[2019.01.16-03.02.33:130][364]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.16-03.02.33:130][364]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.16-03.02.43:756][871]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-03.02.44:214][871]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/StackMap_Auto07D597F98493279F6C46CAFAA81BF1150.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Autosaves/Game/Maps/StackMap_Auto0.umap'
+[2019.01.16-03.02.44:219][871]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StackMap' took 0.382
+[2019.01.16-03.02.44:219][871]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.382
+[2019.01.16-03.02.44:225][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/StackSpawner] ([1] browsable assets)...
+[2019.01.16-03.02.44:265][871]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/StackSpawner.StackSpawner]
+[2019.01.16-03.02.44:265][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/StackSpawner]
+[2019.01.16-03.02.44:938][871]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/StackSpawner_Auto0307CDC7249D1E754C9CB61A69B0F56DE.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Autosaves/Game/Blueprints/StackSpawner_Auto0.uasset'
+[2019.01.16-03.02.44:940][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Button] ([1] browsable assets)...
+[2019.01.16-03.02.44:940][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Button]
+[2019.01.16-03.02.45:027][871]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Button_Auto012118E2E45C1E0A7D264FABC5D23C717.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Autosaves/Game/Blueprints/Button_Auto0.uasset'
+[2019.01.16-03.02.45:030][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/OptionsMenu] ([1] browsable assets)...
+[2019.01.16-03.02.45:030][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/OptionsMenu]
+[2019.01.16-03.02.45:377][871]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/OptionsMenu_Auto05C3D09A043B92F4CE6E1B0A32F66F599.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Autosaves/Game/Blueprints/OptionsMenu_Auto0.uasset'
+[2019.01.16-03.02.45:379][871]LogFileHelpers: Auto-saving content packages took 1.157
+[2019.01.16-03.03.35:238][238]BlueprintLog: New page: Compile StackSpawner
+[2019.01.16-03.03.43:129][584]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.16-03.03.43:129][584]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.16-03.03.50:850][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/StackSpawner" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/StackSpawner.uasset" SILENT=true
+[2019.01.16-03.03.51:318][960]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/StackSpawner256EBF50438EC67E9D50E989C08B687D.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/StackSpawner.uasset'
+[2019.01.16-03.05.42:454][419]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Tile.Tile
+[2019.01.16-03.11.20:779][753]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.16-03.12.30:312][895]BlueprintLog: New page: Compile StackSpawner
+[2019.01.16-03.12.36:988][142]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-03.12.37:236][142]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-03.12.37:237][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.16-03.12.37:237][142]PIE: New page: PIE session: StackMap (Jan 15, 2019, 5:12:37 PM)
+[2019.01.16-03.12.37:237][142]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-03.12.37:241][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003987s)
+[2019.01.16-03.12.37:242][142]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-03.12.37:242][142]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2019.01.16-03.12.37:242][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.005072s)
+[2019.01.16-03.12.37:300][142]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-03.12.37:321][142]LogInit: FAudioDevice initialized.
+[2019.01.16-03.12.37:354][142]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-03.12.37:356][142]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-22.12.37
+[2019.01.16-03.12.37:356][142]LogWorld: Bringing up level for play took: 0.000844
+[2019.01.16-03.12.37:382][142]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-03.12.37:382][142]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap -0.596
+[2019.01.16-03.12.37:382][142]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-03.12.39:562][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-03.12.41:075][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-03.12.52:202][869]LogNet: Browse: /Game/Maps/StackMap
+[2019.01.16-03.12.52:203][869]LogLoad: LoadMap: /Game/Maps/StackMap
+[2019.01.16-03.12.52:252][869]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-03.12.52:255][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003181s)
+[2019.01.16-03.12.52:257][869]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-03.12.52:257][869]LogPlayLevel: PIE: World Init took: (0.001574s)
+[2019.01.16-03.12.52:257][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.004956s)
+[2019.01.16-03.12.52:257][869]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-03.12.52:258][869]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-22.12.52
+[2019.01.16-03.12.52:259][869]LogWorld: Bringing up level for play took: 0.001114
+[2019.01.16-03.12.52:260][869]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.16-03.12.52:270][869]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-03.12.52:270][869]LogLoad: Took 0.066948 seconds to LoadMap(/Game/Maps/UEDPIE_0_StackMap)
+[2019.01.16-03.12.55:116][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-03.12.56:994][ 87]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-03.12.56:995][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-03.12.57:037][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.16-03.12.57:037][ 87]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-03.12.57:077][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-03.12.57:109][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2019.01.16-03.12.57:969][124]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-03.12.58:925][162]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.16-03.12.59:210][162]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-03.12.59:211][162]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.16-03.12.59:211][162]PIE: New page: PIE session: StackMap (Jan 15, 2019, 5:12:59 PM)
+[2019.01.16-03.12.59:211][162]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StackMap
+[2019.01.16-03.12.59:214][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003082s)
+[2019.01.16-03.12.59:215][162]LogAIModule: Creating AISystem for world StackMap
+[2019.01.16-03.12.59:215][162]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2019.01.16-03.12.59:215][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StackMap.StackMap to /Game/Maps/UEDPIE_0_StackMap.StackMap (0.003790s)
+[2019.01.16-03.12.59:255][162]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.16-03.12.59:270][162]LogInit: FAudioDevice initialized.
+[2019.01.16-03.12.59:270][162]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-03.12.59:303][162]LogLoad: Game class is 'GameModeBase'
+[2019.01.16-03.12.59:304][162]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StackMap.StackMap up for play (max tick rate 60) at 2019.01.15-22.12.59
+[2019.01.16-03.12.59:304][162]LogWorld: Bringing up level for play took: 0.000741
+[2019.01.16-03.12.59:326][162]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.01.16-03.12.59:326][162]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StackMap 1.348
+[2019.01.16-03.12.59:326][162]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-03.13.01:755][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-03.13.02:714][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-03.13.07:693][537]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-03.13.07:693][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-03.13.08:032][537]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.16-03.13.08:033][537]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StackMap.StackMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap' with GeneratedClass '/Game/Maps/StackMap.StackMap_C' with ClassGeneratedBy '/Game/Maps/StackMap.StackMap:PersistentLevel.StackMap'
+[2019.01.16-03.13.08:083][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.16-03.13.08:515][538]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2019.01.16-03.14.05:460][414]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/StackMap_Auto1A911D63E40FC8A1D0F1674868C979279.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Autosaves/Game/Maps/StackMap_Auto1.umap'
+[2019.01.16-03.14.05:464][414]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StackMap' took 0.299
+[2019.01.16-03.14.05:465][414]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.299
+[2019.01.16-03.14.05:468][414]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/StackSpawner] ([1] browsable assets)...
+[2019.01.16-03.14.05:502][414]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/StackSpawner.StackSpawner]
+[2019.01.16-03.14.05:502][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/StackSpawner]
+[2019.01.16-03.14.05:982][414]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/StackSpawner_Auto1DBE4059249B65A97DD35F4ACF499BAE0.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Autosaves/Game/Blueprints/StackSpawner_Auto1.uasset'
+[2019.01.16-03.14.05:994][414]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Button] ([1] browsable assets)...
+[2019.01.16-03.14.05:995][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Button]
+[2019.01.16-03.14.06:059][414]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Button_Auto1F98534894D0D3D0EC469BE965B57E1D6.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Autosaves/Game/Blueprints/Button_Auto1.uasset'
+[2019.01.16-03.14.06:060][414]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/OptionsMenu] ([1] browsable assets)...
+[2019.01.16-03.14.06:060][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/OptionsMenu]
+[2019.01.16-03.14.06:281][414]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/OptionsMenu_Auto1783F3FF3482C06FDCE78ABAFE1C43C5F.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/Autosaves/Game/Blueprints/OptionsMenu_Auto1.uasset'
+[2019.01.16-03.14.06:282][414]LogFileHelpers: Auto-saving content packages took 0.814
+[2019.01.16-03.27.52:710][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StackMap" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.16-03.27.53:336][855]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/StackMapA8F903874B363317825B6D8D7237E62E.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap.umap'
+[2019.01.16-03.27.53:462][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StackMap_BuiltData" FILE="../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap_BuiltData.uasset" SILENT=true
+[2019.01.16-03.27.53:538][855]LogSavePackage: Moving '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Saved/StackMap_BuiltData09CF6ACA4DAF6E17425FD8B55C035032.tmp' to '../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap_BuiltData.uasset'
