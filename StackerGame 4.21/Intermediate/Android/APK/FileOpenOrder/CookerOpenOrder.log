@@ -666,182 +666,182 @@
 "../../../Engine/Content/EngineMeshes/Cylinder.uasset" 665
 "../../../Engine/Content/EngineMeshes/Humanoid.uasset" 666
 "../../../Engine/Content/EngineMeshes/MaterialSphere.uasset" 667
-"../../../Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset" 668
-"../../../Engine/Content/EngineMeshes/SkeletalCube.uasset" 669
-"../../../Engine/Content/EngineMeshes/T_Mat_UnrealTech_01_D.uasset" 670
-"../../../Engine/Content/EngineMeshes/M_Mat_UnrealTech.uasset" 671
-"../../../Engine/Content/EngineMeshes/SM_MatPreviewMesh_01.uasset" 672
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 673
-"../../../Engine/Content/EngineResources/AICON-Green.uasset" 674
-"../../../Engine/Content/EngineResources/AICON-Green_Low.uasset" 675
-"../../../Engine/Content/EngineResources/AICON-Red.uasset" 676
-"../../../Engine/Content/EngineResources/AICON-Red_Low.uasset" 677
-"../../../Engine/Content/EngineResources/Bad.uasset" 678
-"../../../Engine/Content/EngineResources/Black_Low.uasset" 679
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 680
-"../../../Engine/Content/EngineResources/DefaultTextureCube_Low.uasset" 681
-"../../../Engine/Content/EngineResources/DefaultTexture_Low.uasset" 682
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 683
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 684
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 685
-"../../../Engine/Content/EngineResources/GradientTexture0_Low.uasset" 686
-"../../../Engine/Content/EngineResources/Gray.uasset" 687
-"../../../Engine/Content/EngineResources/StreamingPauseIcon.uasset" 688
-"../../../Engine/Content/EngineResources/M_StreamingPause.uasset" 689
-"../../../Engine/Content/EngineResources/WireframeTexture.uasset" 690
-"../../../Engine/Content/EngineResources/Cursors/Arrow.uasset" 691
-"../../../Engine/Content/EngineResources/Cursors/SplitterHorz.uasset" 692
-"../../../Engine/Content/EngineResources/Cursors/SplitterVert.uasset" 693
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 694
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 695
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 696
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 697
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 698
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 699
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 700
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 701
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 702
-"../../../Engine/Content/EngineSky/BP_Sky_Shere.uasset" 703
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2_Inst.uasset" 704
-"../../../Engine/Content/EngineSounds/Master.uasset" 705
-"../../../Engine/Content/EngineSounds/Music.uasset" 706
-"../../../Engine/Content/EngineSounds/Voice.uasset" 707
-"../../../Engine/Content/EngineSounds/WhiteNoise.uasset" 708
-"../../../Engine/Content/EngineSounds/ReverbSettings/Alley.uasset" 709
-"../../../Engine/Content/EngineSounds/ReverbSettings/Auditorium.uasset" 710
-"../../../Engine/Content/EngineSounds/ReverbSettings/Bathroom.uasset" 711
-"../../../Engine/Content/EngineSounds/ReverbSettings/BunkerHall.uasset" 712
-"../../../Engine/Content/EngineSounds/ReverbSettings/Cave.uasset" 713
-"../../../Engine/Content/EngineSounds/ReverbSettings/CaveHall.uasset" 714
-"../../../Engine/Content/EngineSounds/ReverbSettings/City.uasset" 715
-"../../../Engine/Content/EngineSounds/ReverbSettings/ConcertHall.uasset" 716
-"../../../Engine/Content/EngineSounds/ReverbSettings/Default.uasset" 717
-"../../../Engine/Content/EngineSounds/ReverbSettings/Forest.uasset" 718
-"../../../Engine/Content/EngineSounds/ReverbSettings/Hallway.uasset" 719
-"../../../Engine/Content/EngineSounds/ReverbSettings/LargeHall.uasset" 720
-"../../../Engine/Content/EngineSounds/ReverbSettings/LargeRoom.uasset" 721
-"../../../Engine/Content/EngineSounds/ReverbSettings/MediumHall.uasset" 722
-"../../../Engine/Content/EngineSounds/ReverbSettings/MediumRoom.uasset" 723
-"../../../Engine/Content/EngineSounds/ReverbSettings/Mine.uasset" 724
-"../../../Engine/Content/EngineSounds/ReverbSettings/Mountains.uasset" 725
-"../../../Engine/Content/EngineSounds/ReverbSettings/ParkingLot.uasset" 726
-"../../../Engine/Content/EngineSounds/ReverbSettings/Plain.uasset" 727
-"../../../Engine/Content/EngineSounds/ReverbSettings/Plate.uasset" 728
-"../../../Engine/Content/EngineSounds/ReverbSettings/Quarry.uasset" 729
-"../../../Engine/Content/EngineSounds/ReverbSettings/SewerPipe.uasset" 730
-"../../../Engine/Content/EngineSounds/ReverbSettings/SmallRoom.uasset" 731
-"../../../Engine/Content/EngineSounds/ReverbSettings/StoneCorridor.uasset" 732
-"../../../Engine/Content/EngineSounds/ReverbSettings/StoneRoom.uasset" 733
-"../../../Engine/Content/EngineSounds/ReverbSettings/Underwater.uasset" 734
-"../../../Engine/Content/EngineVolumetrics/FalloffSphere/Materials/M_EV_FalloffSphere_Master_01.uasset" 735
-"../../../Engine/Content/EngineVolumetrics/FalloffSphere/Mesh/S_EV_FalloffSphere_Mesh_01.uasset" 736
-"../../../Engine/Content/EngineVolumetrics/FogEnvironment/Materials/M_EV_FogEnvironment_Master_01.uasset" 737
-"../../../Engine/Content/EngineVolumetrics/FogEnvironment/Mesh/S_EV_FogEnvironment_01_Mesh.uasset" 738
-"../../../Engine/Content/EngineVolumetrics/FogEnvironment/Mesh/S_EV_FogVolume_Cube_01.uasset" 739
-"../../../Engine/Content/EngineVolumetrics/FogEnvironment/Mesh/S_EV_FogVolume_Cylinder_01.uasset" 740
-"../../../Engine/Content/EngineVolumetrics/FogEnvironment/Mesh/S_EV_FogVolume_Sphere_01.uasset" 741
-"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_FogSheet_CloudTex_02.uasset" 742
-"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_FogSheet_Falloff_01.uasset" 743
-"../../../Engine/Content/EngineVolumetrics/Fogsheet/T_EV_Fogsheet_FlareColors_01.uasset" 744
-"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_1sided_Master_01.uasset" 745
-"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_1sided_Master_01_N.uasset" 746
-"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_1sided_Master_Addi.uasset" 747
-"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_1sided_Master_Ad_2.uasset" 748
-"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_2sided_Master_Addi.uasset" 749
-"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_FogSheet_CloudTex_01.uasset" 750
-"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_FogSheet_Falloff_02.uasset" 751
-"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_FogSheet_Falloff_03.uasset" 752
-"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_Master_01.uasset" 753
-"../../../Engine/Content/EngineVolumetrics/Fogsheet/Mesh/MI_Fogsheet_HideClose.uasset" 754
-"../../../Engine/Content/EngineVolumetrics/Fogsheet/Mesh/S_EV_FogSheet_01.uasset" 755
-"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/T_EV_DustPanner_01.uasset" 756
-"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/T_EV_LightBeam_Falloff_01.uasset" 757
-"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/T_EV_LightBeam_Falloff_02.uasset" 758
-"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/M_EV_Lightbeam_Master_01.uasset" 759
-"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/M_EV_Lightbeam_Master_01_Inst.uasset" 760
-"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/M_EV_Lightbeam_Master_1sided_01.uasset" 761
-"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/T_EV_LightBeam_Falloff_01_Graysc.uasset" 762
-"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/T_EV_LightBeam_Falloff_01_Skyflo.uasset" 763
-"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/T_EV_LightBeam_Falloff_03.uasset" 764
-"../../../Engine/Content/EngineVolumetrics/LightBeam/Mesh/S_EV_SimpleLightBeam_01.uasset" 765
-"../../../Engine/Content/EngineVolumetrics/LightBeam/Mesh/S_EV_SimpleLightBeam_02.uasset" 766
-"../../../Engine/Content/EngineVolumetrics/LightBeam/Mesh/S_EV_SimpleLightBeam_03.uasset" 767
-"../../../Engine/Content/EngineVolumetrics/LightBeam/Mesh/S_EV_SimpleLightBeam_03_cross.uasset" 768
-"../../../Engine/Content/Engine_MI_Shaders/M_Shader_Complex.uasset" 769
-"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_DetailNormal.uasset" 770
-"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_Diffuse.uasset" 771
-"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_Normal.uasset" 772
-"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_Specular.uasset" 773
-"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_Variation.uasset" 774
-"../../../Engine/Content/Engine_MI_Shaders/MI_Shader_BaseTileEx.uasset" 775
-"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_Emmisive.uasset" 776
-"../../../Engine/Content/Engine_MI_Shaders/T_Cubemap_01.uasset" 777
-"../../../Engine/Content/Engine_MI_Shaders/T_Specular.uasset" 778
-"../../../Engine/Content/Engine_MI_Shaders/M_ES_Phong_Masked_Master_1sided.uasset" 779
-"../../../Engine/Content/Engine_MI_Shaders/M_ES_Phong_Masked_Master_2sided.uasset" 780
-"../../../Engine/Content/Engine_MI_Shaders/M_ES_Phong_Opaque_Liquid_Master_.uasset" 781
-"../../../Engine/Content/Engine_MI_Shaders/M_ES_Phong_Translucent_Liquid_Ma.uasset" 782
-"../../../Engine/Content/Engine_MI_Shaders/M_ES_Phong_Translucent_Liquid__2.uasset" 783
-"../../../Engine/Content/Engine_MI_Shaders/M_ES_Phong_Translucent_Master_01.uasset" 784
-"../../../Engine/Content/Engine_MI_Shaders/M_ES_Unlit_Translucent_Liquid_Ma.uasset" 785
-"../../../Engine/Content/Engine_MI_Shaders/M_Shader_Medium.uasset" 786
-"../../../Engine/Content/Engine_MI_Shaders/M_Shader_PlanarMap.uasset" 787
-"../../../Engine/Content/Engine_MI_Shaders/M_Shader_Simple.uasset" 788
-"../../../Engine/Content/Engine_MI_Shaders/M_Shader_SimpleMasked.uasset" 789
-"../../../Engine/Content/Engine_MI_Shaders/M_Shader_SimpleMaskedTwoSided.uasset" 790
-"../../../Engine/Content/Engine_MI_Shaders/M_Shader_Simple_CustomUV.uasset" 791
-"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_Reflection.uasset" 792
-"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_ReflectionMask.uasset" 793
-"../../../Engine/Content/Engine_MI_Shaders/T_Cubemap_01_tex.uasset" 794
-"../../../Engine/Content/Engine_MI_Shaders/T_Cubemap_02_tex.uasset" 795
-"../../../Engine/Content/Engine_MI_Shaders/M_ES_Phong_Opaque_Master_01.uasset" 796
-"../../../Engine/Content/Engine_MI_Shaders/Instances/M_ES_Phong_Opaque_INST_01.uasset" 797
-"../../../Engine/Content/Engine_MI_Shaders/M_Shader_SimpleTranslucent.uasset" 798
-"../../../Engine/Content/Engine_MI_Shaders/Instances/M_Shader_SimpleTranslucent_Invis.uasset" 799
-"../../../Engine/Content/Engine_MI_Shaders/Textures/Bokeh.uasset" 800
-"../../../Engine/Content/EditorMaterials/TargetIcon.uasset" 801
-"../../../Engine/Content/FunctionalTesting/Blueprints/AITesting_MoveGoal.uasset" 802
-"../../../Engine/Content/Functions/DistanceFields/Combiners/DistanceField_Intersection.uasset" 803
-"../../../Engine/Content/Functions/DistanceFields/Combiners/DistanceField_Subtract.uasset" 804
-"../../../Engine/Content/Functions/DistanceFields/Combiners/DistanceField_Union.uasset" 805
-"../../../Engine/Content/Functions/DistanceFields/Shapes/DistanceField_Capsule.uasset" 806
-"../../../Engine/Content/Functions/DistanceFields/Shapes/DistanceField_Cylinder.uasset" 807
-"../../../Engine/Content/Functions/DistanceFields/Shapes/DistanceField_Sphere.uasset" 808
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/WorldAlignedBlend.uasset" 809
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/World_Aligned_Blend.uasset" 810
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/1Dto3DIndex.uasset" 811
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/2Dto1DIndex.uasset" 812
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/3Dto1DIndex.uasset" 813
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Swizzle.uasset" 814
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/DrawLine-2D.uasset" 815
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/DrawLine-3D.uasset" 816
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/LongLatToUV.uasset" 817
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/UVRemap_0-1_ToRange.uasset" 818
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/UVToLongLat.uasset" 819
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/VirtualPlaneCoordinates.uasset" 820
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/WorldPosition-XY.uasset" 821
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Cubemaps/InteriorCubemap.uasset" 822
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 823
-"../../../Engine/Content/EngineDebugMaterials/T_1x1_Grid.uasset" 824
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Debug/DebugBinaryValues-Float.uasset" 825
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Debug/DebugBinaryValues-Int.uasset" 826
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Debug/FunctionGraphSetup.uasset" 827
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Debug/PlotFunctionOnGraph.uasset" 828
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Debug/PlotFunctionOnGraph_Derivative.uasset" 829
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Debug/PlotFunctionOnGraph_Setup_Input.uasset" 830
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Debug/T_Grid.uasset" 831
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/1Dto2DIndex.uasset" 832
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Math/BoxIntersection.uasset" 833
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Volumetrics/BeersLaw.uasset" 834
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/SphereRenderHeightMap.uasset" 835
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/RayMarchHeightMap.uasset" 836
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/BellCurve.uasset" 837
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/BoxMask-2D.uasset" 838
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/BoxMask-3D.uasset" 839
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 840
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/DiamondGradient.uasset" 841
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 842
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 843
+"../../../Engine/Content/EngineMaterials/EmissiveTexturedMaterial.uasset" 668
+"../../../Engine/Content/EngineMeshes/ParticleCube.uasset" 669
+"../../../Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset" 670
+"../../../Engine/Content/EngineMeshes/SkeletalCube.uasset" 671
+"../../../Engine/Content/EngineMeshes/T_Mat_UnrealTech_01_D.uasset" 672
+"../../../Engine/Content/EngineMeshes/M_Mat_UnrealTech.uasset" 673
+"../../../Engine/Content/EngineMeshes/SM_MatPreviewMesh_01.uasset" 674
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 675
+"../../../Engine/Content/EngineResources/AICON-Green.uasset" 676
+"../../../Engine/Content/EngineResources/AICON-Green_Low.uasset" 677
+"../../../Engine/Content/EngineResources/AICON-Red.uasset" 678
+"../../../Engine/Content/EngineResources/AICON-Red_Low.uasset" 679
+"../../../Engine/Content/EngineResources/Bad.uasset" 680
+"../../../Engine/Content/EngineResources/Black_Low.uasset" 681
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 682
+"../../../Engine/Content/EngineResources/DefaultTextureCube_Low.uasset" 683
+"../../../Engine/Content/EngineResources/DefaultTexture_Low.uasset" 684
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 685
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 686
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 687
+"../../../Engine/Content/EngineResources/GradientTexture0_Low.uasset" 688
+"../../../Engine/Content/EngineResources/Gray.uasset" 689
+"../../../Engine/Content/EngineResources/StreamingPauseIcon.uasset" 690
+"../../../Engine/Content/EngineResources/M_StreamingPause.uasset" 691
+"../../../Engine/Content/EngineResources/WireframeTexture.uasset" 692
+"../../../Engine/Content/EngineResources/Cursors/Arrow.uasset" 693
+"../../../Engine/Content/EngineResources/Cursors/SplitterHorz.uasset" 694
+"../../../Engine/Content/EngineResources/Cursors/SplitterVert.uasset" 695
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 696
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 697
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 698
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 699
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 700
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 701
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 702
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 703
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 704
+"../../../Engine/Content/EngineSky/BP_Sky_Shere.uasset" 705
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2_Inst.uasset" 706
+"../../../Engine/Content/EngineSounds/Master.uasset" 707
+"../../../Engine/Content/EngineSounds/Music.uasset" 708
+"../../../Engine/Content/EngineSounds/Voice.uasset" 709
+"../../../Engine/Content/EngineSounds/WhiteNoise.uasset" 710
+"../../../Engine/Content/EngineSounds/ReverbSettings/Alley.uasset" 711
+"../../../Engine/Content/EngineSounds/ReverbSettings/Auditorium.uasset" 712
+"../../../Engine/Content/EngineSounds/ReverbSettings/Bathroom.uasset" 713
+"../../../Engine/Content/EngineSounds/ReverbSettings/BunkerHall.uasset" 714
+"../../../Engine/Content/EngineSounds/ReverbSettings/Cave.uasset" 715
+"../../../Engine/Content/EngineSounds/ReverbSettings/CaveHall.uasset" 716
+"../../../Engine/Content/EngineSounds/ReverbSettings/City.uasset" 717
+"../../../Engine/Content/EngineSounds/ReverbSettings/ConcertHall.uasset" 718
+"../../../Engine/Content/EngineSounds/ReverbSettings/Default.uasset" 719
+"../../../Engine/Content/EngineSounds/ReverbSettings/Forest.uasset" 720
+"../../../Engine/Content/EngineSounds/ReverbSettings/Hallway.uasset" 721
+"../../../Engine/Content/EngineSounds/ReverbSettings/LargeHall.uasset" 722
+"../../../Engine/Content/EngineSounds/ReverbSettings/LargeRoom.uasset" 723
+"../../../Engine/Content/EngineSounds/ReverbSettings/MediumHall.uasset" 724
+"../../../Engine/Content/EngineSounds/ReverbSettings/MediumRoom.uasset" 725
+"../../../Engine/Content/EngineSounds/ReverbSettings/Mine.uasset" 726
+"../../../Engine/Content/EngineSounds/ReverbSettings/Mountains.uasset" 727
+"../../../Engine/Content/EngineSounds/ReverbSettings/ParkingLot.uasset" 728
+"../../../Engine/Content/EngineSounds/ReverbSettings/Plain.uasset" 729
+"../../../Engine/Content/EngineSounds/ReverbSettings/Plate.uasset" 730
+"../../../Engine/Content/EngineSounds/ReverbSettings/Quarry.uasset" 731
+"../../../Engine/Content/EngineSounds/ReverbSettings/SewerPipe.uasset" 732
+"../../../Engine/Content/EngineSounds/ReverbSettings/SmallRoom.uasset" 733
+"../../../Engine/Content/EngineSounds/ReverbSettings/StoneCorridor.uasset" 734
+"../../../Engine/Content/EngineSounds/ReverbSettings/StoneRoom.uasset" 735
+"../../../Engine/Content/EngineSounds/ReverbSettings/Underwater.uasset" 736
+"../../../Engine/Content/EngineVolumetrics/FalloffSphere/Materials/M_EV_FalloffSphere_Master_01.uasset" 737
+"../../../Engine/Content/EngineVolumetrics/FalloffSphere/Mesh/S_EV_FalloffSphere_Mesh_01.uasset" 738
+"../../../Engine/Content/EngineVolumetrics/FogEnvironment/Materials/M_EV_FogEnvironment_Master_01.uasset" 739
+"../../../Engine/Content/EngineVolumetrics/FogEnvironment/Mesh/S_EV_FogEnvironment_01_Mesh.uasset" 740
+"../../../Engine/Content/EngineVolumetrics/FogEnvironment/Mesh/S_EV_FogVolume_Cube_01.uasset" 741
+"../../../Engine/Content/EngineVolumetrics/FogEnvironment/Mesh/S_EV_FogVolume_Cylinder_01.uasset" 742
+"../../../Engine/Content/EngineVolumetrics/FogEnvironment/Mesh/S_EV_FogVolume_Sphere_01.uasset" 743
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_FogSheet_CloudTex_02.uasset" 744
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_FogSheet_Falloff_01.uasset" 745
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/T_EV_Fogsheet_FlareColors_01.uasset" 746
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_1sided_Master_01.uasset" 747
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_1sided_Master_01_N.uasset" 748
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_1sided_Master_Addi.uasset" 749
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_1sided_Master_Ad_2.uasset" 750
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_2sided_Master_Addi.uasset" 751
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_FogSheet_CloudTex_01.uasset" 752
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_FogSheet_Falloff_02.uasset" 753
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_FogSheet_Falloff_03.uasset" 754
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/M_EV_FogSheet_Master_01.uasset" 755
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Mesh/MI_Fogsheet_HideClose.uasset" 756
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Mesh/S_EV_FogSheet_01.uasset" 757
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/T_EV_DustPanner_01.uasset" 758
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/T_EV_LightBeam_Falloff_01.uasset" 759
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/T_EV_LightBeam_Falloff_02.uasset" 760
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/M_EV_Lightbeam_Master_01.uasset" 761
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/M_EV_Lightbeam_Master_01_Inst.uasset" 762
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/M_EV_Lightbeam_Master_1sided_01.uasset" 763
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/T_EV_LightBeam_Falloff_01_Graysc.uasset" 764
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/T_EV_LightBeam_Falloff_01_Skyflo.uasset" 765
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/T_EV_LightBeam_Falloff_03.uasset" 766
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Mesh/S_EV_SimpleLightBeam_01.uasset" 767
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Mesh/S_EV_SimpleLightBeam_02.uasset" 768
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Mesh/S_EV_SimpleLightBeam_03.uasset" 769
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Mesh/S_EV_SimpleLightBeam_03_cross.uasset" 770
+"../../../Engine/Content/Engine_MI_Shaders/M_Shader_Complex.uasset" 771
+"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_DetailNormal.uasset" 772
+"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_Diffuse.uasset" 773
+"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_Normal.uasset" 774
+"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_Specular.uasset" 775
+"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_Variation.uasset" 776
+"../../../Engine/Content/Engine_MI_Shaders/MI_Shader_BaseTileEx.uasset" 777
+"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_Emmisive.uasset" 778
+"../../../Engine/Content/Engine_MI_Shaders/T_Cubemap_01.uasset" 779
+"../../../Engine/Content/Engine_MI_Shaders/T_Specular.uasset" 780
+"../../../Engine/Content/Engine_MI_Shaders/M_ES_Phong_Masked_Master_1sided.uasset" 781
+"../../../Engine/Content/Engine_MI_Shaders/M_ES_Phong_Masked_Master_2sided.uasset" 782
+"../../../Engine/Content/Engine_MI_Shaders/M_ES_Phong_Opaque_Liquid_Master_.uasset" 783
+"../../../Engine/Content/Engine_MI_Shaders/M_ES_Phong_Translucent_Liquid_Ma.uasset" 784
+"../../../Engine/Content/Engine_MI_Shaders/M_ES_Phong_Translucent_Liquid__2.uasset" 785
+"../../../Engine/Content/Engine_MI_Shaders/M_ES_Phong_Translucent_Master_01.uasset" 786
+"../../../Engine/Content/Engine_MI_Shaders/M_ES_Unlit_Translucent_Liquid_Ma.uasset" 787
+"../../../Engine/Content/Engine_MI_Shaders/M_Shader_Medium.uasset" 788
+"../../../Engine/Content/Engine_MI_Shaders/M_Shader_PlanarMap.uasset" 789
+"../../../Engine/Content/Engine_MI_Shaders/M_Shader_Simple.uasset" 790
+"../../../Engine/Content/Engine_MI_Shaders/M_Shader_SimpleMasked.uasset" 791
+"../../../Engine/Content/Engine_MI_Shaders/M_Shader_SimpleMaskedTwoSided.uasset" 792
+"../../../Engine/Content/Engine_MI_Shaders/M_Shader_Simple_CustomUV.uasset" 793
+"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_Reflection.uasset" 794
+"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_ReflectionMask.uasset" 795
+"../../../Engine/Content/Engine_MI_Shaders/T_Cubemap_01_tex.uasset" 796
+"../../../Engine/Content/Engine_MI_Shaders/T_Cubemap_02_tex.uasset" 797
+"../../../Engine/Content/Engine_MI_Shaders/M_ES_Phong_Opaque_Master_01.uasset" 798
+"../../../Engine/Content/Engine_MI_Shaders/Instances/M_ES_Phong_Opaque_INST_01.uasset" 799
+"../../../Engine/Content/Engine_MI_Shaders/M_Shader_SimpleTranslucent.uasset" 800
+"../../../Engine/Content/Engine_MI_Shaders/Instances/M_Shader_SimpleTranslucent_Invis.uasset" 801
+"../../../Engine/Content/Engine_MI_Shaders/Textures/Bokeh.uasset" 802
+"../../../Engine/Content/EditorMaterials/TargetIcon.uasset" 803
+"../../../Engine/Content/FunctionalTesting/Blueprints/AITesting_MoveGoal.uasset" 804
+"../../../Engine/Content/Functions/DistanceFields/Combiners/DistanceField_Intersection.uasset" 805
+"../../../Engine/Content/Functions/DistanceFields/Combiners/DistanceField_Subtract.uasset" 806
+"../../../Engine/Content/Functions/DistanceFields/Combiners/DistanceField_Union.uasset" 807
+"../../../Engine/Content/Functions/DistanceFields/Shapes/DistanceField_Capsule.uasset" 808
+"../../../Engine/Content/Functions/DistanceFields/Shapes/DistanceField_Cylinder.uasset" 809
+"../../../Engine/Content/Functions/DistanceFields/Shapes/DistanceField_Sphere.uasset" 810
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/WorldAlignedBlend.uasset" 811
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/World_Aligned_Blend.uasset" 812
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/1Dto3DIndex.uasset" 813
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/2Dto1DIndex.uasset" 814
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/3Dto1DIndex.uasset" 815
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Swizzle.uasset" 816
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/DrawLine-2D.uasset" 817
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/DrawLine-3D.uasset" 818
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/LongLatToUV.uasset" 819
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/UVRemap_0-1_ToRange.uasset" 820
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/UVToLongLat.uasset" 821
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/VirtualPlaneCoordinates.uasset" 822
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/WorldPosition-XY.uasset" 823
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Cubemaps/InteriorCubemap.uasset" 824
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 825
+"../../../Engine/Content/EngineDebugMaterials/T_1x1_Grid.uasset" 826
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Debug/DebugBinaryValues-Float.uasset" 827
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Debug/DebugBinaryValues-Int.uasset" 828
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Debug/FunctionGraphSetup.uasset" 829
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Debug/PlotFunctionOnGraph.uasset" 830
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Debug/PlotFunctionOnGraph_Derivative.uasset" 831
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Debug/PlotFunctionOnGraph_Setup_Input.uasset" 832
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Debug/T_Grid.uasset" 833
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/1Dto2DIndex.uasset" 834
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Math/BoxIntersection.uasset" 835
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Volumetrics/BeersLaw.uasset" 836
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/SphereRenderHeightMap.uasset" 837
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/RayMarchHeightMap.uasset" 838
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/BellCurve.uasset" 839
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/BoxMask-2D.uasset" 840
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/BoxMask-3D.uasset" 841
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 842
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/DiamondGradient.uasset" 843
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/SphereGradient-2D.uasset" 844
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/SphereGradient-3D.uasset" 845
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/3ColorBlend.uasset" 846
@@ -1437,167 +1437,167 @@
 "../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 1436
 "../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 1437
 "../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 1438
-"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 1439
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 1440
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 1441
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 1442
-"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 1443
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 1444
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 1445
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 1446
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 1447
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 1448
-"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 1449
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 1450
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 1451
-"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 1452
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset" 1453
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset" 1454
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 1455
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 1456
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 1457
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 1458
-"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 1459
-"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 1460
-"../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset" 1461
-"../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset" 1462
-"../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset" 1463
-"../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset" 1464
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 1465
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset" 1466
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset" 1467
-"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset" 1468
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset" 1469
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 1470
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 1471
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 1472
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset" 1473
-"../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset" 1474
-"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset" 1475
-"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 1476
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset" 1477
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 1478
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 1479
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 1480
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 1481
-"../../../Engine/Content/VREditor/UI/DockButton.uasset" 1482
-"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 1483
-"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 1484
-"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 1485
-"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 1486
-"../../../Engine/Content/VREditor/UI/DiscMaterial.uasset" 1487
-"../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset" 1488
-"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 1489
-"../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset" 1490
-"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 1491
-"../../../Engine/Content/VREditor/VREditorAssetContainerData.uasset" 1492
-"../../../Engine/Content/VREditor/Devices/M_EngineLogo.uasset" 1493
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial_Inst.uasset" 1494
-"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerDiffuse.uasset" 1495
-"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerNormal.uasset" 1496
-"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerMat.uasset" 1497
-"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerMesh.uasset" 1498
-"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerDiffuse.uasset" 1499
-"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerMaterial.uasset" 1500
-"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerMesh.uasset" 1501
-"../../../Engine/Content/VREditor/Devices/Vive/M_ViveControllerTrim.uasset" 1502
-"../../../Engine/Content/VREditor/Devices/Vive/M_ViveControllerTrim_Inst.uasset" 1503
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_Trimlines.uasset" 1504
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial_Inst.uasset" 1505
-"../../../Engine/Content/VREditor/LaserPointer/M_LaserPointer-Core.uasset" 1506
-"../../../Engine/Content/VREditor/LaserPointer/M_LaserPointer-Outer.uasset" 1507
-"../../../Engine/Content/VREditor/Sounds/VR_click1.uasset" 1508
-"../../../Engine/Content/VREditor/Sounds/VR_click1_Cue.uasset" 1509
-"../../../Engine/Content/VREditor/Sounds/VR_click2.uasset" 1510
-"../../../Engine/Content/VREditor/Sounds/VR_click2_Cue.uasset" 1511
-"../../../Engine/Content/VREditor/Sounds/VR_click3.uasset" 1512
-"../../../Engine/Content/VREditor/Sounds/VR_click3_Cue.uasset" 1513
-"../../../Engine/Content/VREditor/Sounds/VR_close.uasset" 1514
-"../../../Engine/Content/VREditor/Sounds/VR_close_Cue.uasset" 1515
-"../../../Engine/Content/VREditor/Sounds/VR_confirm.uasset" 1516
-"../../../Engine/Content/VREditor/Sounds/VR_confirm_Cue.uasset" 1517
-"../../../Engine/Content/VREditor/Sounds/VR_grab.uasset" 1518
-"../../../Engine/Content/VREditor/Sounds/VR_grab_Cue.uasset" 1519
-"../../../Engine/Content/VREditor/Sounds/VR_negative.uasset" 1520
-"../../../Engine/Content/VREditor/Sounds/VR_negative_Cue.uasset" 1521
-"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_01.uasset" 1522
-"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_01_Cue.uasset" 1523
-"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_02.uasset" 1524
-"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_02_Cue.uasset" 1525
-"../../../Engine/Content/VREditor/Sounds/VR_object_grabbed_loop.uasset" 1526
-"../../../Engine/Content/VREditor/Sounds/VR_object_grabbed_loop_Cue.uasset" 1527
-"../../../Engine/Content/VREditor/Sounds/VR_open.uasset" 1528
-"../../../Engine/Content/VREditor/Sounds/VR_open_Cue.uasset" 1529
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_01.uasset" 1530
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_01_Cue.uasset" 1531
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_02.uasset" 1532
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_02_Cue.uasset" 1533
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_03.uasset" 1534
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_03_Cue.uasset" 1535
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_04.uasset" 1536
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_04_Cue.uasset" 1537
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_01.uasset" 1538
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_01_Cue.uasset" 1539
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_02.uasset" 1540
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_02_Cue.uasset" 1541
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_03.uasset" 1542
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_03_Cue.uasset" 1543
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_04.uasset" 1544
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_04_Cue.uasset" 1545
-"../../../Engine/Content/VREditor/Sounds/VR_teleport_Cue.uasset" 1546
-"../../../Engine/Content/VREditor/Sounds/VR_ungrab.uasset" 1547
-"../../../Engine/Content/VREditor/Sounds/VR_ungrab_Cue.uasset" 1548
-"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_01.uasset" 1549
-"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_01_Cue.uasset" 1550
-"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_02.uasset" 1551
-"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_02_Cue.uasset" 1552
-"../../../Engine/Content/VREditor/Sounds/UI/Camera_Shutter.uasset" 1553
-"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 1554
-"../../../Engine/Content/VREditor/Sounds/UI/Enter_Play.uasset" 1555
-"../../../Engine/Content/VREditor/Sounds/UI/Enter_Simulate.uasset" 1556
-"../../../Engine/Content/VREditor/Sounds/UI/Flashlight_Switch.uasset" 1557
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close-001.uasset" 1558
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close-002.uasset" 1559
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close.uasset" 1560
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-002.uasset" 1561
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open.uasset" 1562
-"../../../Engine/Content/VREditor/Sounds/UI/Foliage_Placed.uasset" 1563
-"../../../Engine/Content/VREditor/Sounds/UI/Invalid_Action.uasset" 1564
-"../../../Engine/Content/VREditor/Sounds/UI/Laser_Pull.uasset" 1565
-"../../../Engine/Content/VREditor/Sounds/UI/Laser_Push.uasset" 1566
-"../../../Engine/Content/VREditor/Sounds/UI/Leave_Simulate.uasset" 1567
-"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Committed.uasset" 1568
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 1569
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 1570
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandle.uasset" 1571
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Main.uasset" 1572
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 1573
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 1574
-"../../../Engine/Content/VREditor/TransformGizmo/StretchingHandle.uasset" 1575
-"../../../Engine/Content/VREditor/TransformGizmo/TranslateHandleLong.uasset" 1576
-"../../../Engine/Content/VREditor/TransformGizmo/TranslationHandle.uasset" 1577
-"../../../Engine/Content/VREditor/UI/KeyMaterial.uasset" 1578
-"../../../Engine/Content/VREditor/UI/FrameMaterial.uasset" 1579
-"../../../Engine/Content/VT/LightmapVirtualTextureSpace_0_Compressed.uasset" 1580
-"../../../Engine/Content/VT/LightmapVirtualTextureSpace_0_Uncompressed.uasset" 1581
-"../../../Engine/Content/VT/LightmapVirtualTextureSpace_1_Compressed.uasset" 1582
-"../../../Engine/Content/VT/LightmapVirtualTextureSpace_1_Uncompressed.uasset" 1583
-"../../../Engine/Content/VT/LightmapVirtualTextureSpace_2_Compressed.uasset" 1584
-"../../../Engine/Content/VT/LightmapVirtualTextureSpace_2_Uncompressed.uasset" 1585
-"../../../Engine/Content/VT/LightmapVirtualTextureSpace_3_Compressed.uasset" 1586
-"../../../Engine/Content/VT/LightmapVirtualTextureSpace_3_Uncompressed.uasset" 1587
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/TriggerBoxDespawner.uasset" 1588
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/TriggerBox_Blueprint.uasset" 1589
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Images/blueRestart.uasset" 1590
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Images/RestartButton.uasset" 1591
-"../../../Engine/Content/EngineMaterials/EmissiveTexturedMaterial.uasset" 1592
-"../../../Engine/Content/EngineMeshes/ParticleCube.uasset" 1593
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Particles/Ember2.uasset" 1594
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/correct__2_.uasset" 1595
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/xylSweep.uasset" 1596
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/RandomNoises/dumbWhat.uasset" 1597
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/RandomNoises/hey.uasset" 1598
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/RandomNoises/huet.uasset" 1599
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 1439
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 1440
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 1441
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 1442
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 1443
+"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 1444
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 1445
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 1446
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 1447
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 1448
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 1449
+"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 1450
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 1451
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 1452
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 1453
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset" 1454
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset" 1455
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 1456
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 1457
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 1458
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 1459
+"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 1460
+"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 1461
+"../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset" 1462
+"../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset" 1463
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset" 1464
+"../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset" 1465
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 1466
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset" 1467
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset" 1468
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset" 1469
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset" 1470
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 1471
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 1472
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 1473
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset" 1474
+"../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset" 1475
+"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset" 1476
+"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 1477
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset" 1478
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 1479
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 1480
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 1481
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 1482
+"../../../Engine/Content/VREditor/UI/DockButton.uasset" 1483
+"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 1484
+"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 1485
+"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 1486
+"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 1487
+"../../../Engine/Content/VREditor/UI/DiscMaterial.uasset" 1488
+"../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset" 1489
+"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 1490
+"../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset" 1491
+"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 1492
+"../../../Engine/Content/VREditor/VREditorAssetContainerData.uasset" 1493
+"../../../Engine/Content/VREditor/Devices/M_EngineLogo.uasset" 1494
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial_Inst.uasset" 1495
+"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerDiffuse.uasset" 1496
+"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerNormal.uasset" 1497
+"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerMat.uasset" 1498
+"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerMesh.uasset" 1499
+"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerDiffuse.uasset" 1500
+"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerMaterial.uasset" 1501
+"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerMesh.uasset" 1502
+"../../../Engine/Content/VREditor/Devices/Vive/M_ViveControllerTrim.uasset" 1503
+"../../../Engine/Content/VREditor/Devices/Vive/M_ViveControllerTrim_Inst.uasset" 1504
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_Trimlines.uasset" 1505
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial_Inst.uasset" 1506
+"../../../Engine/Content/VREditor/LaserPointer/M_LaserPointer-Core.uasset" 1507
+"../../../Engine/Content/VREditor/LaserPointer/M_LaserPointer-Outer.uasset" 1508
+"../../../Engine/Content/VREditor/Sounds/VR_click1.uasset" 1509
+"../../../Engine/Content/VREditor/Sounds/VR_click1_Cue.uasset" 1510
+"../../../Engine/Content/VREditor/Sounds/VR_click2.uasset" 1511
+"../../../Engine/Content/VREditor/Sounds/VR_click2_Cue.uasset" 1512
+"../../../Engine/Content/VREditor/Sounds/VR_click3.uasset" 1513
+"../../../Engine/Content/VREditor/Sounds/VR_click3_Cue.uasset" 1514
+"../../../Engine/Content/VREditor/Sounds/VR_close.uasset" 1515
+"../../../Engine/Content/VREditor/Sounds/VR_close_Cue.uasset" 1516
+"../../../Engine/Content/VREditor/Sounds/VR_confirm.uasset" 1517
+"../../../Engine/Content/VREditor/Sounds/VR_confirm_Cue.uasset" 1518
+"../../../Engine/Content/VREditor/Sounds/VR_grab.uasset" 1519
+"../../../Engine/Content/VREditor/Sounds/VR_grab_Cue.uasset" 1520
+"../../../Engine/Content/VREditor/Sounds/VR_negative.uasset" 1521
+"../../../Engine/Content/VREditor/Sounds/VR_negative_Cue.uasset" 1522
+"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_01.uasset" 1523
+"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_01_Cue.uasset" 1524
+"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_02.uasset" 1525
+"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_02_Cue.uasset" 1526
+"../../../Engine/Content/VREditor/Sounds/VR_object_grabbed_loop.uasset" 1527
+"../../../Engine/Content/VREditor/Sounds/VR_object_grabbed_loop_Cue.uasset" 1528
+"../../../Engine/Content/VREditor/Sounds/VR_open.uasset" 1529
+"../../../Engine/Content/VREditor/Sounds/VR_open_Cue.uasset" 1530
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_01.uasset" 1531
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_01_Cue.uasset" 1532
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_02.uasset" 1533
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_02_Cue.uasset" 1534
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_03.uasset" 1535
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_03_Cue.uasset" 1536
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_04.uasset" 1537
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_04_Cue.uasset" 1538
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_01.uasset" 1539
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_01_Cue.uasset" 1540
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_02.uasset" 1541
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_02_Cue.uasset" 1542
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_03.uasset" 1543
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_03_Cue.uasset" 1544
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_04.uasset" 1545
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_04_Cue.uasset" 1546
+"../../../Engine/Content/VREditor/Sounds/VR_teleport_Cue.uasset" 1547
+"../../../Engine/Content/VREditor/Sounds/VR_ungrab.uasset" 1548
+"../../../Engine/Content/VREditor/Sounds/VR_ungrab_Cue.uasset" 1549
+"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_01.uasset" 1550
+"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_01_Cue.uasset" 1551
+"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_02.uasset" 1552
+"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_02_Cue.uasset" 1553
+"../../../Engine/Content/VREditor/Sounds/UI/Camera_Shutter.uasset" 1554
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 1555
+"../../../Engine/Content/VREditor/Sounds/UI/Enter_Play.uasset" 1556
+"../../../Engine/Content/VREditor/Sounds/UI/Enter_Simulate.uasset" 1557
+"../../../Engine/Content/VREditor/Sounds/UI/Flashlight_Switch.uasset" 1558
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close-001.uasset" 1559
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close-002.uasset" 1560
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close.uasset" 1561
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-002.uasset" 1562
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open.uasset" 1563
+"../../../Engine/Content/VREditor/Sounds/UI/Foliage_Placed.uasset" 1564
+"../../../Engine/Content/VREditor/Sounds/UI/Invalid_Action.uasset" 1565
+"../../../Engine/Content/VREditor/Sounds/UI/Laser_Pull.uasset" 1566
+"../../../Engine/Content/VREditor/Sounds/UI/Laser_Push.uasset" 1567
+"../../../Engine/Content/VREditor/Sounds/UI/Leave_Simulate.uasset" 1568
+"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Committed.uasset" 1569
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 1570
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 1571
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandle.uasset" 1572
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Main.uasset" 1573
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 1574
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 1575
+"../../../Engine/Content/VREditor/TransformGizmo/StretchingHandle.uasset" 1576
+"../../../Engine/Content/VREditor/TransformGizmo/TranslateHandleLong.uasset" 1577
+"../../../Engine/Content/VREditor/TransformGizmo/TranslationHandle.uasset" 1578
+"../../../Engine/Content/VREditor/UI/KeyMaterial.uasset" 1579
+"../../../Engine/Content/VREditor/UI/FrameMaterial.uasset" 1580
+"../../../Engine/Content/VT/LightmapVirtualTextureSpace_0_Compressed.uasset" 1581
+"../../../Engine/Content/VT/LightmapVirtualTextureSpace_0_Uncompressed.uasset" 1582
+"../../../Engine/Content/VT/LightmapVirtualTextureSpace_1_Compressed.uasset" 1583
+"../../../Engine/Content/VT/LightmapVirtualTextureSpace_1_Uncompressed.uasset" 1584
+"../../../Engine/Content/VT/LightmapVirtualTextureSpace_2_Compressed.uasset" 1585
+"../../../Engine/Content/VT/LightmapVirtualTextureSpace_2_Uncompressed.uasset" 1586
+"../../../Engine/Content/VT/LightmapVirtualTextureSpace_3_Compressed.uasset" 1587
+"../../../Engine/Content/VT/LightmapVirtualTextureSpace_3_Uncompressed.uasset" 1588
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/TriggerBoxDespawner.uasset" 1589
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/TriggerBox_Blueprint.uasset" 1590
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Images/blueRestart.uasset" 1591
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Images/RestartButton.uasset" 1592
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/FireflyLight.uasset" 1593
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/Embers.uasset" 1594
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/Mat_Ribbon.uasset" 1595
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Particles/Ember2.uasset" 1596
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Particles/Embers3.uasset" 1597
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/grow.uasset" 1598
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Steel-Drum-C9.uasset" 1599
 "../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1600
 "../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 1601
 "../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1602
@@ -1745,61 +1745,63 @@
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorStem.uasset" 1744
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 1745
 "../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset" 1746
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/FireflyLight.uasset" 1747
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Particles/Embers3.uasset" 1748
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1749
-"../../../Engine/Content/Maps/Entry.umap" 1750
-"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 1751
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1752
-"../../../Engine/Content/Maps/Templates/Template_Default.umap" 1753
-"../../../Engine/Content/Maps/Templates/VR-Basic_BuiltData.uasset" 1754
-"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 1755
-"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 1756
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 1757
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 1758
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset" 1759
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uasset" 1760
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_02.uasset" 1761
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_02.uasset" 1762
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_03.uasset" 1763
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_03.uasset" 1764
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Pyramid_01.uasset" 1765
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset" 1766
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 1767
-"../../../Engine/Content/Maps/Templates/VR-Basic.umap" 1768
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/SaveGameBP.uasset" 1769
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/TileMat.uasset" 1770
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/BaseMat.uasset" 1771
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/BaseMat_Inst.uasset" 1772
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" 1773
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/Tile.uasset" 1774
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/TileRemainder.uasset" 1775
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Darken.uasset" 1776
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/GradientBackground.uasset" 1777
-"../../../Engine/Content/BasicShapes/Plane.uasset" 1778
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/ButtonStyle.uasset" 1779
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/ButtonText.uasset" 1780
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/Button.uasset" 1781
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/buttonClick.uasset" 1782
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/MenuIn.uasset" 1783
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/switch.uasset" 1784
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/OptionsMenu.uasset" 1785
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/MenuMusic.uasset" 1786
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Possible_theme.uasset" 1787
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Whoosh.uasset" 1788
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameStartMenu.uasset" 1789
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Images/largeRedoButton.uasset" 1790
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Images/largeRedoButton2.uasset" 1791
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameOverMenu.uasset" 1792
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/NewHighScore.uasset" 1793
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/ScoreCounter.uasset" 1794
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/Embers.uasset" 1795
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/GameOverSound.uasset" 1796
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/grow.uasset" 1797
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/note1.uasset" 1798
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/note2.uasset" 1799
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/note3.uasset" 1800
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/snap.uasset" 1801
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/StackSpawner.uasset" 1802
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap_BuiltData.uasset" 1803
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap.umap" 1804
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1747
+"../../../Engine/Content/Maps/Entry.umap" 1748
+"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 1749
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1750
+"../../../Engine/Content/Maps/Templates/Template_Default.umap" 1751
+"../../../Engine/Content/Maps/Templates/VR-Basic_BuiltData.uasset" 1752
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 1753
+"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 1754
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 1755
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 1756
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset" 1757
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uasset" 1758
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_02.uasset" 1759
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_02.uasset" 1760
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_03.uasset" 1761
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_03.uasset" 1762
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Pyramid_01.uasset" 1763
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset" 1764
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 1765
+"../../../Engine/Content/Maps/Templates/VR-Basic.umap" 1766
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/TileMat.uasset" 1767
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/BaseMat.uasset" 1768
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/BaseMat_Inst.uasset" 1769
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" 1770
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/NoPhysicsTile.uasset" 1771
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/SaveGameBP.uasset" 1772
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/Tile.uasset" 1773
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/TileRemainder.uasset" 1774
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Darken.uasset" 1775
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/GradientBackground.uasset" 1776
+"../../../Engine/Content/BasicShapes/Plane.uasset" 1777
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/ButtonStyle.uasset" 1778
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/ButtonText.uasset" 1779
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/Button.uasset" 1780
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/buttonClick.uasset" 1781
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/MenuIn.uasset" 1782
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/switch.uasset" 1783
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/OptionsMenu.uasset" 1784
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/MenuMusic.uasset" 1785
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Possible_theme.uasset" 1786
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Whoosh.uasset" 1787
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameStartMenu.uasset" 1788
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Images/largeRedoButton.uasset" 1789
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Images/largeRedoButton2.uasset" 1790
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameOverMenu.uasset" 1791
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/NewHighScore.uasset" 1792
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/ScoreCounter.uasset" 1793
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 1794
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/Mat_RibbonSource.uasset" 1795
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Particles/RibbonParticles.uasset" 1796
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/GameOverSound.uasset" 1797
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/snap.uasset" 1798
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Steel-Drum-C11.uasset" 1799
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Steel-Drum-C4.uasset" 1800
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Steel-Drum-C5.uasset" 1801
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Steel-Drum-C6.uasset" 1802
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Steel-Drum-C7.uasset" 1803
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/StackSpawner.uasset" 1804
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap_BuiltData.uasset" 1805
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap.umap" 1806
