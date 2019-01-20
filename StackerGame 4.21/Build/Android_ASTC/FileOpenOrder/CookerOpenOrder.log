@@ -46,101 +46,101 @@
 "../../../Engine/Content/BufferVisualization/Specular.uasset" 45
 "../../../Engine/Content/BufferVisualization/SubsurfaceColor.uasset" 46
 "../../../Engine/Content/BufferVisualization/WorldNormal.uasset" 47
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 48
-"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 49
-"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmoHeight_Mat.uasset" 50
-"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat.uasset" 51
-"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat_Copied.uasset" 52
-"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset" 53
-"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 54
-"../../../Engine/Content/EditorMaterials/Cross.uasset" 55
-"../../../Engine/Content/EditorMaterials/Cross_Mat.uasset" 56
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 57
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 58
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 59
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 60
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 61
-"../../../Engine/Content/EditorResources/T_EditorHelp.uasset" 62
-"../../../Engine/Content/EditorMaterials/HelpActorMaterial.uasset" 63
-"../../../Engine/Content/EditorMaterials/CompositeARGBLayer.uasset" 64
-"../../../Engine/Content/EditorMaterials/TilingAALineIntegral.uasset" 65
-"../../../Engine/Content/EditorMaterials/TilingAALineBoxFiltered.uasset" 66
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 67
-"../../../Engine/Content/EditorMaterials/TilingAADots.uasset" 68
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 69
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 70
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 71
-"../../../Engine/Content/EditorMaterials/TilingAAGrid.uasset" 72
-"../../../Engine/Content/EditorMaterials/LevelGridMaterial.uasset" 73
-"../../../Engine/Content/EditorMaterials/MakeCompositeARGBLayer.uasset" 74
-"../../../Engine/Content/EditorResources/LevelGrid1DStripes.uasset" 75
-"../../../Engine/Content/EditorMaterials/TextureGridCascaded1D.uasset" 76
-"../../../Engine/Content/EditorMaterials/TextureGridCascaded2D.uasset" 77
-"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uasset" 78
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 79
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 80
-"../../../Engine/Content/EditorMaterials/AntialiasedGridFloor.uasset" 81
-"../../../Engine/Content/EditorResources/TilePatine_D.uasset" 82
-"../../../Engine/Content/EditorResources/TilePatine_N.uasset" 83
-"../../../Engine/Content/EngineMaterials/Grid.uasset" 84
-"../../../Engine/Content/EditorMaterials/PersonaFloorMat.uasset" 85
-"../../../Engine/Content/EditorMaterials/PhAT_BoneSelectedMaterial.uasset" 86
-"../../../Engine/Content/EditorMaterials/PhAT_ElemSelectedMaterial.uasset" 87
-"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 88
-"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 89
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 90
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 91
-"../../../Engine/Content/EditorMaterials/TargetIcon.uasset" 92
-"../../../Engine/Content/EditorMaterials/Tick.uasset" 93
-"../../../Engine/Content/EditorMaterials/Tick_Mat.uasset" 94
-"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial.uasset" 95
-"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial_Ma.uasset" 96
-"../../../Engine/Content/EditorMaterials/WidgetMaterial.uasset" 97
-"../../../Engine/Content/EditorMaterials/WidgetMaterial_Current.uasset" 98
-"../../../Engine/Content/EditorMaterials/WidgetMaterial_X.uasset" 99
-"../../../Engine/Content/EditorMaterials/WidgetMaterial_Y.uasset" 100
-"../../../Engine/Content/EditorMaterials/WidgetMaterial_Z.uasset" 101
-"../../../Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uasset" 102
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 103
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 104
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 105
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 106
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 107
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 108
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 109
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 110
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 111
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 112
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 113
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 114
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 115
-"../../../Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uasset" 116
-"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 117
-"../../../Engine/Content/EditorMeshes/EditorCylinder.uasset" 118
-"../../../Engine/Content/EditorMeshes/EditorPlane.uasset" 119
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 120
-"../../../Engine/Content/EditorMeshes/EditorSkySphere.uasset" 121
-"../../../Engine/Content/EditorMeshes/EditorSphere.uasset" 122
-"../../../Engine/Content/EditorResources/MatineeCam_D.uasset" 123
-"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset" 124
-"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uasset" 125
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 126
-"../../../Engine/Content/EditorMaterials/GridMaterial.uasset" 127
-"../../../Engine/Content/EditorMeshes/PhAT_FloorBox.uasset" 128
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 129
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uasset" 130
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset" 131
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CamViewFinder.uasset" 132
-"../../../Engine/Content/EditorMeshes/Camera/SM_CineCam.uasset" 133
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 134
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 135
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 136
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 137
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 138
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 139
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 140
-"../../../Engine/Content/EditorResources/Bad.uasset" 141
-"../../../Engine/Content/EditorResources/BadBlueprintSprite.uasset" 142
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 48
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 49
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 50
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmoHeight_Mat.uasset" 51
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat.uasset" 52
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat_Copied.uasset" 53
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset" 54
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 55
+"../../../Engine/Content/EditorMaterials/Cross.uasset" 56
+"../../../Engine/Content/EditorMaterials/Cross_Mat.uasset" 57
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 58
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 59
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 60
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 61
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 62
+"../../../Engine/Content/EditorResources/T_EditorHelp.uasset" 63
+"../../../Engine/Content/EditorMaterials/HelpActorMaterial.uasset" 64
+"../../../Engine/Content/EditorMaterials/CompositeARGBLayer.uasset" 65
+"../../../Engine/Content/EditorMaterials/TilingAALineIntegral.uasset" 66
+"../../../Engine/Content/EditorMaterials/TilingAALineBoxFiltered.uasset" 67
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 68
+"../../../Engine/Content/EditorMaterials/TilingAADots.uasset" 69
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 70
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 71
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 72
+"../../../Engine/Content/EditorMaterials/TilingAAGrid.uasset" 73
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial.uasset" 74
+"../../../Engine/Content/EditorMaterials/MakeCompositeARGBLayer.uasset" 75
+"../../../Engine/Content/EditorResources/LevelGrid1DStripes.uasset" 76
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded1D.uasset" 77
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded2D.uasset" 78
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uasset" 79
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 80
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 81
+"../../../Engine/Content/EditorMaterials/AntialiasedGridFloor.uasset" 82
+"../../../Engine/Content/EditorResources/TilePatine_D.uasset" 83
+"../../../Engine/Content/EditorResources/TilePatine_N.uasset" 84
+"../../../Engine/Content/EngineMaterials/Grid.uasset" 85
+"../../../Engine/Content/EditorMaterials/PersonaFloorMat.uasset" 86
+"../../../Engine/Content/EditorMaterials/PhAT_BoneSelectedMaterial.uasset" 87
+"../../../Engine/Content/EditorMaterials/PhAT_ElemSelectedMaterial.uasset" 88
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 89
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 90
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 91
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 92
+"../../../Engine/Content/EditorMaterials/TargetIcon.uasset" 93
+"../../../Engine/Content/EditorMaterials/Tick.uasset" 94
+"../../../Engine/Content/EditorMaterials/Tick_Mat.uasset" 95
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial.uasset" 96
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial_Ma.uasset" 97
+"../../../Engine/Content/EditorMaterials/WidgetMaterial.uasset" 98
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Current.uasset" 99
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_X.uasset" 100
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Y.uasset" 101
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Z.uasset" 102
+"../../../Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uasset" 103
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 104
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 105
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 106
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 107
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 108
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 109
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 110
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 111
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 112
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 113
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 114
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 115
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 116
+"../../../Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uasset" 117
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 118
+"../../../Engine/Content/EditorMeshes/EditorCylinder.uasset" 119
+"../../../Engine/Content/EditorMeshes/EditorPlane.uasset" 120
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 121
+"../../../Engine/Content/EditorMeshes/EditorSkySphere.uasset" 122
+"../../../Engine/Content/EditorMeshes/EditorSphere.uasset" 123
+"../../../Engine/Content/EditorResources/MatineeCam_D.uasset" 124
+"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset" 125
+"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uasset" 126
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 127
+"../../../Engine/Content/EditorMaterials/GridMaterial.uasset" 128
+"../../../Engine/Content/EditorMeshes/PhAT_FloorBox.uasset" 129
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 130
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uasset" 131
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset" 132
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CamViewFinder.uasset" 133
+"../../../Engine/Content/EditorMeshes/Camera/SM_CineCam.uasset" 134
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 135
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 136
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 137
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 138
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 139
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 140
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 141
+"../../../Engine/Content/EditorResources/Bad.uasset" 142
 "../../../Engine/Content/EditorResources/BSPVertex.uasset" 143
 "../../../Engine/Content/EditorResources/EmptyActor.uasset" 144
 "../../../Engine/Content/EditorResources/MatInstActSprite.uasset" 145
@@ -293,122 +293,108 @@
 "../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 292
 "../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 293
 "../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 294
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/CameraActor_64x.uasset" 295
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 296
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 297
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 298
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 299
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 300
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Class.uasset" 301
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 302
-"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 303
-"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 304
-"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/android_Icon.uasset" 305
-"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/IOS.uasset" 306
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 307
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 308
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 309
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 310
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 311
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 312
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 313
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 314
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 315
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 316
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 317
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 318
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 319
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 320
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 321
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 322
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 323
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 324
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 325
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 326
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 327
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 328
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 329
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 330
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 331
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfActor.uasset" 332
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfSwitch.uasset" 333
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 334
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 335
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 336
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 337
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenAnimationTrackType.uasset" 338
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackComponent.uasset" 339
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackType.uasset" 340
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveComponent.uasset" 341
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveType.uasset" 342
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchType.uasset" 343
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchType.uasset" 344
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantType.uasset" 345
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 346
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 347
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 348
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 349
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 350
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 351
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 352
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 353
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 354
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 355
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 356
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 357
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 358
-"../../../Engine/Content/Maps/Entry.umap" 359
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/TileMat.uasset" 360
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/BaseMat.uasset" 361
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/BaseMat_Inst.uasset" 362
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" 363
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/NoPhysicsTile.uasset" 364
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/SaveGameBP.uasset" 365
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/Tile.uasset" 366
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/TileRemainder.uasset" 367
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 368
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Darken.uasset" 369
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/GradientBackground.uasset" 370
-"../../../Engine/Content/BasicShapes/Plane.uasset" 371
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/ButtonStyle.uasset" 372
-"../../../Engine/Content/EngineFonts/Faces/DroidSansMono.uasset" 373
-"../../../Engine/Content/EngineFonts/DroidSansMono.uasset" 374
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/ButtonText.uasset" 375
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/Button.uasset" 376
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/buttonClick.uasset" 377
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/MenuIn.uasset" 378
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/switch.uasset" 379
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/OptionsMenu.uasset" 380
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/MenuMusic.uasset" 381
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Possible_theme.uasset" 382
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Whoosh.uasset" 383
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameStartMenu.uasset" 384
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Images/largeRedoButton.uasset" 385
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Images/largeRedoButton2.uasset" 386
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameOverMenu.uasset" 387
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/NewHighScore.uasset" 388
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/ScoreCounter.uasset" 389
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 390
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 391
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/Mat_RibbonSource.uasset" 392
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Particles/RibbonParticles.uasset" 393
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/GameOverSound.uasset" 394
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/snap.uasset" 395
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Steel-Drum-C11.uasset" 396
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Steel-Drum-C4.uasset" 397
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Steel-Drum-C5.uasset" 398
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Steel-Drum-C6.uasset" 399
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Steel-Drum-C7.uasset" 400
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/StackSpawner.uasset" 401
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/TriggerBoxDespawner.uasset" 402
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 403
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 404
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 405
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 406
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 407
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 408
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 409
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 410
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 411
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap_BuiltData.uasset" 412
-"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap.umap" 413
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 295
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 296
+"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/android_Icon.uasset" 297
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 298
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 299
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 300
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 301
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 302
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 303
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 304
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 305
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 306
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 307
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 308
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 309
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 310
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 311
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 312
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 313
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 314
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 315
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 316
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 317
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfActor.uasset" 318
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfSwitch.uasset" 319
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 320
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 321
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 322
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 323
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenAnimationTrackType.uasset" 324
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackComponent.uasset" 325
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackType.uasset" 326
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveComponent.uasset" 327
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveType.uasset" 328
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchType.uasset" 329
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchType.uasset" 330
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantType.uasset" 331
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 332
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 333
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 334
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 335
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 336
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 337
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 338
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 339
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 340
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 341
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 342
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 343
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 344
+"../../../Engine/Content/Maps/Entry.umap" 345
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/TileMat.uasset" 346
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/BaseMat.uasset" 347
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/BaseMat_Inst.uasset" 348
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Meshes/block.uasset" 349
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/NoPhysicsTile.uasset" 350
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/SaveGameBP.uasset" 351
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/Tile.uasset" 352
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/TileRemainder.uasset" 353
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 354
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Darken.uasset" 355
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/GradientBackground.uasset" 356
+"../../../Engine/Content/BasicShapes/Plane.uasset" 357
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/ButtonStyle.uasset" 358
+"../../../Engine/Content/EngineFonts/Faces/DroidSansMono.uasset" 359
+"../../../Engine/Content/EngineFonts/DroidSansMono.uasset" 360
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/ButtonText.uasset" 361
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/Button.uasset" 362
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/buttonClick.uasset" 363
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/MenuIn.uasset" 364
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/switch.uasset" 365
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/OptionsMenu.uasset" 366
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/MenuMusic.uasset" 367
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Possible_theme.uasset" 368
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Whoosh.uasset" 369
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameStartMenu.uasset" 370
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Images/largeRedoButton.uasset" 371
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Images/largeRedoButton2.uasset" 372
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/GameOverMenu.uasset" 373
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/NewHighScore.uasset" 374
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/ScoreCounter.uasset" 375
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 376
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 377
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Materials/Mat_RibbonSource.uasset" 378
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Particles/RibbonParticles.uasset" 379
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/GameOverSound.uasset" 380
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/snap.uasset" 381
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Steel-Drum-C11.uasset" 382
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Steel-Drum-C4.uasset" 383
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Steel-Drum-C5.uasset" 384
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Steel-Drum-C6.uasset" 385
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Sounds/Steel-Drum-C7.uasset" 386
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/StackSpawner.uasset" 387
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Blueprints/TriggerBoxDespawner.uasset" 388
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 389
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 390
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 391
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 392
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 393
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 394
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 395
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 396
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 397
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap_BuiltData.uasset" 398
+"../../../../../../Users/nope/Desktop/GitRepos/UnrealStack/StackerGame 4.21/Content/Maps/StackMap.umap" 399
