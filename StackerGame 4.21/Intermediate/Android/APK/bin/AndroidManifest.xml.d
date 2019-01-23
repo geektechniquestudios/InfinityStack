@@ -1,2 +1,2 @@
-Y:\bin\AndroidManifest.xml : \
-Y:\AndroidManifest.xml \
+Z:\bin\AndroidManifest.xml : \
+Z:\AndroidManifest.xml \
